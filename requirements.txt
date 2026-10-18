@@ -1,0 +1,4 @@
+# Python dependencies for the optional figure-inspection and math-rendering tools.
+PyMuPDF
+Pillow
+matplotlib

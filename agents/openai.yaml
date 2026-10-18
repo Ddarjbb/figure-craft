@@ -1,0 +1,6 @@
+interface:
+  display_name: "FigureCraft"
+  short_description: "论文矢量插图：衬线公式、会议规范、反防御性表达与反小字声明"
+  default_prompt: "使用 $figure-craft 绘制或修改论文插图，按目标版式交付可编辑 SVG、矢量 PDF 和公式源文件。"
+policy:
+  allow_implicit_invocation: true

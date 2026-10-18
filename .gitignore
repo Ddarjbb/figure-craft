@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.playwright-cli/
+math_demo/
+*.aux
+*.log
+*.out
+*.synctex.gz
+.DS_Store
+Thumbs.db
