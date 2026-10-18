@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-40 -40 80 80">
+ <title>Comparison rounding graphs</title>
+ <desc>Graphs of the result, ''y'', of rounding ''x'' using different methods, by CMG Lee. For clarity, the graphs are shown displaced from the ''y'' axis. Hover over a method to highlight it and, in SMIL-enabled browsers, click to select or deselect it.</desc>
+ <style type="text/css">
+  #main         { font-family:Helvetica,Arial,sans-serif; font-size:4px; text-anchor:start;
+                  stroke-opacity:1;   fill-opacity:1; stroke:none; fill:none; }
+  .nofade       { stroke-opacity:1;   fill-opacity:1; }
+  #object01     { stroke:#0000ff; fill:#0000ff; stroke-dasharray:2.8,0.2;                             }
+  #object02     { stroke:#cc0000; fill:#cc0000; stroke-dasharray:2.1,0.2;                             }
+  #object03     { stroke:#009900; fill:#009900; stroke-dasharray:1.05,0.2;                            }
+  #object04     { stroke:#000000; fill:#000000; stroke-dasharray:0.3,0.2;                             }
+  #object05     { stroke:#6699ff; fill:#6699ff; stroke-dasharray:1,0.2,0.2,0.2,1,0.2;                 }
+  #object06     { stroke:#ff6666; fill:#ff6666; stroke-dasharray:1,0.2,1,0.2,0.2,0.2,0.2,0.2;         }
+  #object07     { stroke:#00cc00; fill:#00cc00; stroke-dasharray:1,0.2,0.2,0.2,0.2,0.2,1,0.2,0.2,0.2; }
+  #object08     { stroke:#666666; fill:#666666; stroke-dasharray:1,0.2,0.2,0.2,0.2,0.2;               }
+  #object09     { stroke:#cc00ff; fill:#cc00ff; stroke-dasharray:1,0.2,0.2,0.2;                       }
+  #object10     { stroke:#ff9900; fill:#ff9900;                                                       }
+
+
+
+
+  /* Styles for interactivity: */
+  #main:hover   { stroke-opacity:0.1; fill-opacity:0.1; }
+  .base         { cursor:default; cursor:-webkit-grab; cursor:grab; }
+  .base:hover   { stroke-opacity:0.8; fill-opacity:0.8; }
+  .active:hover { stroke-opacity:1;   fill-opacity:1; }
+  .active       { stroke-opacity:0.9; fill-opacity:0.9; visibility:visible;
+                  cursor:-webkit-grabbing; cursor:grabbing; }
+ </style>
+ <defs>
+  <pattern id="pattern_grid_1" patternUnits="userSpaceOnUse" width="5" height="10">
+   <rect x="0" y="0" width="9999" height="9999" stroke="#cccccc" stroke-width="0.3" fill="none"/>
+  </pattern>
+  <pattern id="pattern_grid_5" patternUnits="userSpaceOnUse" width="10" height="10">
+   <rect x="0" y="0" width="9999" height="9999" stroke="#999999" stroke-width="0.5" fill="url(#pattern_grid_1)"/>
+  </pattern>
+  <clipPath id="clip_grid"><use xlink:href="#grid"/></clipPath>
+  <path id="axis" d="M 0,40 V -40 m -1,4 l 1,-4 l 1,4" stroke-width="0.5" stroke="#000000"/>
+  <circle id="closed" cx="0" cy="0" r="0.8" stroke-width="0.3" stroke-dasharray="9999,1"/>
+  <use id="open" xlink:href="#closed" fill="#ffffff"/>
+  <path id="bar" d="M 0.7,0 H 9.3" stroke-width="0.8"/>
+  <g id="interval_open_closed">
+   <use xlink:href="#bar"/>
+   <use xlink:href="#open" transform="translate(10,0)"/>
+   <use xlink:href="#closed"/>
+  </g>
+  <g id="interval_open_open">
+   <use xlink:href="#bar"/>
+   <use xlink:href="#open" transform="translate(10,0)"/>
+   <use xlink:href="#open"/>
+  </g>
+  <g id="interval_closed_closed">
+   <use xlink:href="#bar"/>
+   <use xlink:href="#closed" transform="translate(10,0)"/>
+   <use xlink:href="#closed"/>
+  </g>
+  <g id="labels" text-anchor="middle" fill="#000000">
+   <text x="-30" y="4.5">-3</text>
+   <text x="-20" y="4.5">-2</text>
+   <text x="-10" y="4.5">-1</text>
+   <text x="10"  y="4.5" >1</text>
+   <text x="20"  y="4.5" >2</text>
+   <text x="30"  y="4.5" >3</text>
+   <text x="38"  y="4.5" font-style="italic">x</text>
+   <text x="-4"  y="-37" font-style="italic">y</text>
+   <text x="-4"  y="-28">3</text>
+   <text x="-4"  y="-18">2</text>
+   <text x="-4"  y="-8" >1</text>
+   <text x="4"   y="12">-1</text>
+   <text x="4"   y="22">-2</text>
+   <text x="4"   y="32">-3</text>
+  </g>
+  <!-- Which objects are in which groups are specified in
+       1. Event-handlers
+       2. Group SVG groups in main -->
+  <!-- Each object defined as an "object" SVG group: -->
+  <g id="object01" transform="translate(0,-3.6)">
+   <text x="22" y="14.6" stroke="none" fill="#000000">Round</text>
+   <text x="22" y="17.6" stroke="none" fill="#000000">down</text>
+   <use xlink:href="#interval_open_closed"   transform="translate( 10, 14.6)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 40,-40)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 30,-30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 20,-20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 10,-10)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(  0,  0)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-10, 10)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-20, 20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-30, 30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-40, 40)"/>
+  </g>
+  <g id="object02" transform="translate(0,-2.8)">
+   <text x="22" y="21.8" stroke="none" fill="#000000">Round</text>
+   <text x="22" y="24.8" stroke="none" fill="#000000">up</text>
+   <use xlink:href="#interval_open_closed"   transform="translate( 20, 21.8) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 40,-40)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 30,-30)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 20,-20)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 10,-10)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(  0,  0)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-10, 10)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-20, 20)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-30, 30)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-40, 40)   scale(-1)"/>
+  </g>
+  <g id="object03" transform="translate(0,-2)">
+   <text x="22" y="29" stroke="none" fill="#000000">Round</text>
+   <text x="22" y="32" stroke="none" fill="#000000">&#8594; zero</text>
+   <use xlink:href="#interval_open_closed"   transform="translate( 10, 29)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 40,-40)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 30,-30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 20,-20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 10,-10)"/>
+   <path d="M -10,0 H 10" stroke-width="0.8"/>
+   <use xlink:href="#open"                   transform="translate(-10,  0)"/>
+   <use xlink:href="#open"                   transform="translate( 10,  0)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-10, 10) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-20, 20) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-30, 30) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-40, 40) scale(-1)"/>
+  </g>
+  <g id="object04" transform="translate(0,-1.2)">
+   <text x="22" y="35.2" stroke="none" fill="#000000">Round</text>
+   <text x="22" y="38.7" stroke="none" fill="#000000">&#8594; infinity</text>
+   <use xlink:href="#interval_open_closed"   transform="translate( 20, 35.2) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 40,-40) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 30,-30) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 20,-20) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 10,-10) scale(-1)"/>
+   <use xlink:href="#closed"                 transform="translate(  0,  0)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-10, 10)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-20, 20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-30, 30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-40, 40)"/>
+  </g>
+  <g id="object05" transform="translate(0,-0.4)">
+   <text x="-26" y="-30.6" stroke="none" fill="#000000">downward</text>
+   <use xlink:href="#interval_open_closed"   transform="translate(-28,-31.6) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 45,-40) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 35,-30) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 25,-20) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 15,-10) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(  5,  0) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( -5, 10) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-15, 20) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-25, 30) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-35, 40) scale(-1)"/>
+  </g>
+  <g id="object06" transform="translate(0,0.4)">
+   <text x="-26" y="-26.4" stroke="none" fill="#000000">upward</text>
+   <use xlink:href="#interval_open_closed"   transform="translate(-38,-27.4)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 35,-40)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 25,-30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 15,-20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(  5,-10)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( -5,  0)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-15, 10)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-25, 20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-35, 30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-45, 40)"/>
+  </g>
+  <g id="object07" transform="translate(0,1.2)">
+   <text x="-26" y="-22.2" stroke="none" fill="#000000">&#8594; zero</text>
+   <use xlink:href="#interval_open_closed"   transform="translate(-28,-23.2) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 45,-40)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 35,-30)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 25,-20)   scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 15,-10)   scale(-1)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate( -5,  0)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-15, 10)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-25, 20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-35, 30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-45, 40)"/>
+  </g>
+  <g id="object08" transform="translate(0,2)">
+   <text x="-26" y="-18" stroke="none" fill="#000000">&#8594; infinity</text>
+   <use xlink:href="#interval_open_closed"   transform="translate(-38,-19)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 35,-40)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 25,-30)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( 15,-20)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(  5,-10)"/>
+   <use xlink:href="#interval_open_open"     transform="translate( -5,  0)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate( -5, 10) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-15, 20) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-25, 30) scale(-1)"/>
+   <use xlink:href="#interval_open_closed"   transform="translate(-35, 40) scale(-1)"/>
+  </g>
+  <g id="object09" transform="translate(0,2.8)">
+   <text x="-26" y="-13.8" stroke="none" fill="#000000">&#8594; even</text>
+   <use xlink:href="#interval_closed_closed" transform="translate(-38,-14.8)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate( 35,-40)"/>
+   <use xlink:href="#interval_open_open"     transform="translate( 25,-30)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate( 15,-20)"/>
+   <use xlink:href="#interval_open_open"     transform="translate(  5,-10)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate( -5,  0)"/>
+   <use xlink:href="#interval_open_open"     transform="translate(-15, 10)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate(-25, 20)"/>
+   <use xlink:href="#interval_open_open"     transform="translate(-35, 30)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate(-45, 40)"/>
+  </g>
+  <g id="object10" transform="translate(0,3.6)">
+   <text x="-26" y="-9.6" stroke="none" fill="#000000">&#8594; odd</text>
+   <use xlink:href="#interval_open_open"     transform="translate(-38,-10.6)"/>
+   <use xlink:href="#interval_open_open"     transform="translate( 35,-40)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate( 25,-30)"/>
+   <use xlink:href="#interval_open_open"     transform="translate( 15,-20)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate(  5,-10)"/>
+   <use xlink:href="#interval_open_open"     transform="translate( -5,  0)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate(-15, 10)"/>
+   <use xlink:href="#interval_open_open"     transform="translate(-25, 20)"/>
+   <use xlink:href="#interval_closed_closed" transform="translate(-35, 30)"/>
+   <use xlink:href="#interval_open_open"     transform="translate(-45, 40)"/>
+  </g>
+  <!-- Each group defined as a "group" SVG group: -->
+  <g id="group01"><text x="-38" y="-36" fill="#000000">Round nearest</text></g>
+  <!-- Event-handlers to link clicks to the state of active parts: -->
+  <set xlink:href="#object01a" attributeName="class" to="active" begin="object01b.click"                end="object01a.click"/>
+  <set xlink:href="#object02a" attributeName="class" to="active" begin="object02b.click"                end="object02a.click"/>
+  <set xlink:href="#object03a" attributeName="class" to="active" begin="object03b.click"                end="object03a.click"/>
+  <set xlink:href="#object04a" attributeName="class" to="active" begin="object04b.click"                end="object04a.click"/>
+  <set xlink:href="#object05a" attributeName="class" to="active" begin="object05b.click;group01b.click" end="object05a.click"/>
+  <set xlink:href="#object06a" attributeName="class" to="active" begin="object06b.click;group01b.click" end="object06a.click"/>
+  <set xlink:href="#object07a" attributeName="class" to="active" begin="object07b.click;group01b.click" end="object07a.click"/>
+  <set xlink:href="#object08a" attributeName="class" to="active" begin="object08b.click;group01b.click" end="object08a.click"/>
+  <set xlink:href="#object09a" attributeName="class" to="active" begin="object09b.click;group01b.click" end="object09a.click"/>
+  <set xlink:href="#object10a" attributeName="class" to="active" begin="object10b.click;group01b.click" end="object10a.click"/>
+ </defs>
+
+ <circle cx="0" cy="0" r="99999" fill="#ffffff"/>
+ <!-- Start of "program": -->
+ <g id="main">
+  <!-- Static elements: -->
+  <g class="nofade">
+   <rect x="-40" y="-40" width="80" height="80" fill="url(#pattern_grid_5)"/>
+   <rect x="-39.5" y="-39.5" width="33"   height="34.5" rx="1" ry="1" stroke-width="0.2" stroke="#000000" fill="#ffffff"/>
+   <rect x="7"     y="7"     width="32.5" height="32.5" rx="1" ry="1" stroke-width="0.2" stroke="#000000" fill="#ffffff"/>
+   <use xlink:href="#axis"/>
+   <use xlink:href="#axis" transform="rotate(90)"/>
+   <use xlink:href="#labels" stroke="#ffffff" stroke-width="0.5"/>
+   <use xlink:href="#labels"/>
+  </g>
+  <!-- Ungrouped: -->
+  <g><use id="object01b" class="base" xlink:href="#object01"/><use id="object01a" visibility="hidden" xlink:href="#object01"/><title>Round down</title></g>
+  <g><use id="object02b" class="base" xlink:href="#object02"/><use id="object02a" visibility="hidden" xlink:href="#object02"/><title>Round up</title></g>
+  <g><use id="object03b" class="base" xlink:href="#object03"/><use id="object03a" visibility="hidden" xlink:href="#object03"/><title>Round towards zero</title></g>
+  <g><use id="object04b" class="base" xlink:href="#object04"/><use id="object04a" visibility="hidden" xlink:href="#object04"/><title>Round towards infinity</title></g>
+  <!-- Group 01: -->
+  <g><g id="group01b" class="base">
+   <use xlink:href="#object05"/>
+   <use xlink:href="#object06"/>
+   <use xlink:href="#object07"/>
+   <use xlink:href="#object08"/>
+   <use xlink:href="#object09"/>
+   <use xlink:href="#object10"/>
+   <use xlink:href="#group01"/></g>                           <use id="group01a"  visibility="hidden" xlink:href="#group01" /><title>Round to nearest integer</title></g>
+  <g><use id="object05b" class="base" xlink:href="#object05"/><use id="object05a" visibility="hidden" xlink:href="#object05"/><title>Round to nearest integer downward</title></g>
+  <g><use id="object06b" class="base" xlink:href="#object06"/><use id="object06a" visibility="hidden" xlink:href="#object06"/><title>Round to nearest integer upward</title></g>
+  <g><use id="object07b" class="base" xlink:href="#object07"/><use id="object07a" visibility="hidden" xlink:href="#object07"/><title>Round to nearest integer towards zero</title></g>
+  <g><use id="object08b" class="base" xlink:href="#object08"/><use id="object08a" visibility="hidden" xlink:href="#object08"/><title>Round to nearest integer towards infinity</title></g>
+  <g><use id="object09b" class="base" xlink:href="#object09"/><use id="object09a" visibility="hidden" xlink:href="#object09"/><title>Round to nearest integer towards even</title></g>
+  <g><use id="object10b" class="base" xlink:href="#object10"/><use id="object10a" visibility="hidden" xlink:href="#object10"/><title>Round to nearest integer towards odd</title></g>
+ </g>
+</svg>

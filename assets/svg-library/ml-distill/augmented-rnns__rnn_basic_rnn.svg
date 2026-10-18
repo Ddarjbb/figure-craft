@@ -1,0 +1,139 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 648 144">
+  <defs>
+    <symbol id="rnn-bg" data-name="rnn-bg" viewBox="0 0 49.5 49.5">
+      <rect x="0.75" y="0.75" width="48" height="48" rx="6" ry="6" fill="#fff" fill-opacity="0.8" stroke="#666" stroke-width="1.5"/>
+    </symbol>
+    <symbol id="rnn-a" data-name="rnn-a" viewBox="0 0 49.5 49.5">
+      <use id="rnn-bg-3" data-name="rnn-bg" width="49.5" height="49.5" xlink:href="#rnn-bg"/>
+      <path d="M29.77,31.75l-1.93-4.94H21.6l-1.91,4.94H17.86L24,16.14h1.52l6.11,15.61H29.77Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z" fill="#666"/>
+    </symbol>
+  </defs>
+  <title>rnn</title>
+  <g id="_Group_" data-name="&lt;Group&gt;">
+    <rect x="0.06" y="29.93" width="599.94" height="72" rx="10" ry="10" fill="#f0f0f5"/>
+    <g opacity="0.1">
+      <rect x="0.06" y="29.93" width="599.94" height="72" rx="10" ry="10" fill="none" stroke="#667780"/>
+    </g>
+  </g>
+  <g id="_Group_2" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <rect x="13.67" y="43.93" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="13.67" y="43.93" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M42.69,74.93L40.75,70H34.52l-1.91,4.94H30.78l6.14-15.61h1.52l6.11,15.61H42.69Zm-2.5-6.57-1.81-4.82Q38,62.63,37.66,61.3A20.34,20.34,0,0,1,37,63.55l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(11.92 41.18)" xlink:href="#rnn-a"/>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <rect x="145.67" y="43.93" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="145.67" y="43.93" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M174.69,74.93L172.75,70h-6.23l-1.91,4.94h-1.83l6.14-15.61h1.52l6.11,15.61h-1.87Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(143.92 41.18)" xlink:href="#rnn-a"/>
+  </g>
+  <g id="_Group_3" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <rect x="277.67" y="43.93" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="277.67" y="43.93" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M306.69,74.93L304.75,70h-6.23l-1.91,4.94h-1.83l6.14-15.61h1.52l6.11,15.61h-1.87Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(275.92 41.18)" xlink:href="#rnn-a"/>
+  </g>
+  <g id="_Group_4" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <rect x="409.67" y="43.93" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="409.67" y="43.93" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M438.69,74.93L436.75,70h-6.23l-1.91,4.94h-1.83l6.14-15.61h1.52l6.11,15.61h-1.87Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(407.92 41.18)" xlink:href="#rnn-a"/>
+  </g>
+  <g id="_Group_5" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <rect x="540.92" y="43.93" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="540.92" y="43.93" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M569.94,74.93L568,70h-6.23l-1.91,4.94H558l6.14-15.61h1.52l6.11,15.61h-1.87Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(539.17 41.18)" xlink:href="#rnn-a"/>
+  </g>
+  <text transform="translate(17.55 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">x0</text>
+  <text transform="translate(41.68 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">y0</text>
+  <text transform="translate(149.55 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">x1</text>
+  <text transform="translate(173.68 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">y1</text>
+  <text transform="translate(281.55 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">x2</text>
+  <text transform="translate(305.68 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">y2</text>
+  <text transform="translate(413.55 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">x3</text>
+  <text transform="translate(437.68 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">y3</text>
+  <g opacity="0.6">
+    <text transform="translate(8.32 17.93)" font-size="13" font-family="Open Sans">One cell...</text>
+  </g>
+  <g opacity="0.6">
+    <text transform="translate(113.13 17.93)" font-size="13" font-family="Open Sans">can be used over...</text>
+  </g>
+  <g opacity="0.6">
+    <text transform="translate(269.97 17.93)" font-size="13" font-family="Open Sans">and over...</text>
+  </g>
+  <g opacity="0.6">
+    <text transform="translate(401.97 17.93)" font-size="13" font-family="Open Sans">and over...</text>
+  </g>
+  <g>
+    <line x1="60.67" y1="66.43" x2="133.24" y2="66.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M138.67,66.43A27.2,27.2,0,0,0,131,70.71l1.55-4.28L131,62.15A27.18,27.18,0,0,0,138.67,66.43Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="24.67" y1="113.93" x2="24.67" y2="100.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M24.67,95A27.2,27.2,0,0,0,29,102.69l-4.28-1.55-4.28,1.55A27.18,27.18,0,0,0,24.67,95Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="49.67" y1="89.43" x2="49.67" y2="108.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M49.67,113.93a27.2,27.2,0,0,0-4.28-7.69l4.28,1.55L54,106.24A27.18,27.18,0,0,0,49.67,113.93Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="156.67" y1="113.93" x2="156.67" y2="100.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M156.67,95a27.2,27.2,0,0,0,4.28,7.69l-4.28-1.55-4.28,1.55A27.18,27.18,0,0,0,156.67,95Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="181.67" y1="89.43" x2="181.67" y2="108.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M181.67,113.93a27.2,27.2,0,0,0-4.28-7.69l4.28,1.55,4.28-1.55A27.18,27.18,0,0,0,181.67,113.93Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="289.67" y1="113.93" x2="289.67" y2="100.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M289.67,95a27.2,27.2,0,0,0,4.28,7.69l-4.28-1.55-4.28,1.55A27.18,27.18,0,0,0,289.67,95Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="312.67" y1="89.43" x2="312.67" y2="108.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M312.67,113.93a27.2,27.2,0,0,0-4.28-7.69l4.28,1.55,4.28-1.55A27.18,27.18,0,0,0,312.67,113.93Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="420.67" y1="113.93" x2="420.67" y2="100.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M420.67,95a27.2,27.2,0,0,0,4.28,7.69l-4.28-1.55-4.28,1.55A27.18,27.18,0,0,0,420.67,95Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="444.67" y1="89.43" x2="444.67" y2="108.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M444.67,113.93a27.2,27.2,0,0,0-4.28-7.69l4.28,1.55,4.28-1.55A27.18,27.18,0,0,0,444.67,113.93Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="192.67" y1="66.43" x2="265.24" y2="66.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M270.67,66.43A27.2,27.2,0,0,0,263,70.71l1.55-4.28L263,62.15A27.18,27.18,0,0,0,270.67,66.43Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="324.67" y1="66.43" x2="397.24" y2="66.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M402.67,66.43A27.2,27.2,0,0,0,395,70.71l1.55-4.28L395,62.15A27.18,27.18,0,0,0,402.67,66.43Z" fill="#666"/>
+  </g>
+  <text transform="translate(544.8 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">x4</text>
+  <text transform="translate(568.93 129.93)" opacity="0.6" font-size="13" font-family="Open Sans">y4</text>
+  <g opacity="0.6">
+    <text transform="translate(547.02 17.93)" font-size="13" font-family="Open Sans">again.</text>
+  </g>
+  <g>
+    <line x1="551.92" y1="113.93" x2="551.92" y2="100.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M551.92,95a27.2,27.2,0,0,0,4.28,7.69l-4.28-1.55-4.28,1.55A27.18,27.18,0,0,0,551.92,95Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="575.92" y1="89.43" x2="575.92" y2="108.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M575.92,113.93a27.2,27.2,0,0,0-4.28-7.69l4.28,1.55,4.28-1.55A27.18,27.18,0,0,0,575.92,113.93Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="455.92" y1="66.43" x2="528.49" y2="66.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M533.92,66.43a27.2,27.2,0,0,0-7.69,4.28l1.55-4.28-1.55-4.28A27.18,27.18,0,0,0,533.92,66.43Z" fill="#666"/>
+  </g>
+</svg>

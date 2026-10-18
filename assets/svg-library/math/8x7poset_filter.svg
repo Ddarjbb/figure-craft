@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="711pt"
+   height="311pt" >
+
+   <g style="stroke:#000000" >
+      <path d="M  10, 10 L 310,310" />
+      <path d="M 110, 10 L 410,310" />
+      <path d="M 210, 10 L 510,310" />
+      <path d="M 310, 10 L 610,310" />
+      <path d="M 410, 10 L 710,310" />
+      <path d="M 510, 10 L 710,210" />
+      <path d="M 610, 10 L 710,110" />
+
+      <path d="M  10,110 L 210,310" />
+      <path d="M  10,210 L 110,310" />
+
+      <path d="M  10,110 L 110,10" />
+      <path d="M  10,210 L 210,10" />
+      <path d="M  10,310 L 310,10" />
+      <path d="M 110,310 L 410,10" />
+
+      <path d="M 210,310 L 510, 10" />
+      <path d="M 310,310 L 610, 10" />
+      <path d="M 410,310 L 710, 10" />
+      <path d="M 510,310 L 710,110" />
+      <path d="M 610,310 L 710,210" />
+   </g>
+   <g style="fill:#8080ee;stroke:#000000">
+      <ellipse cx="110" cy=" 10" rx="12" ry="12" />
+      <ellipse cx="160" cy=" 60" rx="12" ry="12" />
+      <ellipse cx="210" cy=" 10" rx="12" ry="12" />
+   </g>
+   <g style="fill:#40ee00;stroke:#000000">
+      <ellipse cx="310" cy=" 10" rx="12" ry="12" />
+      <ellipse cx="410" cy=" 10" rx="12" ry="12" />
+      <ellipse cx="510" cy=" 10" rx="12" ry="12" />
+      <ellipse cx="610" cy=" 10" rx="12" ry="12" />
+      <ellipse cx="360" cy=" 60" rx="12" ry="12" />
+      <ellipse cx="460" cy=" 60" rx="12" ry="12" />
+      <ellipse cx="560" cy=" 60" rx="12" ry="12" />
+      <ellipse cx="410" cy="110" rx="12" ry="12" />
+      <ellipse cx="510" cy="110" rx="12" ry="12" />
+      <ellipse cx="460" cy="160" rx="12" ry="12" />
+   </g>
+   <g style="fill:#cceeee;stroke:#000000">
+      <ellipse cx=" 10" cy=" 10" rx="12" ry="12" />
+      <ellipse cx=" 60" cy=" 60" rx="12" ry="12" />
+      <ellipse cx="260" cy=" 60" rx="12" ry="12" />
+      <ellipse cx="110" cy="110" rx="12" ry="12" />
+      <ellipse cx="210" cy="110" rx="12" ry="12" />
+      <ellipse cx="310" cy="110" rx="12" ry="12" />
+      <ellipse cx="160" cy="160" rx="12" ry="12" />
+      <ellipse cx="260" cy="160" rx="12" ry="12" />
+      <ellipse cx="360" cy="160" rx="12" ry="12" />
+      <ellipse cx="210" cy="210" rx="12" ry="12" />
+      <ellipse cx="310" cy="210" rx="12" ry="12" />
+      <ellipse cx="410" cy="210" rx="12" ry="12" />
+      <ellipse cx="260" cy="260" rx="12" ry="12" />
+      <ellipse cx="360" cy="260" rx="12" ry="12" />
+      <ellipse cx="310" cy="310" rx="12" ry="12" />
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg width="226mm" height="118mm" version="1.1" viewBox="0 0 226 118" xmlns="http://www.w3.org/2000/svg"><rect width="226" height="118" fill="#fff"/>
+ <g fill="none"><path d="m32 78c2-6 3-12 5-17 4-11 8-12 13 0 6 15 8 0 11-11 3-12 6-18 10-5 4 12 7 6 10-3 5-20 7-6 10 5 2 7 3 18 12 11 4-3 7-1 9 6 3 11 4 22 5 33" stroke="#f00"/>
+  <g stroke="#000"><path d="m32 78 27-58c19-40 34 0 43 27 5 17 11 33 15 50"/><path d="m117 97h17m-122-19h20"/>
+ <g stroke-width=".5"><path d="m11 0v105h213"/><path d="m75 3h69m-58 29h62m-116 46h115" stroke-dasharray="2"/><path d="m134 37v36" stroke="#f00"/><path d="m134 93v-10m-14-79v68"/></g></g></g>
+ <path d="m132 85 2-7 2 7-2-1m-2 6 2 7 2-7-2 1m-16-20 2 7 2-7-2 1m-2-62 2-7 2 7-2-1"/><path d="m132 39 2-7 2 7-2-1m-2 33 2 7 2-7-2 1" fill="#f00"/>
+ <g font-family="Times" font-size="10px"><text x="121" y="20">E<tspan baseline-shift="sub" font-size="8px">a</tspan> (no catalyst)</text><text x="135" y="59" fill="#f00">E<tspan baseline-shift="sub" font-size="8px">a</tspan> (with catalyst)</text><text x="136" y="90">ΔG</text><text x="122" y="95">Z</text><text x="13" y="76">X, Y</text><text x="58" y="114">Reaction Progress</text><text transform="rotate(-90)" x="-74" y="8">Energy</text></g></svg>

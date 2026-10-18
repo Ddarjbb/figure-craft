@@ -1,0 +1,277 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 648 252">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="first-clip" x="60" y="10" width="84" height="144" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <polygon points="332 10 138 10 138 40 192 40 192 142 276 142 276 40 332 40 332 10" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <polygon points="444 10 270 10 270 40 324 40 324 142 408 142 408 40 444 40 444 10" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect x="456" y="10" width="60" height="120" fill="none"/>
+    </clipPath>
+    <symbol id="rnn-bg" data-name="rnn-bg" viewBox="0 0 49.5 49.5">
+      <rect x="0.75" y="0.75" width="48" height="48" rx="6" ry="6" fill="#fff" fill-opacity="0.8" stroke="#666" stroke-width="1.5"/>
+    </symbol>
+    <symbol id="rnn-a" data-name="rnn-a" viewBox="0 0 49.5 49.5">
+      <use id="rnn-bg-3" data-name="rnn-bg" width="49.5" height="49.5" xlink:href="#rnn-bg"/>
+      <path d="M29.77,31.75l-1.93-4.94H21.6l-1.91,4.94H17.86L24,16.14h1.52l6.11,15.61H29.77Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z" fill="#666"/>
+    </symbol>
+    <symbol id="op-1" data-name="op-1" viewBox="0 0 50.5 27.5">
+      <g>
+        <g opacity="0.1">
+          <rect x="1.75" y="2.75" width="48" height="24" rx="12" ry="12"/>
+          <rect x="1.75" y="2.75" width="48" height="24" rx="12" ry="12" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g>
+          <rect x="0.75" y="0.75" width="48" height="24" rx="12" ry="12" fill="#d8c2f2"/>
+          <rect x="0.75" y="0.75" width="48" height="24" rx="12" ry="12" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g>
+        <path d="M20,12a4.69,4.69,0,0,1-1,3.25,3.78,3.78,0,0,1-3,1.16,3.81,3.81,0,0,1-3-1.15A4.72,4.72,0,0,1,12,12a4.64,4.64,0,0,1,1-3.26,3.85,3.85,0,0,1,3-1.14,3.78,3.78,0,0,1,3,1.15A4.68,4.68,0,0,1,20,12Zm-6.54,0a3.84,3.84,0,0,0,.64,2.4,2.25,2.25,0,0,0,1.89.82,2.25,2.25,0,0,0,1.88-.81A3.85,3.85,0,0,0,18.5,12a3.86,3.86,0,0,0-.63-2.39A2.23,2.23,0,0,0,16,8.77a2.27,2.27,0,0,0-1.9.81A3.8,3.8,0,0,0,13.45,12Z" fill="#666"/>
+        <path d="M25,16.39a2.27,2.27,0,0,1-1.91-.88H23q0.08,0.82.08,1v2.65H21.68V9.79H22.8q0,0.18.19,0.87h0.07a2.16,2.16,0,0,1,1.93-1,2.25,2.25,0,0,1,1.89.88A4,4,0,0,1,27.56,13a4,4,0,0,1-.69,2.48A2.27,2.27,0,0,1,25,16.39ZM24.64,10.8a1.43,1.43,0,0,0-1.2.48,2.49,2.49,0,0,0-.38,1.54V13a3,3,0,0,0,.38,1.71,1.39,1.39,0,0,0,1.22.53,1.24,1.24,0,0,0,1.1-.59A3,3,0,0,0,26.15,13a2.92,2.92,0,0,0-.38-1.65A1.28,1.28,0,0,0,24.64,10.8Z" fill="#666"/>
+        <path d="M35.86,16.27H34.49V10.74q0-1,0-1.57l-0.33.31-1.32,1.08L32.2,9.69l2.52-2h1.15v8.57Z" fill="#666"/>
+      </g>
+    </symbol>
+    <symbol id="op-2" data-name="op-2" viewBox="0 0 50.5 27.5">
+      <g>
+        <g opacity="0.1">
+          <rect x="1.75" y="2.75" width="48" height="24" rx="12" ry="12"/>
+          <rect x="1.75" y="2.75" width="48" height="24" rx="12" ry="12" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g>
+          <rect x="0.75" y="0.75" width="48" height="24" rx="12" ry="12" fill="#d8c2f2"/>
+          <rect x="0.75" y="0.75" width="48" height="24" rx="12" ry="12" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g>
+        <path d="M20,12a4.69,4.69,0,0,1-1,3.25,3.78,3.78,0,0,1-3,1.16,3.81,3.81,0,0,1-3-1.15A4.72,4.72,0,0,1,12,12a4.64,4.64,0,0,1,1-3.26,3.85,3.85,0,0,1,3-1.14,3.78,3.78,0,0,1,3,1.15A4.68,4.68,0,0,1,20,12Zm-6.54,0a3.84,3.84,0,0,0,.64,2.4,2.25,2.25,0,0,0,1.89.82,2.25,2.25,0,0,0,1.88-.81A3.85,3.85,0,0,0,18.5,12a3.86,3.86,0,0,0-.63-2.39A2.23,2.23,0,0,0,16,8.77a2.27,2.27,0,0,0-1.9.81A3.8,3.8,0,0,0,13.45,12Z" fill="#666"/>
+        <path d="M25,16.39a2.27,2.27,0,0,1-1.91-.88H23q0.08,0.82.08,1v2.65H21.68V9.79H22.8q0,0.18.19,0.87h0.07a2.16,2.16,0,0,1,1.93-1,2.25,2.25,0,0,1,1.89.88A4,4,0,0,1,27.56,13a4,4,0,0,1-.69,2.48A2.27,2.27,0,0,1,25,16.39ZM24.64,10.8a1.43,1.43,0,0,0-1.2.48,2.49,2.49,0,0,0-.38,1.54V13a3,3,0,0,0,.38,1.71,1.39,1.39,0,0,0,1.22.53,1.24,1.24,0,0,0,1.1-.59A3,3,0,0,0,26.15,13a2.92,2.92,0,0,0-.38-1.65A1.28,1.28,0,0,0,24.64,10.8Z" fill="#666"/>
+        <path d="M37.63,16.27H31.82v-1L34,13a18.79,18.79,0,0,0,1.3-1.42,3.39,3.39,0,0,0,.47-0.79A2.12,2.12,0,0,0,35.94,10a1.21,1.21,0,0,0-.35-0.91,1.34,1.34,0,0,0-1-.33,2.57,2.57,0,0,0-1,.18,4.46,4.46,0,0,0-1.06.66l-0.74-.91a4.8,4.8,0,0,1,1.39-.86,4.07,4.07,0,0,1,1.44-.25,2.82,2.82,0,0,1,1.92.62,2.11,2.11,0,0,1,.72,1.68,3,3,0,0,1-.21,1.1,4.48,4.48,0,0,1-.64,1.08A14.6,14.6,0,0,1,35,13.56L33.56,15v0.06h4.07v1.21Z" fill="#666"/>
+      </g>
+    </symbol>
+    <symbol id="op-3" data-name="op-3" viewBox="0 0 50.5 27.5">
+      <g>
+        <g opacity="0.1">
+          <rect x="1.75" y="2.75" width="48" height="24" rx="12" ry="12"/>
+          <rect x="1.75" y="2.75" width="48" height="24" rx="12" ry="12" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+        <g>
+          <rect x="0.75" y="0.75" width="48" height="24" rx="12" ry="12" fill="#d8c2f2"/>
+          <rect x="0.75" y="0.75" width="48" height="24" rx="12" ry="12" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+        </g>
+      </g>
+      <g>
+        <path d="M20,12a4.69,4.69,0,0,1-1,3.25,3.78,3.78,0,0,1-3,1.16,3.81,3.81,0,0,1-3-1.15A4.72,4.72,0,0,1,12,12a4.64,4.64,0,0,1,1-3.26,3.85,3.85,0,0,1,3-1.14,3.78,3.78,0,0,1,3,1.15A4.68,4.68,0,0,1,20,12ZM13.5,12a3.84,3.84,0,0,0,.64,2.4,2.25,2.25,0,0,0,1.89.82,2.25,2.25,0,0,0,1.88-.81A3.85,3.85,0,0,0,18.55,12a3.86,3.86,0,0,0-.63-2.39A2.23,2.23,0,0,0,16,8.77a2.27,2.27,0,0,0-1.9.81A3.8,3.8,0,0,0,13.5,12Z" fill="#666"/>
+        <path d="M25,16.39a2.27,2.27,0,0,1-1.91-.88H23q0.08,0.82.08,1v2.65H21.74V9.79h1.11q0,0.18.19,0.87h0.07a2.16,2.16,0,0,1,1.93-1,2.25,2.25,0,0,1,1.89.88A4,4,0,0,1,27.61,13a4,4,0,0,1-.69,2.48A2.27,2.27,0,0,1,25,16.39ZM24.69,10.8a1.43,1.43,0,0,0-1.2.48,2.49,2.49,0,0,0-.38,1.54V13a3,3,0,0,0,.38,1.71,1.39,1.39,0,0,0,1.22.53,1.24,1.24,0,0,0,1.1-.59A3,3,0,0,0,26.2,13a2.92,2.92,0,0,0-.38-1.65A1.28,1.28,0,0,0,24.69,10.8Z" fill="#666"/>
+        <path d="M37.36,9.67A2,2,0,0,1,36.88,11a2.39,2.39,0,0,1-1.34.73v0a2.59,2.59,0,0,1,1.55.64,1.84,1.84,0,0,1,.52,1.36,2.26,2.26,0,0,1-.87,1.91,4,4,0,0,1-2.48.67,5.59,5.59,0,0,1-2.4-.46V14.7a5.49,5.49,0,0,0,1.15.42,5,5,0,0,0,1.17.15,2.47,2.47,0,0,0,1.49-.37,1.34,1.34,0,0,0,.49-1.14,1.09,1.09,0,0,0-.54-1,3.48,3.48,0,0,0-1.71-.32H33.16V11.3h0.76Q36,11.3,36,9.88A1,1,0,0,0,35.6,9a1.61,1.61,0,0,0-1.05-.3,3.19,3.19,0,0,0-.94.14,4.44,4.44,0,0,0-1.07.54l-0.67-1a4.49,4.49,0,0,1,2.74-.87,3.26,3.26,0,0,1,2,.56A1.83,1.83,0,0,1,37.36,9.67Z" fill="#666"/>
+      </g>
+    </symbol>
+  </defs>
+  <title>rnn</title>
+  <g id="_Group_" data-name="&lt;Group&gt;">
+    <rect y="166" width="468" height="72" rx="10" ry="10" fill="#f0f0f5"/>
+    <g opacity="0.1">
+      <rect y="166" width="468" height="72" rx="10" ry="10" fill="none" stroke="#231f20"/>
+    </g>
+  </g>
+  <path d="M199.26,28h-103" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g clip-path="url(#clip-path)">
+    <g opacity="0.9">
+      <path d="M54,124h9c5,0,9-4.5,9-10V38A10,10,0,0,1,82,28h31.75" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M54,88h9c5,0,9-4.5,9-10V38A10,10,0,0,1,82,28h31.75" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.4">
+      <path d="M54,52h9c5,0,9-4.5,9-10V38a10,10,0,0,1,10-10h31.7" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M150,124h-9c-4.95,0-9-4.5-9-10V38a10,10,0,0,0-10-10H94.25" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.9">
+      <path d="M150,88h-9c-4.95,0-9-4.5-9-10V38a10,10,0,0,0-10-10H94.25" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M150,52h-9c-4.95,0-9-4.5-9-10V38a10,10,0,0,0-10-10H90.25" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g clip-path="url(#clip-path-2)">
+    <g opacity="0.2">
+      <path d="M186,124h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10h31.7" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.9">
+      <path d="M186,88h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10h31.7" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M186,52h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10h31.7" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.9">
+      <path d="M283.05,126H262a10,10,0,0,1-10-10V38a10,10,0,0,0-10-10H208.65" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M283.05,90H262a10,10,0,0,1-10-10V38a10,10,0,0,0-10-10H208.65" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M283.05,53H262a10,10,0,0,1-10-10V38a10,10,0,0,0-10-10H208.65" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.9">
+      <path d="M282.25,123h-9.12c-5,0-9.12-4.5-9.12-10V26a10,10,0,0,0-10-10H222.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M282.25,87h-9.12c-5,0-9.12-4.5-9.12-10V26a10,10,0,0,0-10-10H222.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M282.25,50h-9.12c-5,0-9.12-4.5-9.12-10V26a10,10,0,0,0-10-10H222.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <path d="M332.17,28H291.75a38.44,38.44,0,0,1-18.28-5.6l-1.18-.8A38.44,38.44,0,0,0,254,16H228.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+  <g clip-path="url(#clip-path-3)">
+    <g opacity="0.9">
+      <path d="M318,124h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10h31.7" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M318,88h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10h31.7" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M318,52h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10h31.7" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M415.05,126H394a10,10,0,0,1-10-10V38a10,10,0,0,0-10-10H339.83" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M415.05,90H394a10,10,0,0,1-10-10V38a10,10,0,0,0-10-10H339.83" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.9">
+      <path d="M415.05,54H394a10,10,0,0,1-10-10V38a10,10,0,0,0-10-10H339.83" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M414.25,123h-9.12c-5,0-9.12-4.5-9.12-10V26a10,10,0,0,0-10-10H354.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M414.25,87h-9.12c-5,0-9.12-4.5-9.12-10V26a10,10,0,0,0-10-10H354.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.9">
+      <path d="M414.25,51h-9.12c-5,0-9.12-4.5-9.12-10V26a10,10,0,0,0-10-10H354.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g clip-path="url(#clip-path-4)">
+    <g opacity="0.9">
+      <g>
+        <path d="M450,52h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10h26.27" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path d="M509.75,16a27.2,27.2,0,0,0-7.69,4.28L503.61,16l-1.55-4.28A27.18,27.18,0,0,0,509.75,16Z" fill="#666"/>
+      </g>
+    </g>
+    <g opacity="0.2">
+      <path d="M450,124h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10H498" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g opacity="0.2">
+      <path d="M450,88h9c5,0,9-4.5,9-10V26a10,10,0,0,1,10-10H498" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="_Group_2" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <rect x="13" y="180" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="13" y="180" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M42,211l-1.93-4.94H33.85L31.94,211H30.11l6.14-15.61h1.52L43.89,211H42Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(11.25 177.25)" xlink:href="#rnn-a"/>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <rect x="145" y="180" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="145" y="180" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M174,211l-1.93-4.94h-6.23L163.94,211h-1.83l6.14-15.61h1.52L175.89,211H174Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(143.25 177.25)" xlink:href="#rnn-a"/>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <rect x="277" y="180" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="277" y="180" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M306,211l-1.93-4.94h-6.23L295.94,211h-1.83l6.14-15.61h1.52L307.89,211H306Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(275.25 177.25)" xlink:href="#rnn-a"/>
+  </g>
+  <g id="_Group_3" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <rect x="409" y="180" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="409" y="180" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M438,211l-1.93-4.94h-6.23L427.94,211h-1.83l6.14-15.61h1.52L439.89,211H438Zm-2.5-6.57-1.81-4.82q-0.35-.91-0.72-2.24a20.34,20.34,0,0,1-.67,2.24l-1.83,4.82h5Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(407.25 177.25)" xlink:href="#rnn-a"/>
+  </g>
+  <g opacity="0.9">
+    <use width="50.5" height="27.5" transform="translate(12 112)" xlink:href="#op-1"/>
+  </g>
+  <g opacity="0.2">
+    <use width="50.5" height="27.5" transform="translate(12 76)" xlink:href="#op-2"/>
+  </g>
+  <g opacity="0.4">
+    <use width="50.5" height="27.5" transform="translate(12 40)" xlink:href="#op-3"/>
+  </g>
+  <g opacity="0.2">
+    <use width="50.5" height="27.5" transform="translate(144 112)" xlink:href="#op-1"/>
+  </g>
+  <g opacity="0.9">
+    <use id="op-2-5" data-name="op-2" width="50.5" height="27.5" transform="translate(144 76)" xlink:href="#op-2"/>
+  </g>
+  <g opacity="0.2">
+    <use width="50.5" height="27.5" transform="translate(144 40)" xlink:href="#op-3"/>
+  </g>
+  <g opacity="0.9">
+    <use width="50.5" height="27.5" transform="translate(276 112)" xlink:href="#op-1"/>
+  </g>
+  <g opacity="0.2">
+    <use width="50.5" height="27.5" transform="translate(276 76)" xlink:href="#op-2"/>
+  </g>
+  <g opacity="0.2">
+    <use width="50.5" height="27.5" transform="translate(276 40)" xlink:href="#op-3"/>
+  </g>
+  <g opacity="0.2">
+    <use width="50.5" height="27.5" transform="translate(408 112)" xlink:href="#op-1"/>
+  </g>
+  <g opacity="0.2">
+    <use width="50.5" height="27.5" transform="translate(408 76)" xlink:href="#op-2"/>
+  </g>
+  <g opacity="0.9">
+    <use width="50.5" height="27.5" transform="translate(408 40)" xlink:href="#op-3"/>
+  </g>
+  <g opacity="0.6">
+    <text transform="translate(493 -84.12)" font-size="13" font-family="Open Sans">At each step the <tspan x="0" y="20">controller RNN outputs a </tspan><tspan x="0" y="40">probability distribution.</tspan></text>
+  </g>
+  <g opacity="0.6">
+    <text transform="translate(495 181.88)" font-size="13" font-family="Open Sans">We run all of the <tspan x="0" y="20">operations and average </tspan><tspan x="0" y="40">the outputs together.</tspan></text>
+  </g>
+  <g>
+    <line x1="60" y1="202.5" x2="132.57" y2="202.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M138,202.5a27.2,27.2,0,0,0-7.69,4.28l1.55-4.28-1.55-4.28A27.18,27.18,0,0,0,138,202.5Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="36" y1="178" x2="36" y2="149.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M36,144a27.2,27.2,0,0,0,4.28,7.69L36,150.14l-4.28,1.55A27.17,27.17,0,0,0,36,144Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="168" y1="178" x2="168" y2="149.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M168,144a27.2,27.2,0,0,0,4.28,7.69L168,150.14l-4.28,1.55A27.17,27.17,0,0,0,168,144Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="300" y1="178" x2="300" y2="149.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M300,144a27.2,27.2,0,0,0,4.28,7.69L300,150.14l-4.28,1.55A27.17,27.17,0,0,0,300,144Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="432" y1="178" x2="432" y2="149.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M432,144a27.2,27.2,0,0,0,4.28,7.69L432,150.14l-4.28,1.55A27.17,27.17,0,0,0,432,144Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="192" y1="202.5" x2="264.57" y2="202.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M270,202.5a27.2,27.2,0,0,0-7.69,4.28l1.55-4.28-1.55-4.28A27.18,27.18,0,0,0,270,202.5Z" fill="#666"/>
+  </g>
+  <g>
+    <line x1="324" y1="202.5" x2="396.57" y2="202.5" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M402,202.5a27.2,27.2,0,0,0-7.69,4.28l1.55-4.28-1.55-4.28A27.18,27.18,0,0,0,402,202.5Z" fill="#666"/>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="534.07px" height="600px" viewBox="0 0 534.07 600" enable-background="new 0 0 534.07 600" xml:space="preserve">
+<rect x="24.509" y="88.859" fill="#808080" stroke="#000000" stroke-width="5" width="483.438" height="358.256"/>
+<rect x="54.064" y="131.5" fill="#8CC63F" stroke="#000000" stroke-width="2" width="428.178" height="184.535"/>
+<rect x="105.244" y="167.542" fill="none" width="333.026" height="103.08"/>
+<text transform="matrix(1 0 0 1 208.437 188.7231)" font-family="'ArialMT'" font-size="29.5831">L3 Cache</text>
+<rect x="152.098" y="316.035" fill="#55D2F9" stroke="#000000" stroke-width="2" width="78.571" height="103.799"/>
+<rect x="303.474" y="316.035" fill="#55D2F9" stroke="#000000" stroke-width="2" width="78.571" height="103.799"/>
+<rect x="398.984" y="316.035" fill="#55D2F9" stroke="#000000" stroke-width="2" width="78.571" height="103.799"/>
+<rect x="58.389" y="316.035" fill="#55D2F9" stroke="#000000" stroke-width="2" width="78.571" height="103.799"/>
+<text transform="matrix(1 0 0 1 62.8779 350.6338)" font-family="'ArialMT'" font-size="22.1873">Core 1</text>
+<text transform="matrix(1 0 0 1 158.0864 350.6338)" font-family="'ArialMT'" font-size="22.1873">Core 2</text>
+<text transform="matrix(1 0 0 1 309.4624 350.6338)" font-family="'ArialMT'" font-size="22.1873">Core 3</text>
+<text transform="matrix(1 0 0 1 404.9731 350.6338)" font-family="'ArialMT'" font-size="22.1873">Core 4</text>
+<rect x="54.064" y="88.859" fill="#FFFF00" stroke="#000000" stroke-width="2" width="125.426" height="42.641"/>
+<text transform="matrix(1 0 0 1 97.6665 117.0796)" font-family="'ArialMT'" font-size="22.1873">QPI</text>
+<rect x="24.509" y="419.834" fill="#F15A24" stroke="#000000" stroke-width="2" width="483.438" height="27.281"/>
+<rect x="99.031" y="424.711" fill="none" width="349.605" height="28.112"/>
+<text transform="matrix(1 0 0 1 132.6382 440.5977)" font-family="'ArialMT'" font-size="22.1873">integrated memory controller</text>
+<rect x="19.509" y="484.982" fill="#C7B299" stroke="#000000" width="154.98" height="48.246"/>
+<rect x="31.842" y="495.263" fill="none" width="128.07" height="31.579"/>
+<text transform="matrix(1 0 0 1 59.1216 514.5947)" font-family="'ArialMT'" font-size="27">DDR3</text>
+<rect x="19.509" y="538.754" fill="#C7B299" stroke="#000000" width="154.98" height="48.246"/>
+<rect x="31.842" y="549.034" fill="none" width="128.07" height="31.579"/>
+<text transform="matrix(1 0 0 1 59.1216 568.3662)" font-family="'ArialMT'" font-size="27">DDR3</text>
+<rect x="189.266" y="484.982" fill="#C7B299" stroke="#000000" width="154.98" height="48.246"/>
+<rect x="201.599" y="495.263" fill="none" width="128.07" height="31.579"/>
+<text transform="matrix(1 0 0 1 228.8784 514.5947)" font-family="'ArialMT'" font-size="27">DDR3</text>
+<rect x="189.266" y="538.754" fill="#C7B299" stroke="#000000" width="154.98" height="48.246"/>
+<rect x="201.599" y="549.034" fill="none" width="128.07" height="31.579"/>
+<text transform="matrix(1 0 0 1 228.8784 568.3662)" font-family="'ArialMT'" font-size="27">DDR3</text>
+<rect x="355.779" y="484.982" fill="#C7B299" stroke="#000000" width="154.98" height="48.246"/>
+<rect x="368.112" y="495.263" fill="none" width="128.07" height="31.579"/>
+<text transform="matrix(1 0 0 1 395.3911 514.5947)" font-family="'ArialMT'" font-size="27">DDR3</text>
+<rect x="355.779" y="538.754" fill="#C7B299" stroke="#000000" width="154.98" height="48.246"/>
+<rect x="368.112" y="549.034" fill="none" width="128.07" height="31.579"/>
+<text transform="matrix(1 0 0 1 395.3911 568.3662)" font-family="'ArialMT'" font-size="27">DDR3</text>
+<line fill="none" stroke="#000000" stroke-width="3" x1="62.878" y1="447.115" x2="62.878" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="89.828" y1="447.115" x2="89.828" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="116.777" y1="447.115" x2="116.777" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="238.685" y1="447.115" x2="238.685" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="265.634" y1="447.115" x2="265.634" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="292.583" y1="447.115" x2="292.583" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="405.197" y1="447.115" x2="405.197" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="432.147" y1="447.115" x2="432.147" y2="484.982"/>
+<line fill="none" stroke="#000000" stroke-width="3" x1="459.096" y1="447.115" x2="459.096" y2="484.982"/>
+<rect x="7.895" fill="#FFFF00" stroke="#000000" width="230.79" height="62.369"/>
+<rect x="20.175" y="14.123" fill="none" width="202.632" height="38.597"/>
+<text transform="matrix(1 0 0 1 50.9526 33.4546)" font-family="'ArialMT'" font-size="27">Northbridge</text>
+<line fill="none" stroke="#000000" stroke-width="3" x1="116.777" y1="62.369" x2="116.777" y2="88.859"/>
+<rect x="314.913" fill="#C1272D" stroke="#000000" width="213.157" height="62.369"/>
+<rect x="320.913" y="10.474" fill="none" width="213.157" height="39.474"/>
+<text transform="matrix(1 0 0 1 320.9126 29.8052)" font-family="'ArialMT'" font-size="27">Southbridge X58</text>
+<line fill="none" stroke="#000000" stroke-width="3" x1="421.492" y1="62.369" x2="421.492" y2="88.859"/>
+<text transform="matrix(1 0 0 1 121.4912 85.0303)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="27">9,6</tspan><tspan x="37.534" y="0" font-family="'MyriadPro-Regular'" font-size="27">‐12,8 GB/s</tspan></text>
+</svg>

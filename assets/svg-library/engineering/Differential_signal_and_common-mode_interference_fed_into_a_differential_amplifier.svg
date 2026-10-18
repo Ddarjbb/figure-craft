@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+	<rect width="700" height="500" fill="#fff"/>
+	<g fill="none" stroke="#000" stroke-width="2">
+		<path d="m222 344h16s4-18 8 0c4 19 8 0 8 0s3-16 8 0c4 16 8 0 8 0h16"/>
+		<path d="m222 369h16s4-18 8 0 8 0 8 0 3-16 8 0c4 16 8 0 8 0h16"/>
+		<path d="m389 102 106 53-106 53z"/>
+		<path d="m409 181h-10"/>
+		<path d="m403 124v10"/>
+		<path d="m408 129h-10"/>
+		<path d="m495 155h14"/>
+		<path d="m442 102v26"/>
+		<path d="m442 181v26"/>
+		<path d="m316 142h44v-13h29"/>
+		<path d="m316 167h44v14h29"/>
+		<path d="m228 142h18v-18h17v18h17"/>
+		<path d="m228 167h18v18h17v-18h17"/>
+		<path d="m539 155h25v-50h24v50h28"/>
+		<rect x="74" y="317" width="81" height="80"/>
+		<path d="m154 344h38"/>
+		<path d="m154 369h38"/>
+		<path d="m539 354h77z"/>
+		<rect x="74" y="114" width="81" height="80"/>
+		<path d="m154 142h38"/>
+		<path d="m154 167h38"/>
+		<path d="m389 301 106 53-106 53z"/>
+		<path d="m409 380h-10"/>
+		<path d="m403 323v10"/>
+		<path d="m408 328h-10"/>
+		<path d="m495 354h14"/>
+		<path d="m442 302v25"/>
+		<path d="m442 380v26"/>
+		<path d="m316 344h44v-16h29"/>
+		<path d="m316 369h44v11h29"/>
+	</g>
+	<g font-family="sans" font-size="18">
+		<text x="85" y="363">Source</text>
+		<text x="229" y="275">Noise</text>
+		<text x="366" y="275">Subtractor</text>
+		<text x="522" y="275">Output Pulse</text>
+		<text x="85" y="160">Source</text>
+		<text x="207" y="76">Input Pulse</text>
+		<text x="366" y="75">Subtractor</text>
+		<text x="522" y="75">Output Pulse</text>
+	</g>
+</svg>

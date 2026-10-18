@@ -1,0 +1,227 @@
+<svg id="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 744 270">
+  <defs>
+    <symbol id="op-bg" data-name="op-bg" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="11.25" fill="#e0cef5" stroke="#000" stroke-miterlimit="10" stroke-opacity="0.5" stroke-width="1.5"/>
+    </symbol>
+    <symbol id="op-x" data-name="op-x" viewBox="0 0 24 24">
+      <use id="op-bg-3" data-name="op-bg" width="24" height="24" xlink:href="#op-bg"/>
+      <path d="M9.16,15.28l-1-1,2.56-2.56L8.16,9.16l1-1,2.58,2.58L14.3,8.17l1,1-2.56,2.56,2.57,2.57-1,1-2.57-2.57Z" fill="#666"/>
+    </symbol>
+    <symbol id="rnn-bg" data-name="rnn-bg" viewBox="0 0 49.5 49.5">
+      <rect x="0.75" y="0.75" width="48" height="48" rx="6" ry="6" fill="#fff" fill-opacity="0.8" stroke="#666" stroke-width="1.5"/>
+    </symbol>
+    <symbol id="rnn-s" data-name="rnn-s" viewBox="0 0 49.5 49.5">
+      <use id="rnn-bg-3" data-name="rnn-bg" width="49.5" height="49.5" xlink:href="#rnn-bg"/>
+      <path d="M29.68,27.61a3.81,3.81,0,0,1-1.49,3.2,6.46,6.46,0,0,1-4,1.15,10.1,10.1,0,0,1-4.25-.71V29.51a11.16,11.16,0,0,0,2.08.64,10.92,10.92,0,0,0,2.23.23,4.49,4.49,0,0,0,2.72-.69,2.25,2.25,0,0,0,.92-1.91,2.45,2.45,0,0,0-.32-1.32,3,3,0,0,0-1.08-1,15.14,15.14,0,0,0-2.31-1A7.38,7.38,0,0,1,21,22.68a4.06,4.06,0,0,1-.93-2.77A3.45,3.45,0,0,1,21.45,17,5.61,5.61,0,0,1,25,16a10.54,10.54,0,0,1,4.26.85l-0.56,1.57A9.63,9.63,0,0,0,25,17.6a3.62,3.62,0,0,0-2.24.62,2,2,0,0,0-.81,1.71,2.62,2.62,0,0,0,.3,1.32,2.8,2.8,0,0,0,1,.95,12.47,12.47,0,0,0,2.16,1A8.56,8.56,0,0,1,28.76,25,3.68,3.68,0,0,1,29.68,27.61Z" fill="#5b5b5b"/>
+    </symbol>
+    <symbol id="op-sum_2" data-name="op-sum 2" viewBox="0 0 24 24">
+      <use width="24" height="24" xlink:href="#op-bg"/>
+      <path d="M9.88,9.08a1.77,1.77,0,0,1,.69-1.47,3,3,0,0,1,1.89-.54,4.84,4.84,0,0,1,1.87.38v1.1a5.22,5.22,0,0,0-1.88-.4,1.57,1.57,0,0,0-.93.25,0.78,0.78,0,0,0-.35.67q0,0.74,1.51,1.26a4.6,4.6,0,0,1,2.22,1.44A3.75,3.75,0,0,1,15.64,14v0.27a4.23,4.23,0,0,1-.4,1.87,3,3,0,0,1-1.15,1.28,3.29,3.29,0,0,1-1.74.45,3.08,3.08,0,0,1-2.42-1A3.86,3.86,0,0,1,9,14.22V14.13a3.42,3.42,0,0,1,.64-2A2.76,2.76,0,0,1,11.29,11v0a2.36,2.36,0,0,1-1-.75A1.76,1.76,0,0,1,9.88,9.08Zm0.42,5.2a3,3,0,0,0,.55,1.89,1.8,1.8,0,0,0,1.49.69,1.79,1.79,0,0,0,1.48-.69,3.23,3.23,0,0,0,.55-2,2.67,2.67,0,0,0-.58-1.67,2.35,2.35,0,0,0-1.43-.92,1.81,1.81,0,0,0-1.49.7A3.19,3.19,0,0,0,10.3,14.28Z" fill="#666"/>
+    </symbol>
+    <symbol id="op-sum" data-name="op-sum" viewBox="0 0 24 24">
+      <use id="op-bg-14" data-name="op-bg" width="24" height="24" xlink:href="#op-bg"/>
+      <path d="M7.88,12.5V11.18h3.41V7.75h1.34v3.43H16V12.5H12.62v3.42H11.29V12.5H7.88Z" fill="#666"/>
+    </symbol>
+    <symbol id="op-halo" data-name="op-halo" viewBox="0 0 31.45 31.45">
+      <circle cx="15.73" cy="15.73" r="14.73" fill="#e6eaf2" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </symbol>
+    <symbol id="op-sum_5" data-name="op-sum 5" viewBox="0 0 24 24">
+      <use id="op-bg-17" data-name="op-bg" width="24" height="24" xlink:href="#op-bg"/>
+      <g>
+        <path d="M11,12.65L4.21,15.32V14.26l5.51-2.12L4.21,10V9L11,11.66v1Z" fill="#666"/>
+        <path d="M16.34,11.45H15.48q-0.37,0-.73,0a1.84,1.84,0,0,0-.66.17,1,1,0,0,0-.46.42,1.19,1.19,0,0,0-.21.73,1.13,1.13,0,0,0,.2.67,1.4,1.4,0,0,0,.46.43,2.73,2.73,0,0,0,1.33.3,3,3,0,0,0,1.54-.37,1.66,1.66,0,0,0,.73-1.28H19a2.55,2.55,0,0,1-1.09,2.09,4,4,0,0,1-2.32.7,7.39,7.39,0,0,1-1.28-.11,4.23,4.23,0,0,1-1.17-.38A2.21,2.21,0,0,1,12,12.79a1.72,1.72,0,0,1,.55-1.3,2.33,2.33,0,0,1,1.2-.66v0a2.71,2.71,0,0,1-1.07-.69A1.56,1.56,0,0,1,12.24,9a1.8,1.8,0,0,1,.3-1,2,2,0,0,1,.74-0.69,4.19,4.19,0,0,1,2-.52,4.65,4.65,0,0,1,2.34.55,2.37,2.37,0,0,1,1.05,2H17.36a1.21,1.21,0,0,0-.64-1.15,3.21,3.21,0,0,0-1.36-.29,2.53,2.53,0,0,0-1.1.24,1,1,0,0,0-.58,1,1,1,0,0,0,.58,1,2.79,2.79,0,0,0,1.2.22h0.88v1.16Z" fill="#666"/>
+      </g>
+    </symbol>
+    <symbol id="op-sum_4" data-name="op-sum 4" viewBox="0 0 24 24">
+      <use id="op-bg-20" data-name="op-bg" width="24" height="24" xlink:href="#op-bg"/>
+      <path d="M7.51,11.21h9v1.15h-9V11.21Z" fill="#666"/>
+    </symbol>
+    <symbol id="op-sum_3" data-name="op-sum 3" viewBox="0 0 24 24">
+      <use id="op-bg-23" data-name="op-bg" width="24" height="24" xlink:href="#op-bg"/>
+      <path d="M9.65,10V9.21a4.3,4.3,0,0,0,1.59-.37,1.83,1.83,0,0,0,.67-1.23h0.83V16H11.62V10h-2Z" fill="#666"/>
+    </symbol>
+    <symbol id="rnn-sigma" data-name="rnn-sigma" viewBox="0 0 25.17 25.17">
+      <rect x="0.75" y="0.75" width="23.67" height="23.67" rx="6" ry="6" fill="#f0f0f5" stroke="#666" stroke-width="1.5"/>
+      <path d="M19,8.67H16.48a5.39,5.39,0,0,1,1.41,3.87,6.62,6.62,0,0,1-1.37,4.36,5.13,5.13,0,0,1-4.11,1.73,5,5,0,0,1-4.09-1.78,6.66,6.66,0,0,1-1.37-4.32,5.73,5.73,0,0,1,1.5-4.07,5.22,5.22,0,0,1,4-1.58,6.18,6.18,0,0,1,1.67.21H19V8.67ZM15.8,12.78a5.89,5.89,0,0,0-.74-2.92,2.87,2.87,0,0,0-2.65-1.41A2.86,2.86,0,0,0,9.8,9.79a5.53,5.53,0,0,0-.77,3,4.82,4.82,0,0,0,.91,3,2.89,2.89,0,0,0,2.47,1.26A2.88,2.88,0,0,0,15,15.74,5.37,5.37,0,0,0,15.8,12.78Z" fill="#666"/>
+    </symbol>
+  </defs>
+  <title>rnn</title>
+  <rect x="48" y="17.25" width="612" height="238.75" rx="10" ry="10" fill="#f0f0f5"/>
+  <line x1="228" y1="43" x2="228" y2="268" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="420" y1="43" x2="420" y2="268" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+  <line x1="612" y1="43" x2="612" y2="268" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M120,184h54a6,6,0,0,0,6-6V112" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M312,184h54a6,6,0,0,0,6-6V112" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M504,184h54a6,6,0,0,0,6-6V112" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M180,88V79.5a6,6,0,0,1,6-6H636" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M372,100V83.5a6,6,0,0,1,6-6H636" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  <path d="M564,100V87.5a6,6,0,0,1,6-6h66" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g>
+    <g opacity="0.1">
+      <circle cx="181.01" cy="101.25" r="11.25"/>
+      <circle cx="181.01" cy="101.25" r="11.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.5"/>
+      <path d="M178.17,104.53l-1-1,2.56-2.56-2.58-2.58,1-1,2.58,2.58,2.56-2.56,1,1L181.74,101l2.57,2.57-1,1L180.73,102Z"/>
+    </g>
+    <use width="24" height="24" transform="translate(168.01 87.25)" xlink:href="#op-x"/>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <rect x="73" y="162" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="73" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <rect x="73" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <rect x="73" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M101.93,188.86a3.81,3.81,0,0,1-1.49,3.2,6.46,6.46,0,0,1-4,1.15,10.1,10.1,0,0,1-4.25-.71v-1.74a11.16,11.16,0,0,0,2.08.64,10.92,10.92,0,0,0,2.23.23,4.49,4.49,0,0,0,2.72-.69,2.25,2.25,0,0,0,.92-1.91,2.45,2.45,0,0,0-.32-1.32,3,3,0,0,0-1.08-1,15.14,15.14,0,0,0-2.31-1,7.38,7.38,0,0,1-3.1-1.84,4.06,4.06,0,0,1-.93-2.77,3.45,3.45,0,0,1,1.35-2.86,5.61,5.61,0,0,1,3.57-1.06,10.54,10.54,0,0,1,4.26.85L101,179.66a9.63,9.63,0,0,0-3.74-.81,3.62,3.62,0,0,0-2.24.62,2,2,0,0,0-.81,1.71,2.62,2.62,0,0,0,.3,1.32,2.8,2.8,0,0,0,1,.95,12.47,12.47,0,0,0,2.16,1,8.56,8.56,0,0,1,3.37,1.87A3.68,3.68,0,0,1,101.93,188.86Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(71.25 159.25)" xlink:href="#rnn-s"/>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <circle cx="373.01" cy="101.25" r="11.25"/>
+      <circle cx="373.01" cy="101.25" r="11.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.5"/>
+      <path d="M370.17,104.53l-1-1,2.56-2.56-2.58-2.58,1-1,2.58,2.58,2.56-2.56,1,1L373.73,101l2.57,2.57-1,1L372.73,102Z"/>
+    </g>
+    <use width="24" height="24" transform="translate(360.01 87.25)" xlink:href="#op-x"/>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <rect x="264.99" y="162" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="264.99" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <rect x="264.99" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <rect x="264.99" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M293.93,188.86a3.81,3.81,0,0,1-1.49,3.2,6.46,6.46,0,0,1-4,1.15,10.1,10.1,0,0,1-4.25-.71v-1.74a11.16,11.16,0,0,0,2.08.64,10.92,10.92,0,0,0,2.23.23,4.49,4.49,0,0,0,2.72-.69,2.25,2.25,0,0,0,.92-1.91,2.45,2.45,0,0,0-.32-1.32,3,3,0,0,0-1.08-1,15.14,15.14,0,0,0-2.31-1,7.38,7.38,0,0,1-3.1-1.84,4.06,4.06,0,0,1-.93-2.77,3.45,3.45,0,0,1,1.35-2.86,5.61,5.61,0,0,1,3.57-1.06,10.54,10.54,0,0,1,4.26.85L293,179.66a9.63,9.63,0,0,0-3.74-.81,3.62,3.62,0,0,0-2.24.62,2,2,0,0,0-.81,1.71,2.62,2.62,0,0,0,.3,1.32,2.8,2.8,0,0,0,1,.95,12.47,12.47,0,0,0,2.16,1,8.56,8.56,0,0,1,3.37,1.87A3.68,3.68,0,0,1,293.93,188.86Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(263.24 159.25)" xlink:href="#rnn-s"/>
+  </g>
+  <g id="_Group_" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <circle cx="565" cy="101.25" r="11.25"/>
+      <circle cx="565" cy="101.25" r="11.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.5"/>
+      <path d="M562.16,104.53l-1-1,2.56-2.56-2.58-2.58,1-1,2.58,2.58,2.56-2.56,1,1L565.72,101l2.57,2.57-1,1L564.72,102Z"/>
+    </g>
+    <use width="24" height="24" transform="translate(552 87.25)" xlink:href="#op-x"/>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <rect x="456.99" y="162" width="48" height="48" rx="6" ry="6" opacity="0.8"/>
+      <rect x="456.99" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <rect x="456.99" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <rect x="456.99" y="162" width="48" height="48" rx="6" ry="6" fill="none" stroke="#000" stroke-width="1.5"/>
+      <path d="M485.92,188.86a3.81,3.81,0,0,1-1.49,3.2,6.46,6.46,0,0,1-4,1.15,10.1,10.1,0,0,1-4.25-.71v-1.74a11.16,11.16,0,0,0,2.08.64,10.92,10.92,0,0,0,2.23.23,4.49,4.49,0,0,0,2.72-.69,2.25,2.25,0,0,0,.92-1.91,2.45,2.45,0,0,0-.32-1.32,3,3,0,0,0-1.08-1,15.14,15.14,0,0,0-2.31-1,7.38,7.38,0,0,1-3.1-1.84,4.06,4.06,0,0,1-.93-2.77,3.45,3.45,0,0,1,1.35-2.86,5.61,5.61,0,0,1,3.57-1.06,10.54,10.54,0,0,1,4.26.85L485,179.66a9.63,9.63,0,0,0-3.74-.81,3.62,3.62,0,0,0-2.24.62,2,2,0,0,0-.81,1.71,2.62,2.62,0,0,0,.3,1.32,2.8,2.8,0,0,0,1,.95,12.47,12.47,0,0,0,2.16,1,8.56,8.56,0,0,1,3.37,1.87A3.68,3.68,0,0,1,485.92,188.86Z"/>
+    </g>
+    <use width="49.5" height="49.5" transform="translate(455.24 159.25)" xlink:href="#rnn-s"/>
+  </g>
+  <g>
+    <g>
+      <line x1="36" y1="184" x2="66.57" y2="184" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M72,184a27.2,27.2,0,0,0-7.69,4.28L65.86,184l-1.55-4.28A27.18,27.18,0,0,0,72,184Z" fill="#666"/>
+    </g>
+    <g>
+      <line x1="642" y1="77" x2="666.57" y2="77" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M672,77a27.2,27.2,0,0,0-7.69,4.28L665.86,77l-1.55-4.28A27.17,27.17,0,0,0,672,77Z" fill="#666"/>
+    </g>
+    <g>
+      <line x1="120" y1="184" x2="258.57" y2="184" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M264,184a27.2,27.2,0,0,0-7.69,4.28l1.55-4.28-1.55-4.28A27.18,27.18,0,0,0,264,184Z" fill="#666"/>
+    </g>
+    <g>
+      <line x1="312" y1="184" x2="450.57" y2="184" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M456,184a27.2,27.2,0,0,0-7.69,4.28l1.55-4.28-1.55-4.28A27.18,27.18,0,0,0,456,184Z" fill="#666"/>
+    </g>
+    <g>
+      <path d="M276,244H469.5a10,10,0,0,0,10-10V214.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M479.5,209a27.2,27.2,0,0,0,4.28,7.69l-4.28-1.55-4.28,1.55A27.18,27.18,0,0,0,479.5,209Z" fill="#666"/>
+    </g>
+    <g>
+      <path d="M96,274V254a10,10,0,0,1,10-10H277.5a10,10,0,0,0,10-10V214.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M287.5,209a27.2,27.2,0,0,0,4.28,7.69l-4.28-1.55-4.28,1.55A27.18,27.18,0,0,0,287.5,209Z" fill="#666"/>
+    </g>
+    <g>
+      <line x1="96" y1="262" x2="96" y2="213.43" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M96,208a27.2,27.2,0,0,0,4.28,7.69L96,214.14l-4.28,1.55A27.18,27.18,0,0,0,96,208Z" fill="#666"/>
+    </g>
+  </g>
+  <g>
+    <g opacity="0.1">
+      <circle cx="96.75" cy="230.25" r="11.25"/>
+      <circle cx="96.75" cy="230.25" r="11.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.5"/>
+      <path d="M94.63,227.33a1.77,1.77,0,0,1,.69-1.47,3,3,0,0,1,1.89-.54,4.84,4.84,0,0,1,1.87.38v1.1a5.22,5.22,0,0,0-1.88-.4,1.57,1.57,0,0,0-.93.25,0.78,0.78,0,0,0-.35.67q0,0.74,1.51,1.26A4.6,4.6,0,0,1,99.64,230a3.75,3.75,0,0,1,.74,2.26v0.27a4.23,4.23,0,0,1-.4,1.87,3,3,0,0,1-1.15,1.28,3.29,3.29,0,0,1-1.74.45,3.08,3.08,0,0,1-2.42-1,3.86,3.86,0,0,1-.9-2.66v-0.09a3.42,3.42,0,0,1,.64-2A2.76,2.76,0,0,1,96,229.21v0a2.36,2.36,0,0,1-1-.75A1.76,1.76,0,0,1,94.63,227.33Zm0.42,5.2a3,3,0,0,0,.55,1.89,1.94,1.94,0,0,0,3,0,3.23,3.23,0,0,0,.55-2,2.67,2.67,0,0,0-.58-1.67,2.35,2.35,0,0,0-1.43-.92,1.81,1.81,0,0,0-1.49.7A3.19,3.19,0,0,0,95.05,232.53Z"/>
+    </g>
+    <use width="24" height="24" transform="translate(83.75 216.25)" xlink:href="#op-sum_2"/>
+  </g>
+  <g id="_Group_2" data-name="&lt;Group&gt;">
+    <g opacity="0.1">
+      <circle cx="637.75" cy="79" r="11.25"/>
+      <circle cx="637.75" cy="79" r="11.25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5" opacity="0.5"/>
+      <path d="M633.63,79.49V78.18H637V74.75h1.34v3.43h3.41v1.31h-3.41v3.42H637V79.49h-3.41Z"/>
+    </g>
+    <use width="24" height="24" transform="translate(624.75 65)" xlink:href="#op-sum"/>
+  </g>
+  <g opacity="0.2">
+    <g>
+      <path d="M120,184h18a6,6,0,0,0,6-6V149" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="147.68 151.96 147.02 152.57 144 149.32 140.98 152.57 140.32 151.96 144 148 147.68 151.96" fill="#666"/>
+    </g>
+    <g>
+      <path d="M312,184h18a6,6,0,0,0,6-6V149" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="339.68 151.96 339.02 152.57 336 149.32 332.98 152.57 332.32 151.96 336 148 339.68 151.96" fill="#666"/>
+    </g>
+    <g>
+      <path d="M504,184h18a6,6,0,0,0,6-6V149" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="531.68 151.96 531.02 152.57 528 149.32 524.98 152.57 524.32 151.96 528 148 531.68 151.96" fill="#666"/>
+    </g>
+    <g>
+      <line x1="144" y1="136" x2="144" y2="64.97" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="147.68 67.96 147.02 68.57 144 65.32 140.98 68.57 140.32 67.96 144 64 147.68 67.96" fill="#666"/>
+    </g>
+    <g>
+      <line x1="336" y1="70.25" x2="336" y2="64.97" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="339.68 67.96 339.02 68.57 336 65.32 332.98 68.57 332.32 67.96 336 64 339.68 67.96" fill="#666"/>
+    </g>
+    <line x1="336" y1="136" x2="336" y2="77.25" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g>
+      <line x1="528" y1="70" x2="528" y2="64.97" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="531.68 67.96 531.02 68.57 528 65.32 524.98 68.57 524.32 67.96 528 64 531.68 67.96" fill="#666"/>
+    </g>
+    <line x1="528" y1="136" x2="528" y2="81" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g>
+      <path d="M144,136V106a6,6,0,0,1,6-6h17" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="164.05 103.68 163.43 103.02 166.68 100 163.43 96.98 164.05 96.32 168.01 100 164.05 103.68" fill="#666"/>
+    </g>
+    <g>
+      <path d="M336,136V106a6,6,0,0,1,6-6h17" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="356.05 103.68 355.43 103.02 358.68 100 355.43 96.98 356.05 96.32 360.01 100 356.05 103.68" fill="#666"/>
+    </g>
+    <line x1="108" y1="52" x2="528" y2="52" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g>
+      <path d="M144,52.5h18a16.83,16.83,0,0,0,10.26-4.22L188,32.72a16.83,16.83,0,0,1,10.26-4.22H212" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="209.04 32.18 208.43 31.52 211.68 28.5 208.43 25.48 209.04 24.82 213 28.5 209.04 32.18" fill="#666"/>
+    </g>
+    <g>
+      <path d="M336,52h18a17.11,17.11,0,0,0,10.31-4.18l15.63-15.15a17.11,17.11,0,0,1,10.31-4.18H404" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="401.04 32.18 400.43 31.52 403.68 28.5 400.43 25.48 401.04 24.82 405 28.5 401.04 32.18" fill="#666"/>
+    </g>
+    <g>
+      <path d="M528,52.5h18a16.83,16.83,0,0,0,10.26-4.22L572,32.72a16.83,16.83,0,0,1,10.26-4.22H596" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="593.04 32.18 592.43 31.52 595.68 28.5 592.43 25.48 593.04 24.82 597 28.5 593.04 32.18" fill="#666"/>
+    </g>
+    <g>
+      <line x1="532" y1="100" x2="551.03" y2="100.16" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polygon points="548.02 103.81 547.41 103.15 550.68 100.15 547.46 97.11 548.08 96.45 552.01 100.17 548.02 103.81" fill="#666"/>
+    </g>
+    <path d="M492,80.5V94a6,6,0,0,0,6,6h26" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path d="M456,52h30a6,6,0,0,1,6,6V69" fill="none" stroke="#666" stroke-miterlimit="10" stroke-width="1.5"/>
+    <use id="op-halo-3" data-name="op-halo" width="31.45" height="31.45" transform="translate(212.94 13.11)" xlink:href="#op-halo"/>
+    <use id="op-halo-6" data-name="op-halo" width="31.45" height="31.45" transform="translate(404.94 13.11)" xlink:href="#op-halo"/>
+    <use id="op-halo-9" data-name="op-halo" width="31.45" height="31.45" transform="translate(596.94 13.11)" xlink:href="#op-halo"/>
+    <use width="24" height="24" transform="translate(216.75 16.75)" xlink:href="#op-sum_5"/>
+    <use width="24" height="24" transform="translate(132.75 40.09)" xlink:href="#op-sum_4"/>
+    <use width="24" height="24" transform="translate(83.25 40.75)" xlink:href="#op-sum_3"/>
+    <use width="24" height="24" transform="translate(408.74 16.75)" xlink:href="#op-sum_5"/>
+    <use width="24" height="24" transform="translate(324.74 40.09)" xlink:href="#op-sum_4"/>
+    <use width="24" height="24" transform="translate(600.74 16.75)" xlink:href="#op-sum_5"/>
+    <use width="24" height="24" transform="translate(515.74 40.09)" xlink:href="#op-sum_4"/>
+    <use id="rnn-sigma-3" data-name="rnn-sigma" width="25.17" height="25.17" transform="translate(131.58 122.58)" xlink:href="#rnn-sigma"/>
+    <use id="rnn-sigma-6" data-name="rnn-sigma" width="25.17" height="25.17" transform="translate(323.58 122.58)" xlink:href="#rnn-sigma"/>
+    <use id="rnn-sigma-9" data-name="rnn-sigma" width="25.17" height="25.17" transform="translate(515.58 122.58)" xlink:href="#rnn-sigma"/>
+  </g>
+</svg>

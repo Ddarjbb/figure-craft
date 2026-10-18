@@ -2,3 +2,4 @@
 PyMuPDF
 Pillow
 matplotlib
+fontTools

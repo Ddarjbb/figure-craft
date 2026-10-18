@@ -3,3 +3,5 @@
 *.py text eol=lf
 *.yaml text eol=lf
 *.txt text eol=lf
+assets/svg-library/**/*.svg -text
+assets/svg-library/** -whitespace

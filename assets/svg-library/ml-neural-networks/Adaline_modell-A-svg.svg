@@ -1,0 +1,304 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="600px" height="410px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <g id="Layer1">
+            <g>
+                <g>
+                    <path d="M300,139C311.598,139 321,148.402 321,160C321,171.598 311.598,181 300,181C288.402,181 279,171.598 279,160C279,148.402 288.402,139 300,139Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <path d="M300,141C310.493,141 319,149.507 319,160C319,170.493 310.493,179 300,179C289.507,179 281,170.493 281,160C281,149.507 289.507,141 300,141Z" style="fill:white;"/>
+                </g>
+                <g>
+                    <text x="289.819px" y="171.122px" style="font-family:Helvetica;font-size:33.3333px;fill:black;">Σ</text>
+                </g>
+            </g>
+            <g>
+                <path d="M150,60.0355C155.523,60.0355 160,64.5127 160,70.0355C160,75.5584 155.523,80.0355 150,80.0355C144.477,80.0355 140,75.5584 140,70.0355C140,64.5127 144.477,60.0355 150,60.0355Z" style="fill:none;stroke-width:2px;stroke:black;"/>
+            </g>
+            <g>
+                <g>
+                    <path d="M150,60.0355C155.523,60.0355 160,64.5127 160,70.0355C160,75.5584 155.523,80.0355 150,80.0355C144.477,80.0355 140,75.5584 140,70.0355C140,64.5127 144.477,60.0355 150,60.0355Z" style="fill:none;stroke-width:2px;stroke:black;"/>
+                </g>
+                <g>
+                    <g>
+                        <path d="M170,50.0355L162.929,64.1777L155.858,57.1066L170,50.0355Z" style="fill:black;"/>
+                    </g>
+                    <g>
+                        <path d="M163.435,55.1508L164.849,56.565L136.565,84.8492L135.151,83.435L163.435,55.1508Z" style="fill:black;"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M299.964,60.0355C305.487,60.0355 309.964,64.5127 309.964,70.0355C309.964,75.5584 305.487,80.0355 299.964,80.0355C294.442,80.0355 289.964,75.5584 289.964,70.0355C289.964,64.5127 294.442,60.0355 299.964,60.0355Z" style="fill:none;stroke-width:2px;stroke:black;"/>
+                </g>
+                <g>
+                    <g>
+                        <path d="M319.964,50.0355L312.893,64.1777L305.822,57.1066L319.964,50.0355Z" style="fill:black;"/>
+                    </g>
+                    <g>
+                        <path d="M313.399,55.1508L314.814,56.565L286.529,84.8492L285.115,83.435L313.399,55.1508Z" style="fill:black;"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M150,120.036C155.523,120.036 160,124.513 160,130.036C160,135.558 155.523,140.036 150,140.036C144.477,140.036 140,135.558 140,130.036C140,124.513 144.477,120.036 150,120.036Z" style="fill:none;stroke-width:2px;stroke:black;"/>
+                </g>
+                <g>
+                    <g>
+                        <path d="M170,110.036L162.929,124.178L155.858,117.107L170,110.036Z" style="fill:black;"/>
+                    </g>
+                    <g>
+                        <path d="M163.435,115.151L164.849,116.565L136.565,144.849L135.151,143.435L163.435,115.151Z" style="fill:black;"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M150,220.036C155.523,220.036 160,224.513 160,230.036C160,235.558 155.523,240.036 150,240.036C144.477,240.036 140,235.558 140,230.036C140,224.513 144.477,220.036 150,220.036Z" style="fill:none;stroke-width:2px;stroke:black;"/>
+                </g>
+                <g>
+                    <g>
+                        <path d="M170,210.036L162.929,224.178L155.858,217.107L170,210.036Z" style="fill:black;"/>
+                    </g>
+                    <g>
+                        <path d="M163.435,215.151L164.849,216.565L136.565,244.849L135.151,243.435L163.435,215.151Z" style="fill:black;"/>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M140,70L125,75L125,65L140,70Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="40" y="69" width="90" height="2" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M140,130L125,135L125,125L140,130Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="40" y="129" width="90" height="2" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M280,157L264.322,159.046L266.23,149.23L280,157Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <path d="M159.199,132.5L270.375,154.11L269.993,156.074L158.818,134.463L159.199,132.5Z" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M429,160L414.136,165L414.136,155L429,160Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="320" y="159" width="99.0909" height="2" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M590,160L575,165L575,155L590,160Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="471" y="159" width="109" height="2" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M140,230L125,235L125,225L140,230Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="40" y="229" width="90" height="2" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M300,140L295,125L305,125L300,140Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="299" y="80.0355" width="2" height="51.9645" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M300,60L295,45L305,45L300,60Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="299" y="11" width="2" height="41" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M360,280L355,265L365,265L360,280Z" style="fill:rgb(255,0,0);"/>
+                </g>
+                <g>
+                    <rect x="359" y="161" width="2" height="108" style="fill:rgb(255,0,0);"/>
+                </g>
+            </g>
+            <g>
+                <path d="M305.25,400L294.75,400L294.75,355L285,355L300,340L315,355L305.25,355L305.25,400Z" style="fill:rgb(255,0,0);"/>
+            </g>
+            <g>
+                <g>
+                    <path d="M390,280L385,265L395,265L390,280Z" style="fill:rgb(255,0,0);"/>
+                </g>
+                <g>
+                    <path d="M389,265L389,229L529,229L529,161L531,161L531,231L391,231L391,265L389,265Z" style="fill:rgb(255,0,0);"/>
+                </g>
+            </g>
+            <g>
+                <text x="12.0833px" y="76.1065px" style="font-family:Helvetica;font-size:25px;fill:black;">x</text>
+                <text x="24.5833px" y="87.2065px" style="font-family:Helvetica;font-size:19.4333px;fill:black;">1</text>
+            </g>
+            <g>
+                <text x="111.138px" y="52.334px" style="font-family:Helvetica;font-size:25px;fill:black;">w</text>
+                <text x="129.192px" y="63.434px" style="font-family:Helvetica;font-size:19.4333px;fill:black;">1</text>
+            </g>
+            <g>
+                <text x="303.048px" y="27.9321px" style="font-family:Helvetica;font-size:25px;fill:black;">1</text>
+            </g>
+            <g>
+                <text x="111.138px" y="112.334px" style="font-family:Helvetica;font-size:25px;fill:black;">w</text>
+                <text x="129.192px" y="123.434px" style="font-family:Helvetica;font-size:19.4333px;fill:black;">2</text>
+            </g>
+            <g>
+                <text x="111.138px" y="212.334px" style="font-family:Helvetica;font-size:25px;fill:black;">w</text>
+                <text x="129.192px" y="223.434px" style="font-family:Helvetica;font-size:19.4333px;fill:black;">n</text>
+            </g>
+            <g>
+                <text x="310px" y="382.334px" style="font-family:Helvetica;font-size:25px;fill:black;">Lernziel</text>
+            </g>
+            <g>
+                <text x="10px" y="136.152px" style="font-family:Helvetica;font-size:29.1667px;fill:black;">x</text>
+                <text x="24.5833px" y="147.252px" style="font-family:Helvetica;font-size:19.4333px;fill:black;">2</text>
+            </g>
+            <g>
+                <text x="12.0833px" y="236.152px" style="font-family:Helvetica;font-size:25px;fill:black;">x</text>
+                <text x="24.5833px" y="247.252px" style="font-family:Helvetica;font-size:19.4333px;fill:black;">n</text>
+            </g>
+            <g>
+                <g>
+                    <path d="M161,230L176,225L176,235L161,230Z" style="fill:rgb(42,0,255);"/>
+                </g>
+                <g>
+                    <path d="M176,229L206,229L206,279L204,279L204,231L176,231L176,229Z" style="fill:rgb(42,0,255);"/>
+                </g>
+            </g>
+            <g>
+                <path d="M161,130L176,125L176,135L161,130Z" style="fill:rgb(42,0,255);"/>
+            </g>
+            <g>
+                <path d="M161,70L176,65L176,75L161,70Z" style="fill:rgb(42,0,255);"/>
+            </g>
+            <g>
+                <g>
+                    <path d="M289,70L274,75L274,65L289,70Z" style="fill:rgb(42,0,255);"/>
+                </g>
+                <g>
+                    <path d="M274,69L249,69L249,279L251,279L251,71L274,71L274,69Z" style="fill:rgb(42,0,255);"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M180,295L165,300L165,290L180,295Z" style="fill:rgb(0,255,23);"/>
+                </g>
+                <g>
+                    <rect x="99" y="294" width="66" height="2" style="fill:rgb(0,255,17);"/>
+                </g>
+                <g>
+                    <rect x="99" y="71" width="2" height="225" style="fill:rgb(0,255,17);"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <rect x="69" y="324" width="96" height="2" style="fill:rgb(0,255,17);"/>
+                </g>
+                <g>
+                    <rect x="69" y="71" width="2" height="255" style="fill:rgb(0,255,17);"/>
+                </g>
+                <g>
+                    <path d="M180,325L165,330L165,320L180,325Z" style="fill:rgb(0,255,23);"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <rect x="84" y="309" width="81" height="2" style="fill:rgb(0,255,17);"/>
+                </g>
+                <g>
+                    <rect x="84" y="71" width="2" height="240" style="fill:rgb(0,255,17);"/>
+                </g>
+                <g>
+                    <path d="M180,310L165,315L165,305L180,310Z" style="fill:rgb(0,255,23);"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <rect x="429" y="139" width="42" height="42" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="431" y="141" width="38" height="38" style="fill:white;"/>
+                </g>
+                <g>
+                    <path d="M466,144L449,144L449,159L434,159L434,161L449,161L449,174L434,174L434,176L451,176L451,161L466,161L466,159L451,159L451,146L466,146L466,144Z" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <rect x="179" y="279" width="242" height="62" style="fill:black;"/>
+                </g>
+                <g>
+                    <rect x="181" y="281" width="238" height="58" style="fill:white;"/>
+                </g>
+            </g>
+            <g>
+                <text x="195.432px" y="319.107px" style="font-family:Helvetica;font-size:29.1667px;fill:black;">Lernalgorithmus</text>
+            </g>
+            <g>
+                <path d="M176,129L221,129L221,279L219,279L219,131L176,131L176,129Z" style="fill:rgb(42,0,255);"/>
+            </g>
+            <g>
+                <path d="M176,69L236,69L236.22,279L234.22,279L234,71L176,71L176,69Z" style="fill:rgb(42,0,255);"/>
+            </g>
+            <g>
+                <g>
+                    <path d="M283.279,147.67L268.067,144.66L273.067,136L283.279,147.67Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <path d="M159.412,75L273.093,140.634L272.093,142.366L158.412,76.7321L159.412,75Z" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path d="M280.808,167.288L270,178.123L265.616,169.135L280.808,167.288Z" style="fill:black;"/>
+                </g>
+                <g>
+                    <path d="M159.123,225.525L270.108,171.394L270.985,173.192L160,227.323L159.123,225.525Z" style="fill:black;"/>
+                </g>
+            </g>
+            <g>
+                <rect x="16" y="167" width="3" height="3" style="fill:black;"/>
+            </g>
+            <g>
+                <rect x="16" y="177" width="3" height="3" style="fill:black;"/>
+            </g>
+            <g>
+                <rect x="16" y="187" width="3" height="3" style="fill:black;"/>
+            </g>
+            <g>
+                <rect x="120" y="157" width="3" height="3" style="fill:black;"/>
+            </g>
+            <g>
+                <rect x="120" y="167" width="3" height="3" style="fill:black;"/>
+            </g>
+            <g>
+                <rect x="120" y="177" width="3" height="3" style="fill:black;"/>
+            </g>
+        </g>
+    </g>
+</svg>

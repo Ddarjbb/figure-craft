@@ -1,0 +1,31 @@
+<svg width="1377" height="565" viewBox="0 0 1377 565" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Figure_4">
+<rect width="1377" height="565" fill="white"/>
+<path id="Vector 89" d="M111 376C262.5 376 271 326 423 326C579.271 326 826 326 949 326C1093 326 1108.5 376 1263 376" stroke="#E8E8E8" stroke-width="5"/>
+<path id="Vector 90" d="M111 376C262.5 376 271 426 423 426C579.271 426 826 426 949 426C1093 426 1108.5 376 1263 376" stroke="#E8E8E8" stroke-width="5"/>
+<path id="Vector 91" d="M111 376C262.5 376 271 534 423 534C579.271 534 826 534 949 534C1093 534 1108.5 376 1263 376" stroke="#E8E8E8" stroke-width="5"/>
+<path id="Vector 88" d="M111 376C262.5 376 271 215.5 423 215.5C579.271 215.5 826 215.5 949 215.5C1093 215.5 1108.5 376 1263 376" stroke="#B0B0B0" stroke-width="5"/>
+<rect id="Rectangle 76" x="1" y="327" width="110" height="98" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 77" x="423" y="396" width="109" height="64" rx="9" fill="#F9F9F9" stroke="#D7D7D7" stroke-width="2"/>
+<rect id="Rectangle 80" x="423" y="292" width="109" height="63" rx="9" fill="#F9F9F9" stroke="#D7D7D7" stroke-width="2"/>
+<rect id="Rectangle 84" x="423" y="188" width="109" height="63" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 82" x="423" y="501" width="109" height="63" rx="9" fill="#F9F9F9" stroke="#D7D7D7" stroke-width="2"/>
+<rect id="Rectangle 78" x="844" y="396" width="109" height="64" rx="9" fill="#F9F9F9" stroke="#D7D7D7" stroke-width="2"/>
+<rect id="Rectangle 81" x="844" y="292" width="109" height="63" rx="9" fill="#F9F9F9" stroke="#D7D7D7" stroke-width="2"/>
+<rect id="Rectangle 85" x="844" y="188" width="109" height="63" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 83" x="844" y="501" width="109" height="63" rx="9" fill="#F9F9F9" stroke="#D7D7D7" stroke-width="2"/>
+<rect id="Rectangle 79" x="1265" y="327" width="110" height="98" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<text id="A1" fill="#545454" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="459" y="229.938">A1</tspan></text>
+<text id="B1" fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="459" y="333.938">B1</tspan></text>
+<text id="C1" fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="459" y="437.938">C1</tspan></text>
+<text id="D1" fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="459" y="541.938">D1</tspan></text>
+<text id="A2" fill="#545454" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="880" y="229.938">A2</tspan></text>
+<text id="B2" fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="880" y="333.938">B2</tspan></text>
+<text id="D2" fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="880" y="437.938">D2</tspan></text>
+<text id="D2_2" fill="#C4C4C4" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="32" letter-spacing="0em"><tspan x="880" y="541.938">D2</tspan></text>
+<text id="The first part of the branch is incentivized to form features relevant to the second half." fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" letter-spacing="0em"><tspan x="237" y="52.3994">The first part of the branch is  </tspan><tspan x="237" y="84.3994">incentivized to form features </tspan><tspan x="237" y="116.399">relevant to the second half.</tspan></text>
+<text id="The second half of the branch prefers features which the first half provides primitives for." fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" letter-spacing="0em"><tspan x="808" y="46.3994">The second half of the branch </tspan><tspan x="808" y="78.3994">prefers features which the first </tspan><tspan x="808" y="110.399">half provides primitives for.</tspan></text>
+<path id="Vector 94" d="M642 53L659.235 51.278L649.126 37.2133L642 53ZM744.917 51.8127C719.021 31.8179 678.758 29.1317 652.235 43.8095L653.687 46.4344C679.146 32.3458 718.119 34.9116 743.083 54.1873L744.917 51.8127Z" fill="#BBBBBB"/>
+<path id="Vector 95" d="M744.756 87.6099L727.459 88.8543L736.971 103.188L744.756 87.6099ZM641.342 87.011C666.721 107.111 707.052 110.455 734.144 96.5091L732.8 93.8472C706.773 107.245 667.702 104.035 643.226 84.6504L641.342 87.011Z" fill="#BBBBBB"/>
+</g>
+</svg>

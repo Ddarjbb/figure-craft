@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   x="0px"
+   y="0px"
+   width="420px"
+   height="400px"
+   viewBox="0 0 420 400"
+   style="enable-background:new 0 0 420 400;"
+   xml:space="preserve"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Architectura von Neumann2.svg"><metadata
+   id="metadata43"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs41" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="976"
+   inkscape:window-height="763"
+   id="namedview39"
+   showgrid="false"
+   inkscape:zoom="0.92277435"
+   inkscape:cx="210"
+   inkscape:cy="200"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg2" />
+<style
+   type="text/css"
+   id="style3">
+
+	.st0{fill:#C0C0C0;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#FFFFFF;fill-opacity:0.7778;stroke:#000000;stroke-width:1.25;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:18;}
+	.st5{font-size:21;}
+
+</style>
+<rect
+   id="rect1873"
+   x="10.312"
+   y="11.688"
+   class="st0"
+   width="348.75"
+   height="58.75" />
+<rect
+   id="rect2760"
+   x="10.312"
+   y="125.875"
+   class="st0"
+   width="158.75"
+   height="158.75" />
+<rect
+   id="rect2762"
+   x="201.938"
+   y="125.875"
+   class="st0"
+   width="158.75"
+   height="158.75" />
+<rect
+   id="rect2764"
+   x="152.938"
+   y="315.562"
+   class="st0"
+   width="118.75"
+   height="72.75" />
+<rect
+   id="rect2768"
+   x="290.938"
+   y="317.562"
+   class="st0"
+   width="118.75"
+   height="70.75" />
+<rect
+   id="rect2788"
+   x="221.938"
+   y="235.875"
+   class="st1"
+   width="118.75"
+   height="38.75" />
+<text
+   class="st3 st5"
+   id="text11"
+   x="249.16336"
+   y="165.5029"
+   style="font-size:21px;font-family:ArialMT">Monas</text>
+
+<text
+   class="st3 st5"
+   id="text13"
+   x="249.92897"
+   y="187.03546"
+   style="font-size:21px;font-family:ArialMT">Logica</text>
+
+<text
+   class="st3 st5"
+   id="text15"
+   x="223.43613"
+   y="211.1006"
+   style="font-size:21px;font-family:ArialMT">Arithmetica</text>
+
+<text
+   class="st3 st4"
+   id="text17"
+   x="27.655197"
+   y="207.6738"
+   style="font-size:18px;font-family:ArialMT">Moderatorium</text>
+
+<text
+   class="st3 st5"
+   id="text19"
+   x="136.6152"
+   y="47.605133"
+   style="font-size:21px;font-family:ArialMT">Memoria</text>
+
+<text
+   class="st3 st5"
+   id="text21"
+   x="190.88112"
+   y="348.5918"
+   style="font-size:21px;font-family:ArialMT">Data</text>
+
+<text
+   class="st3 st5"
+   id="text23"
+   x="176.89967"
+   y="367.5918"
+   style="font-size:21px;font-family:ArialMT">Inducta</text>
+
+<text
+   class="st3 st4"
+   id="text25"
+   x="225.77496"
+   y="261.58591"
+   style="font-size:18px;font-family:ArialMT">Accumulator</text>
+
+<path
+   id="path2851"
+   class="st2"
+   d="M41.458,124.239V72.974l-3.627,6.284h7.163l-3.359-6.46" />
+<path
+   id="path2851_1_"
+   class="st2"
+   d="M130.65,72.797v51.265l-3.627-6.283h7.163l-3.359,6.46" />
+<path
+   id="path2851_2_"
+   class="st2"
+   d="M231.357,124.239V72.974l-3.628,6.284h7.163l-3.359-6.46" />
+<path
+   id="path2851_3_"
+   class="st2"
+   d="M320.55,72.797v51.265l-3.628-6.283h7.163l-3.358,6.46" />
+<path
+   id="use2861"
+   class="st2"
+   d="M200.284,226.983h-29.266l6.284-3.628v7.164l-6.46-3.359" />
+<path
+   id="use2861_1_"
+   class="st2"
+   d="M170.841,183.983h29.266l-6.284-3.628v7.164l6.46-3.359" />
+<path
+   id="path2867"
+   class="st2"
+   d="M203.41,316.219l70.694-39.803l-1.878,3.945l-5.065-2.851l6.943-1.235" />
+<path
+   id="path2867_1_"
+   class="st2"
+   d="M283.285,276.4l70.693,40.693l-7.008-1.08l5.064-2.917l2.193,3.997" />
+<text
+   class="st3 st5"
+   id="text35"
+   x="326.43222"
+   y="347.5918"
+   style="font-size:21px;font-family:ArialMT">Data</text>
+
+<text
+   class="st3 st5"
+   id="text37"
+   x="313.3671"
+   y="368.5918"
+   style="font-size:21px;font-family:ArialMT">Educta</text>
+
+</svg>

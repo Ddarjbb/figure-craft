@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="64cm" height="74cm" viewBox="38 -402 1264 1464" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="40" y="-400" width="1260" height="1460"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ffffff" x="40" y="-400" width="1260" height="1460"/>
+  </g>
+  <g>
+    <rect style="fill: #aaaaaa" x="340" y="600" width="920" height="420"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #7f7f7f" x="340" y="600" width="920" height="420"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800" y="818.561">
+      <tspan x="800" y="818.561"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffaa" x="378.95" y="640" width="262.1" height="340"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ffff00" x="378.95" y="640" width="262.1" height="340"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="818.561">
+      <tspan x="510" y="818.561">Controllerboard  </tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #aaffaa" x="420" y="680" width="170" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #00ff00" x="420" y="680" width="170" height="100"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="505" y="738.561">
+      <tspan x="505" y="738.561">Controller</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffaaaa" x="130" y="840" width="160" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x="130" y="840" width="160" height="100"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="880.922">
+      <tspan x="210" y="880.922">Power</tspan>
+      <tspan x="210" y="916.2">Supply</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="290" y1="910" x2="660" y2="910"/>
+  <g>
+    <rect style="fill: #aaaaff" x="660" y="640" width="560" height="340"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" x="660" y="640" width="560" height="340"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="818.561">
+      <tspan x="940" y="818.561">Internal 3.5" Hard Disk Drive</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="730" x2="660" y2="730"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="330" y1="730" x2="420" y2="730"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 90 610 C 250,610 150,730 330,730"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 80,620 A 10,10 0 1 0 80,600"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="90" y1="890" x2="130" y2="890"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 80,900 A 10,10 0 1 0 80,880"/>
+  <g>
+    <path style="fill: #aaaaff" d="M 860 860.667 C 888,845.167 902,840 930,840 C 958,840 972,845.167 1000,860.667 L 1000,943.333 C 972,958.833 958,964 930,964 C 902,964 888,958.833 860,943.333 L 860,860.667z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" d="M 860 860.667 C 888,845.167 902,840 930,840 C 958,840 972,845.167 1000,860.667 L 1000,943.333 C 972,958.833 958,964 930,964 C 902,964 888,958.833 860,943.333 L 860,860.667"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" d="M 860 860.667 C 888,876.167 902,881.333 930,881.333 C 958,881.333 972,876.167 1000,860.667"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="930" y="916.333">
+      <tspan x="930" y="916.333"></tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="760" x2="630" y2="760"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="630" y1="760" x2="630" y2="870"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="740">
+    <tspan x="680" y="740">P-ATA</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="900">
+    <tspan x="680" y="900">Power</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="660">
+    <tspan x="200" y="660">USB</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="290" y1="870" x2="660" y2="870"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="490" y="860">
+    <tspan x="490" y="860">5V</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="480" y="940">
+    <tspan x="480" y="940">12V</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="610" y1="740" x2="630" y2="720"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="605.757" y="715.757">
+    <tspan x="605.757" y="715.757">40</tspan>
+  </text>
+  <g>
+    <rect style="fill: #aaaaaa" x="340" y="120" width="920" height="420"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #7f7f7f" x="340" y="120" width="920" height="420"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800" y="338.561">
+      <tspan x="800" y="338.561"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffaa" x="378.95" y="160" width="262.1" height="340"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ffff00" x="378.95" y="160" width="262.1" height="340"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="338.561">
+      <tspan x="510" y="338.561">Controllerboard  </tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffaaaa" x="420" y="360" width="170" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x="420" y="360" width="170" height="100"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="505" y="400.922">
+      <tspan x="505" y="400.922">Stepdown</tspan>
+      <tspan x="505" y="436.2">Converter</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #aaffaa" x="420" y="200" width="170" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #00ff00" x="420" y="200" width="170" height="100"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="505" y="258.561">
+      <tspan x="505" y="258.561">Controller</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffaaaa" x="130" y="360" width="160" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x="130" y="360" width="160" height="100"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="400.922">
+      <tspan x="210" y="400.922">Power</tspan>
+      <tspan x="210" y="436.2">Supply</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="290" y1="410" x2="420" y2="410"/>
+  <g>
+    <rect style="fill: #aaaaff" x="660" y="160" width="560" height="340"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" x="660" y="160" width="560" height="340"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="338.561">
+      <tspan x="940" y="338.561">Internal 3.5" Hard Disk Drive</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="410" x2="660" y2="410"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="250" x2="660" y2="250"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="330" y1="250" x2="420" y2="250"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 90 130 C 250,130 150,250 330,250"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 80,140 A 10,10 0 1 0 80,120"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="90" y1="410" x2="130" y2="410"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 80,420 A 10,10 0 1 0 80,400"/>
+  <g>
+    <path style="fill: #aaaaff" d="M 860 380.667 C 888,365.167 902,360 930,360 C 958,360 972,365.167 1000,380.667 L 1000,463.333 C 972,478.833 958,484 930,484 C 902,484 888,478.833 860,463.333 L 860,380.667z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" d="M 860 380.667 C 888,365.167 902,360 930,360 C 958,360 972,365.167 1000,380.667 L 1000,463.333 C 972,478.833 958,484 930,484 C 902,484 888,478.833 860,463.333 L 860,380.667"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" d="M 860 380.667 C 888,396.167 902,401.333 930,401.333 C 958,401.333 972,396.167 1000,380.667"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="930" y="436.333">
+      <tspan x="930" y="436.333"></tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="380" x2="630" y2="380"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="280" x2="630" y2="280"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="630" y1="280" x2="630" y2="380"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="260">
+    <tspan x="680" y="260">S-ATA</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="420">
+    <tspan x="680" y="420">Power</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="180">
+    <tspan x="200" y="180">USB</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="420" x2="660" y2="420"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="430" x2="660" y2="430"/>
+  <g>
+    <rect style="fill: #aaaaaa" x="340" y="-360" width="920" height="420"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #7f7f7f" x="340" y="-360" width="920" height="420"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="800" y="-141.439">
+      <tspan x="800" y="-141.439"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffaa" x="374.474" y="-320" width="271.05" height="340"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ffff00" x="374.474" y="-320" width="271.05" height="340"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="509.999" y="-141.439">
+      <tspan x="509.999" y="-141.439">   Controllerboard</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffaaaa" x="420" y="-120" width="170" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #ff0000" x="420" y="-120" width="170" height="100"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="505" y="-79.0778">
+      <tspan x="505" y="-79.0778">Stepdown</tspan>
+      <tspan x="505" y="-43.8">Converter</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #aaffaa" x="420" y="-280" width="170" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #00ff00" x="420" y="-280" width="170" height="100"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="505" y="-221.439">
+      <tspan x="505" y="-221.439">Controller</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #aaaaff" x="660" y="-320" width="560" height="340"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" x="660" y="-320" width="560" height="340"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="940" y="-141.439">
+      <tspan x="940" y="-141.439">Internal 2.5" Hard Disk Drive</tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="-70" x2="660" y2="-70"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="-230" x2="660" y2="-230"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="330" y1="-230" x2="420" y2="-230"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 90 -350 C 250,-350 150,-230 330,-230"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 80,-340 A 10,10 0 1 0 80,-360"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 80,-300 A 10,10 0 1 0 80,-320"/>
+  <g>
+    <path style="fill: #aaaaff" d="M 860 -99.3333 C 888,-114.833 902,-120 930,-120 C 958,-120 972,-114.833 1000,-99.3333 L 1000,-16.6667 C 972,-1.16667 958,4 930,4 C 902,4 888,-1.16667 860,-16.6667 L 860,-99.3333z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" d="M 860 -99.3333 C 888,-114.833 902,-120 930,-120 C 958,-120 972,-114.833 1000,-99.3333 L 1000,-16.6667 C 972,-1.16667 958,4 930,4 C 902,4 888,-1.16667 860,-16.6667 L 860,-99.3333"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #0000ff" d="M 860 -99.3333 C 888,-83.8333 902,-78.6667 930,-78.6667 C 958,-78.6667 972,-83.8333 1000,-99.3333"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="930" y="-43.6667">
+      <tspan x="930" y="-43.6667"></tspan>
+    </text>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="400" y1="-70" x2="420" y2="-70"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="400" y1="-230" x2="400" y2="-70"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="-220">
+    <tspan x="680" y="-220">S-ATA</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="-60">
+    <tspan x="680" y="-60">Power</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="-300">
+    <tspan x="200" y="-300">USB</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="590" y1="-60" x2="660" y2="-60"/>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" d="M 90 -350 C 150,-350 160,-300 90,-310"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="99.4807" y1="-298.426" x2="119.481" y2="-318.426"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="296.064" y="-244.634">
+    <tspan x="296.064" y="-244.634">4</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="296.064" y1="-219.722" x2="316.064" y2="-239.722"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="115.044" y="-282.818">
+    <tspan x="115.044" y="-282.818">2</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="313.034" y="388.933">
+    <tspan x="313.034" y="388.933">2</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="305.963" y1="419.503" x2="325.963" y2="399.503"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="291.68" y1="258.282" x2="311.68" y2="238.282"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="284.75" y="226.299">
+    <tspan x="284.75" y="226.299">4</tspan>
+  </text>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="290.407" y="709.96">
+    <tspan x="290.407" y="709.96">4</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="294.649" y1="739.115" x2="314.649" y2="719.115"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="608.605" y1="-220.78" x2="628.605" y2="-240.78"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="612.847" y="-248.521">
+    <tspan x="612.847" y="-248.521">7</tspan>
+  </text>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #1a1a1a" x1="610.019" y1="257.784" x2="630.019" y2="237.784"/>
+  <text font-size="28.2222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="612.847" y="223.827">
+    <tspan x="612.847" y="223.827">7</tspan>
+  </text>
+</svg>

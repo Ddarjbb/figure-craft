@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="235" width="965">
+  <defs>
+    <marker id="Arrow2Lend" refY="0" refX="0" overflow="visible" orient="auto">
+      <path stroke-width=".625" d="m8.7185878 4.0337352-10.925877-4.0177219 10.925878-4.0177211c-1.7454984 2.3720609-1.7354408 5.6174519-6e-7 8.035443z" transform="matrix(-1.1,0,0,-1.1,-1.1,0)"/>
+    </marker>
+  </defs>
+  <g transform="translate(40,-79)">
+    <g>
+      <rect id="a" height="59" width="97.385796" stroke="#000" stroke-linecap="round" y="80.414642" x="89.061638" fill="#fff"/>
+      <use xlink:href="#a" transform="translate(155.47006,5e-7)" height="1052.3622" width="744.09448" y="0" x="0"/>
+      <use xlink:href="#a" transform="translate(310.94011,5e-7)" height="1052.3622" width="744.09448" y="0" x="0"/>
+      <use xlink:href="#a" transform="translate(466.41018,5e-7)" height="1052.3622" width="744.09448" y="0" x="0"/>
+      <use xlink:href="#a" transform="translate(621.88022,5e-7)" height="1052.3622" width="744.09448" y="0" x="0"/>
+      <use xlink:href="#a" transform="translate(155.47006,92.812203)" height="1052.3622" width="744.09448" y="0" x="0"/>
+      <use xlink:href="#a" transform="translate(155.47006,173.6244)" height="1052.3622" width="744.09448" y="0" x="0"/>
+      <use xlink:href="#a" transform="translate(310.94011,173.6244)" height="1052.3622" width="744.09448" y="0" x="0"/>
+    </g>
+    <g stroke="#000" fill="none">
+      <path marker-end="url(#Arrow2Lend)" d="m30.930618 90.171593h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m30.930618 109.93226h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m30.930618 127.54722h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m186.46424 109.93226h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m341.91749 109.93226h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m497.38754 109.93226h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m652.85761 109.93226h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m808.32765 109.93226h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m293.2246 139.14123v32.46967"/>
+      <path marker-end="url(#Arrow2Lend)" d="m186.43298 188.05216h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m243.89202 214.80627h-56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m293.2246 232.74598v19.82183"/>
+      <path marker-end="url(#Arrow2Lend)" d="m244.0317 283.52143h-56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m341.91749 283.53905h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m448.69465 139.65287v112.42325"/>
+      <path marker-end="url(#Arrow2Lend)" d="m497.0965 270.07247h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m497.0965 296.86181h56.13102"/>
+      <path marker-end="url(#Arrow2Lend)" d="m570.24873 160.87088v-19.82183"/>
+      <path marker-end="url(#Arrow2Lend)" d="m636.84296 139.72103v19.82183"/>
+    </g>
+    <g font-family="Arial,Liberation Sans,sans-serif" font-size="12px">
+      <text line-height="125%" x="-2.1796837" xml:space="preserve"><tspan y="114.13925" x="114.00356">Reaktion</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="94.378586" x="23.704891" style="text-anchor:end;text-align:end">Methanol</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="114.13339" x="23.704891" style="text-anchor:end;text-align:end">Öle/Fette</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="131.75421" x="22.702938" style="text-anchor:end;text-align:end">Katalysator</tspan></text>
+      <text line-height="125%" x="-2.1797011" xml:space="preserve"><tspan y="113.09042" x="264.32031">Separation</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="105.44687" x="418.49542">Methanol-</tspan><tspan y="120.44687" x="418.49542">abtrennung</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="106.63925" x="567.48212">Neutralisation</tspan><tspan y="121.63925" x="567.48212">und Wäsche</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="112.94687" x="731.52734">Trocknung</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="198.28545" x="256.24316">Ansäuerung</tspan><tspan y="213.28545" x="256.24316">und Trennung</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="279.07126" x="263.02539">Methanol-</tspan><tspan y="294.07126" x="263.02539">abtrennung</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="272.83688" x="418.67413">Methanol-/</tspan><tspan y="287.83688" x="418.67413">Wasser-</tspan><tspan y="302.83688" x="418.67413">rektifikation</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="102.42229" x="370.23294" style="text-anchor:middle;text-align:center">FAME</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="114.13925" x="870.60895">Biodiesel</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="158.89554" x="280.5144" style="text-anchor:end;text-align:end">50% Glycerin</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="192.32947" x="177.87215" style="text-anchor:end;text-align:end">Säure</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="219.12173" x="177.87215" style="text-anchor:end;text-align:end">freie Fettsäure</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="171.46181" x="548.68036">Wasser,</tspan><tspan y="186.46181" x="548.68036">Säure</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="301.06882" x="558.76373">Wasser</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="287.76364" x="177.87215" style="text-anchor:end;text-align:end">Rohglycerin (85%)</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="274.27945" x="558.01959">Methanollagerung</tspan></text>
+      <text xml:space="preserve" line-height="125%"><tspan y="171.64638" x="616.69263">Wasch-</tspan><tspan y="186.64638" x="616.69263">wasser</tspan></text>
+    </g>
+  </g>
+</svg>

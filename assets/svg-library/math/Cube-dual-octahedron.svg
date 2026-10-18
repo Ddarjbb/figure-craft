@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="890" height="890">
+
+<defs>
+  <style>
+    .blue-fill   { fill: rgb(21,101,192); }
+    .blue-stroke { fill: none; stroke: rgb(21,101,192); stroke-opacity: 0.8; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .grey-stroke { fill: none; stroke: rgb(110,109,115); stroke-opacity: 0.8; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .face-fill   { fill: rgb(21,101,192); fill-opacity: 0.098; stroke: none; fill-rule: evenodd; }
+    .dot-fill    { fill: rgb(21,101,192); }
+    .dot-stroke  { fill: none; stroke: rgb(0,0,0); }
+    .label       { fill: rgb(21,101,192); font-family: geogebra-sans-serif, sans-serif; font-size: 16px; }
+    .txt       	 { fill: #FF8000; font-family: geogebra-sans-serif, sans-serif; font-size: 16px; }	
+    .caption     { font-family: sans-serif; font-size: 12px; fill: black; }
+  </style>
+
+  <!-- Reusable dot marker: filled blue circle + black outline -->
+  <symbol id="dot" overflow="visible">
+    <circle r="5" class="dot-fill"/>
+    <circle r="5" class="dot-stroke"/>
+  </symbol>
+</defs>
+
+<rect fill="white" x="0" y="0" width="890" height="890"/>
+
+<!-- ── Shaded quad faces ─────────────────────────────────────────── -->
+<polygon class="face-fill" points="412,476 560,326 412,178 262,328"/>
+<polygon class="face-fill" points="412,476 412,631 560,495 560,326"/>
+<polygon class="face-fill" points="262,328 262,495 412,631 412,476"/>
+
+<!-- ── Three symmetry circles ────────────────────────────────────── -->
+<!-- circle centre (307, 485) r≈205 -->
+<circle class="grey-stroke" cx="307" cy="485" r="205"/>
+<circle class="grey-stroke" cx="307" cy="485" r="185" stroke-width="1" stroke-dasharray="1, 10" stroke-opacity="0.4"/>
+<circle class="grey-stroke" cx="307" cy="485" r="225" stroke-width="1" stroke-dasharray="1, 10" stroke-opacity="0.4"/>
+<!-- circle centre (512, 485) r≈205 -->
+<circle class="grey-stroke" cx="512" cy="485" r="205"/>
+<circle class="grey-stroke" cx="512" cy="485" r="185" stroke-width="1" stroke-dasharray="1, 10" stroke-opacity="0.4"/>
+<circle class="grey-stroke" cx="512" cy="485" r="225" stroke-width="1" stroke-dasharray="1, 10" stroke-opacity="0.4"/>
+<!-- circle centre (405, 309) r≈205 -->
+<circle class="grey-stroke" cx="405" cy="307" r="205"/>
+<circle class="grey-stroke" cx="405" cy="307" r="225" stroke-width="1" stroke-dasharray="1, 10" stroke-opacity="0.4"/>
+<circle class="grey-stroke" cx="405" cy="307" r="185" stroke-width="1" stroke-dasharray="1, 10" stroke-opacity="0.4"/>
+
+<!-- ── Cube edges (blue) ──────────────────────────────────────────── -->
+<!-- Front face: 412,476 → 560,326 → 412,178 → 262,328 → close -->
+<polygon class="blue-stroke" points="412,476 560,326 412,178 262,328"/>
+<!-- Side/bottom face edges -->
+<polyline class="blue-stroke" points="412,476 412,631 560,495 560,326"/>
+<polyline class="blue-stroke" points="262,328 262,495 412,631"/>
+
+<!-- ── Dot markers ────────────────────────────────────────────────── -->
+<!-- use href="#dot" x="307" y="487"/ --> <!-- Front  -->
+<circle r="8" cx="307" cy="487" fill="red" />
+<!-- use href="#dot" x="512" y="484"/ --> <!-- Right  -->
+<circle r="8" cx="512" cy="484" fill="blue" />
+<!-- use href="#dot" x="408" y="309"/ --> <!-- Top    -->
+<circle r="8" cx="408" cy="309" fill="white" />
+<!-- use href="#dot" x="610" y="304"/ --> <!-- Back   -->
+<circle r="8" cx="610" cy="304" fill="orange" />
+<use href="#dot" x="412" y="476"/> <!-- 3      -->
+<use href="#dot" x="560" y="326"/> <!-- 2      -->
+<use href="#dot" x="410" y="178"/> <!-- 1      -->
+<use href="#dot" x="262" y="328"/> <!-- 4      -->
+<use href="#dot" x="411" y="631"/> <!-- 6      -->
+<use href="#dot" x="560" y="495"/> <!-- 7      -->
+<use href="#dot" x="264" y="495"/> <!-- 5      -->
+
+<circle r="8" cx="200" cy="312" fill="green" /> <!-- Left -->
+<circle r="8" cx="410" cy="664" fill="yellow" /> <!-- Bottom  -->
+
+<!-- ── Labels ────────────────────────────────────────────────────── -->
+<text class="txt" x="322" y="480">Front</text>
+<text class="txt" x="460" y="484">Right</text>
+<text class="txt" x="401" y="341">Top</text>
+<text class="txt" x="155" y="310">Left</text>
+<text class="txt" x="623" y="305">Back</text>
+<text class="txt" x="384" y="700">Bottom</text>
+<text class="label" x="408" y="459">3</text>
+<text class="label" x="570" y="326">2</text>
+<text class="label" x="404" y="164">1</text>
+<text class="label" x="239" y="328">4</text>
+<text class="label" x="239" y="495">5</text>
+<text class="label" x="419" y="644">6</text>
+<text class="label" x="570" y="495">7</text>
+<!-- ── Title ──────────────────────────────────────────────────────── -->
+<text x="108" y="42" font-family="sans-serif" font-size="18" font-weight="bold" fill="black">A cube and its dual octahedron</text>
+
+<!-- ── Captions ───────────────────────────────────────────────────── -->
+<text class="caption" x="100" y="742">The six face-centres of the cube (Front, Back, Left, Right, Top, Bottom) are the vertices of a regular octahedron (its dual polyhedron).</text>
+<text class="caption" x="100" y="762">Each of the three circles passes through four face-centres lying in a common plane of symmetry of the cube.</text>
+<text class="caption" x="100" y="782">The two solids share the same centre, and duality swaps their vertices with faces:</text>
+<text class="caption" x="100" y="802">the cube's 6 faces correspond to the octahedron's 6 vertices, while its 8 vertices correspond to the octahedron's 8 faces.</text>
+
+</svg>

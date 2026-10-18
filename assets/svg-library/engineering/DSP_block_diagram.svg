@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="410" height="80" id="svg2" sodipodi:version="0.32" inkscape:version="0.45" sodipodi:docbase="/home/cburnett/wikipedia/images" sodipodi:docname="DSP block diagram.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" version="1.0" sodipodi:modified="true">
+  <defs id="defs4">
+    <marker inkscape:stockid="TriangleOutM" orient="auto" refY="0.0" refX="0.0" id="TriangleOutM" style="overflow:visible">
+      <path id="path3514" d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z " style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none" transform="scale(0.4)"/>
+    </marker>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.4142136" inkscape:cx="201.21589" inkscape:cy="-47.071595" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" inkscape:grid-points="true" inkscape:window-width="746" inkscape:window-height="876" inkscape:window-x="0" inkscape:window-y="31" width="410px" height="80px"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <g id="g3628">
+      <path style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 60,39 L 60,41 L 83.75,41 L 83.75,39 L 60,39 z " id="path3422"/>
+      <path style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" d="M 88.371772,40 L 81.451772,44 L 81.451772,36 L 88.371772,40 z " id="path3634"/>
+    </g>
+    <g id="g3636">
+      <path style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 140,39 L 140,41 L 163.9375,41 L 163.9375,39 L 140,39 z " id="path3622"/>
+      <path style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" d="M 168.54999,40 L 161.62999,44 L 161.62999,36 L 168.54999,40 z " id="path3642"/>
+    </g>
+    <rect style="fill:#ccccff;fill-opacity:1;fill-rule:nonzero;stroke:#acadda;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect3169" width="50.005783" height="40.002541" x="90" y="19.999998"/>
+    <text xml:space="preserve" style="font-size:11.94996834px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" x="115.47266" y="44.286369" id="text3171" transform="scale(0.9983787,1.001624)"><tspan sodipodi:role="line" x="115.47266" y="44.286369" id="tspan3175">ADC</tspan></text>
+    <rect style="fill:#ffcccc;fill-opacity:1;fill-rule:nonzero;stroke:#daacac;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect3150" width="49.994217" height="39.997448" x="10.011567" y="20"/>
+    <text xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" x="35.506721" y="35.809273" id="text3152"><tspan sodipodi:role="line" id="tspan3154" x="35.506721" y="35.809273">Analog</tspan><tspan sodipodi:role="line" x="35.506721" y="50.809273" id="tspan3159">signal</tspan></text>
+    <g id="g3644">
+      <path style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 240,39 L 240,41 L 263.9375,41 L 263.9375,39 L 240,39 z " id="path3624"/>
+      <path style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" d="M 268.55073,40 L 261.63073,44 L 261.63073,36 L 268.55073,40 z " id="path3650"/>
+    </g>
+    <rect style="fill:#ccccff;fill-opacity:1;fill-rule:nonzero;stroke:#acadda;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect3243" width="69.998955" height="59.998566" x="170.00682" y="10.001434"/>
+    <text xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" x="204.96236" y="28.311264" id="text3245"><tspan sodipodi:role="line" x="204.96236" y="28.311264" id="tspan3247">Digital</tspan><tspan sodipodi:role="line" x="204.96236" y="43.311264" id="tspan3252">signal</tspan><tspan sodipodi:role="line" x="204.96236" y="58.311264" id="tspan3254">processing</tspan></text>
+    <g id="g3652">
+      <path style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 320,39 L 320,41 L 343.375,41 L 343.375,39 L 320,39 z " id="path3626"/>
+      <path style="fill-rule:evenodd;stroke:#000000;stroke-width:0.4pt;marker-start:none" d="M 347.98396,40 L 341.06396,44 L 341.06396,36 L 347.98396,40 z " id="path3658"/>
+    </g>
+    <rect style="fill:#ccccff;fill-opacity:1;fill-rule:nonzero;stroke:#acadda;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect3269" width="50.011349" height="40.002552" x="270.00012" y="19.99745"/>
+    <text xml:space="preserve" style="font-size:11.95063496px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" x="295.7515" y="44.286282" id="text3271" transform="scale(0.998434,1.0015684)"><tspan sodipodi:role="line" x="295.7515" y="44.286282" id="tspan3273">DAC</tspan></text>
+    <rect style="fill:#ffcccc;fill-opacity:1;fill-rule:nonzero;stroke:#daacac;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect3283" width="49.994217" height="40.000065" x="350.0058" y="20.000002"/>
+    <text xml:space="preserve" style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" x="375.50095" y="35.810581" id="text3285"><tspan sodipodi:role="line" id="tspan3287" x="375.50095" y="35.810581">Analog</tspan><tspan sodipodi:role="line" x="375.50095" y="50.810581" id="tspan3289">signal</tspan></text>
+  </g>
+</svg>

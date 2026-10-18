@@ -1,0 +1,62 @@
+<svg width="1377" height="451" viewBox="0 0 1377 451" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Figure_3">
+<rect width="1377" height="451" fill="white"/>
+<g id="Group 78">
+<text id="We typically think of residual blocks as sequential layers, building on top of each other." fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" letter-spacing="0em"><tspan x="933" y="52.3994">We typically think of residual </tspan><tspan x="933" y="84.3994">blocks as sequential layers, </tspan><tspan x="933" y="116.399">building on top of each other.</tspan></text>
+<g id="Group 29">
+<path id="Vector 96" d="M31.6364 144.818C54.8525 144.818 56.1551 143.727 79.4479 143.727C103.395 143.727 745.76 143.727 764.609 143.727C786.676 143.727 789.051 144.818 812.727 144.818" stroke="#B0B0B0" stroke-width="5"/>
+<g id="Group 21">
+<path id="Vector 88" d="M31.6364 143.727C64.9204 143.727 66.7879 63 100.182 63C134.514 63 188.72 63 215.742 63C247.379 63 250.784 143.727 284.727 143.727" stroke="#B0B0B0" stroke-width="5"/>
+<rect id="Rectangle 84" x="100.273" y="28" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 85" x="184.273" y="28" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+</g>
+<g id="Group 22">
+<path id="Vector 88_2" d="M289.091 143.727C322.375 143.727 324.242 63 357.636 63C391.969 63 446.174 63 473.197 63C504.833 63 508.239 143.727 542.182 143.727" stroke="#B0B0B0" stroke-width="5"/>
+<rect id="Rectangle 84_2" x="357.727" y="28" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 85_2" x="441.727" y="28" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+</g>
+<g id="Group 23">
+<path id="Vector 88_3" d="M546.545 143.727C579.83 143.727 581.697 63 615.091 63C649.423 63 703.629 63 730.652 63C762.288 63 765.693 143.727 799.636 143.727" stroke="#B0B0B0" stroke-width="5"/>
+<rect id="Rectangle 84_3" x="615.182" y="28" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 85_3" x="699.182" y="28" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+</g>
+<g id="Group 19">
+<circle id="Ellipse 1" cx="24.5455" cy="143.182" r="23.5455" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<text id="+" fill="#606060" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" letter-spacing="0em"><tspan x="10.9091" y="154.717">+</tspan></text>
+</g>
+<g id="Group 20">
+<circle id="Ellipse 1_2" cx="285.273" cy="143.182" r="23.5455" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<text id="+_2" fill="#606060" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" letter-spacing="0em"><tspan x="271.636" y="154.717">+</tspan></text>
+</g>
+<g id="Group 25">
+<circle id="Ellipse 1_3" cx="542.727" cy="143.182" r="23.5455" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<text id="+_3" fill="#606060" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" letter-spacing="0em"><tspan x="529.091" y="154.717">+</tspan></text>
+</g>
+<g id="Group 26">
+<circle id="Ellipse 1_4" cx="807.818" cy="143.182" r="23.5455" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<text id="+_4" fill="#606060" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" letter-spacing="0em"><tspan x="794.182" y="154.717">+</tspan></text>
+</g>
+</g>
+</g>
+<g id="Group 77">
+<text id="... but we can also conceptualize them as, to some extent, being parallel branches due to the skip connections. This means that residual blocks can potentially specialize." fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" letter-spacing="0em"><tspan x="933" y="268.399">... but we can also conceptualize </tspan><tspan x="933" y="300.399">them as, to some extent, being </tspan><tspan x="933" y="332.399">parallel branches due to the skip </tspan><tspan x="933" y="364.399">connections. This means that </tspan><tspan x="933" y="396.399">residual blocks can potentially </tspan><tspan x="933" y="428.399">specialize.</tspan></text>
+<g id="Group 28">
+<path id="Vector 88_4" d="M16.3636 279C138.945 279 582.172 279 678.655 279C791.612 279 775.554 368.291 810.545 387" stroke="#B0B0B0" stroke-width="5"/>
+<path id="Vector 97" opacity="0.25" d="M219.273 281.182C241.133 281.182 249.267 296.454 271.636 296.454" stroke="#B0B0B0" stroke-width="5"/>
+<path id="Vector 100" opacity="0.25" d="M476.727 333.545C498.588 333.545 506.722 352.091 529.091 352.091" stroke="#B0B0B0" stroke-width="5"/>
+<rect id="Rectangle 84_4" x="100.273" y="244" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 85_4" x="184.273" y="244" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<path id="Vector 88_5" d="M357.818 332.455C436.968 332.455 630.974 332.455 693.273 332.455C766.208 332.455 753.818 368.323 801.818 387" stroke="#B0B0B0" stroke-width="5"/>
+<rect id="Rectangle 84_5" x="357.727" y="297.455" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 85_5" x="441.727" y="297.455" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<path id="Vector 88_6" d="M615.273 388.091C649.571 388.091 703.723 388.091 730.719 388.091C762.325 388.091 765.727 387 799.636 387" stroke="#B0B0B0" stroke-width="5"/>
+<rect id="Rectangle 84_6" x="615.182" y="353.091" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<rect id="Rectangle 85_6" x="699.182" y="353.091" width="37.2727" height="68.9091" rx="9" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<g id="Group 27">
+<circle id="Ellipse 1_5" cx="807.818" cy="385.363" r="23.5455" fill="#DCDCDC" stroke="#757575" stroke-width="2"/>
+<text id="+_5" fill="#606060" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="40" letter-spacing="0em"><tspan x="794.182" y="396.899">+</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</svg>

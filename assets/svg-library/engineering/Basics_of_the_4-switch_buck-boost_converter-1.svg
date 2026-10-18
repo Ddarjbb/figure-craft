@@ -1,0 +1,13 @@
+<svg width="204mm" height="387mm" version="1.1" viewBox="0 0 204 387" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect width="204" height="387" fill="#fff"/>
+ <g id="a" fill="none" stroke="#000" stroke-linejoin="round"><path d="m163 109v24l18-12z"/><path d="m181 109v24" stroke-width="2"/></g>
+ <g font-family="Times" font-size="16px" font-style="italic"><text x="162" y="12">S<tspan font-style="normal">4</tspan></text><text x="162" y="107">D<tspan font-style="normal">4</tspan></text><text x="39" y="159">D<tspan font-style="normal">2</tspan></text><text x="39" y="252">D<tspan font-style="normal">2</tspan></text><text x="162" y="295">D<tspan font-style="normal">4</tspan></text>
+ <g fill="#f0f" font-style="normal"><text x="20" y="100">A</text><text x="20" y="198">B</text><text x="20" y="293">C</text><text x="20" y="385">D</text></g>
+ <g id="b"><path d="m3 52h28m-14 0v-29m180 0v61h-180v-26m74-35c0-7 10-7 10 0 0-7 10-7 10 0 0-7 11-7 11 0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+ <g stroke-linejoin="round" stroke-width="2"><path d="m9 58h16" stroke="#000"/><path d="m3 45h10m-5 5v-10" stroke="#f00"/><path d="m3 63h10" stroke="#00f"/></g>
+ <text x="175" y="56">R<tspan dy="4" font-size="11px">l</tspan></text><rect x="192" y="39" width="10" height="27" fill="#fff" stroke="#000"/><text x="98" y="13">L<tspan font-style="normal">1</tspan></text></g>
+ <use transform="translate(0 98)" xlink:href="#b"/><use transform="translate(0 192)" xlink:href="#b"/><use transform="translate(0 286)" xlink:href="#b"/><use transform="translate(0 188)" xlink:href="#a"/><use transform="rotate(-90 137 187)" xlink:href="#a"/><use transform="rotate(-90 184 234)" xlink:href="#a"/>
+ <g id="d"><path d="m133 56 8-12v-21m0 33v28" fill="none" stroke="#000"/><text x="115" y="56">S<tspan font-style="normal">3</tspan></text><circle cx="141" cy="23" r="2"/><circle cx="141" cy="84" r="2"/></g>
+ <use transform="translate(0,98)" xlink:href="#d"/><use transform="translate(0,286)" xlink:href="#d"/>
+ <g id="c" stroke-linejoin="round"><path d="m17 23h21m0-8 13 8h40" fill="none" stroke="#000"/><text x="36" y="13">S<tspan font-style="normal">1</tspan></text><circle cx="71" cy="23" r="2"/></g>
+ <use transform="translate(0,98)" xlink:href="#c"/><use transform="translate(0,192)" xlink:href="#c"/><text x="44" y="56">S<tspan font-style="normal">2</tspan></text><circle cx="71" cy="84" r="2"/><circle cx="71" cy="182" r="2"/><path d="m122 309h75m-180 0h74m31-94h75m-126 0v61m51-155h75m-126 0v61m-8-126 8-12v-21m0 33v28m92-69 13 8h21m-75 0h41" fill="none" stroke="#000"/><circle cx="71" cy="276" r="2"/></g></svg>

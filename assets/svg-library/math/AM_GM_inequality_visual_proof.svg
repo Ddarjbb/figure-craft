@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-105 -117 210 140">
+ <title>AM GM inequality visual proof</title>
+ <desc>Proof without words of the inequality of arithmetic and geometric means, drawn by CMG Lee. PR is a diameter of a circle centred on O; its radius AO is the arithmetic mean of ''a'' and ''b''. Using the geometric mean theorem, right triangle PGR can be split into two similar triangles PQG and GQR; GQ / ''a'' = ''b'' / GQ, hence GQ = &#8730;(''ab''), the geometric mean.</desc>
+ <style type="text/css">
+.main { font-family:Helvetica,Arial,sans-serif; font-size:22px; text-anchor:middle; fill:#000000; stroke:#999999; stroke-linejoin:round; }
+.var  { font-style:italic; }
+text  { stroke:none; }
+ </style>
+ <circle cx="0" cy="0" r="99999" fill="#ffffff"/>
+ <g class="main">
+  <circle cx="0" cy="0" r="100"   fill="none"/>
+  <path d="M 28,-96 V 0 H -100 Z" fill="#ffccee"/>
+  <path d="M 28,-96 V 0 H  100 Z" fill="#eeccff"/>
+  <path d="M 28,-96 H 0"    stroke-dasharray="1,1"/>
+  <path d="M    0,0 V -100" stroke="#cc0099"/>
+  <path d="M   28,0 H -100" stroke="#ff0000" stroke-width="2"/>
+  <path d="M   28,0 H  100" stroke="#0000ff" stroke-width="2"/>
+  <path d="M   28,0 V  -96" stroke="#9900ff"/>
+  <path d="M -3,-3 L 3,3 M -3,3 L 3,-3 M 0,-10 h 10 v 10 M 28,-10 h 10 v 10 M 20,-90 l 6,8 l 8,-6" fill="none" stroke="#000000" stroke-width="0.5"/>
+  <text transform="translate( 15,-25)" y="0.7ex" fill="#999999"><tspan>&#8805;</tspan></text>
+  <text transform="translate(-30, 12)" y="0.7ex" fill="#ff0000"><tspan class="var">a</tspan></text>
+  <text transform="translate( 64, 12)" y="0.7ex" fill="#0000ff"><tspan class="var">b</tspan></text>
+  <text transform="translate( 47,-22)" y="0.7ex" fill="#9900ff"><tspan>&#8730;</tspan><tspan class="var">ab</tspan><tspan x="0.45ex" dy="-2.1ex">__</tspan></text>
+  <text transform="translate(-22,-35)" y="0.7ex" fill="#cc0099"><tspan class="var">a</tspan><tspan>+</tspan><tspan class="var">b</tspan><tspan x="0">___</tspan><tspan x="0" dy="2ex">2</tspan></text>
+  <text transform="translate(  0, 10)" y="0.7ex" font-size="12"><tspan>O</tspan><tspan x="-93">P</tspan><tspan x="93">R</tspan><tspan x="28">Q</tspan><tspan x="28" dy="-115">G</tspan><tspan x="0" dy="-5">A</tspan></text>
+ </g>
+</svg>

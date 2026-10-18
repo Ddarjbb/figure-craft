@@ -1,0 +1,267 @@
+<svg width="1377" height="788" viewBox="0 0 1377 788" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Figure_2" clip-path="url(#clip0)">
+<rect width="1377" height="788" fill="white"/>
+<g id="Group 75">
+<g id="InceptionV1 has nine sets of four-way branches called &#226;&#128;&#156;Inception blocks.&#226;&#128;&#157;">
+<text fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" font-weight="bold" letter-spacing="0em"><tspan x="0" y="273.399">InceptionV1</tspan></text>
+<text fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" letter-spacing="0em"><tspan x="149.504" y="273.399"> has </tspan><tspan x="0" y="305.399">nine sets of four-way </tspan><tspan x="0" y="337.399">branches called </tspan><tspan x="0" y="369.399">&#x201c;Inception blocks.&#x201d;</tspan></text>
+</g>
+<path id="Vector 109" d="M341 237L341 501" stroke="#B0B0B0"/>
+<g id="Group 73">
+<g id="Group 46">
+<path id="Vector 103" d="M601.115 371.467C570.332 372.672 578.102 407.921 545.825 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104" d="M601.115 371.467C570.663 370.262 578.35 335.012 546.42 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 61">
+<path id="Vector 103_2" d="M1033.97 371.467C1003.19 372.672 1010.96 407.921 978.681 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_2" d="M1033.97 371.467C1003.52 370.262 1011.21 335.012 979.275 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 56">
+<path id="Vector 103_3" d="M818.305 371.467C787.522 372.672 795.293 407.921 763.016 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_3" d="M818.305 371.467C787.853 370.262 795.54 335.012 763.61 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 62">
+<path id="Vector 103_4" d="M1251.16 371.467C1220.38 372.672 1228.15 407.921 1195.87 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_4" d="M1251.16 371.467C1220.71 370.262 1228.4 335.012 1196.47 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 47">
+<path id="Vector 103_5" d="M601.115 370.64C570.332 374.114 578.102 475.715 545.825 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_5" d="M601.115 370.64C570.663 367.167 578.35 265.566 546.42 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 63">
+<path id="Vector 103_6" d="M1033.97 370.64C1003.19 374.114 1010.96 475.715 978.681 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_6" d="M1033.97 370.64C1003.52 367.167 1011.21 265.566 979.275 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 57">
+<path id="Vector 103_7" d="M818.305 370.64C787.522 374.114 795.293 475.715 763.016 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_7" d="M818.305 370.64C787.853 367.167 795.54 265.566 763.61 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 64">
+<path id="Vector 103_8" d="M1251.16 370.64C1220.38 374.114 1228.15 475.715 1195.87 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_8" d="M1251.16 370.64C1220.71 367.167 1228.4 265.566 1196.47 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 43">
+<path id="Vector 103_9" d="M622.748 371.467C653.531 372.672 645.76 407.921 678.037 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_9" d="M622.748 371.467C653.2 370.262 645.513 335.012 677.443 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 65">
+<path id="Vector 103_10" d="M1055.6 371.467C1086.39 372.672 1078.62 407.921 1110.89 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_10" d="M1055.6 371.467C1086.05 370.262 1078.37 335.012 1110.3 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 58">
+<path id="Vector 103_11" d="M839.938 371.467C870.721 372.672 862.951 407.921 895.228 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_11" d="M839.938 371.467C870.39 370.262 862.703 335.012 894.633 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 48">
+<path id="Vector 103_12" d="M399 371.467C433.739 372.672 424.97 407.921 461.395 407.319" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_12" d="M399 371.467C433.365 370.262 424.691 335.012 460.724 335.615" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 45">
+<path id="Vector 103_13" d="M622.748 370.64C653.531 374.114 645.76 475.715 678.037 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_13" d="M622.748 370.64C653.2 367.167 645.513 265.566 677.443 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 67">
+<path id="Vector 103_14" d="M1055.6 370.64C1086.39 374.114 1078.62 475.715 1110.89 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_14" d="M1055.6 370.64C1086.05 367.167 1078.37 265.566 1110.3 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 59">
+<path id="Vector 103_15" d="M839.938 370.64C870.721 374.114 862.951 475.715 895.228 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_15" d="M839.938 370.64C870.39 367.167 862.703 265.566 894.633 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 49">
+<path id="Vector 103_16" d="M399 370.64C433.739 374.114 424.97 475.715 461.395 473.978" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_16" d="M399 370.64C433.365 367.167 424.691 265.566 460.724 267.302" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<rect id="Rectangle 187" x="597.162" y="334" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 189" x="1030.16" y="334" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 188" x="814.162" y="334" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<g id="Group 54">
+<path id="Vector 130" d="M688.266 336H749.636" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 132" d="M688.266 268H749.636" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 131" d="M691.334 407H756.796" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 133" d="M694.403 474H761.91" stroke="#DDDDDD" stroke-width="5"/>
+<rect id="Rectangle 169" x="674.969" y="309" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 188_2" x="674.969" y="241" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 190" x="674.969" y="446" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 173" x="674.969" y="378" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 176" x="732.248" y="309" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 189_2" x="732.248" y="241" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 191" x="732.248" y="446" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 180" x="732.248" y="378" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 186" x="669.854" y="237" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 192" x="669.854" y="305" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 193" x="669.854" y="374" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 194" x="669.854" y="443" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+</g>
+<g id="Group 69">
+<path id="Vector 130_2" d="M1121.12 336H1182.49" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 132_2" d="M1121.12 268H1182.49" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 131_2" d="M1124.19 407H1189.65" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 133_2" d="M1127.26 474H1194.77" stroke="#DDDDDD" stroke-width="5"/>
+<rect id="Rectangle 169_2" x="1107.82" y="309" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 188_3" x="1107.82" y="241" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 190_2" x="1107.82" y="446" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 173_2" x="1107.82" y="378" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 176_2" x="1165.1" y="309" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 189_3" x="1165.1" y="241" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 191_2" x="1165.1" y="446" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 180_2" x="1165.1" y="378" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 186_2" x="1102.71" y="237" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 192_2" x="1102.71" y="305" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 193_2" x="1102.71" y="374" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 194_2" x="1102.71" y="443" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+</g>
+<g id="Group 60">
+<path id="Vector 130_3" d="M905.456 336H966.827" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 132_3" d="M905.456 268H966.827" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 131_3" d="M908.525 407H973.986" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 133_3" d="M911.593 474H979.101" stroke="#DDDDDD" stroke-width="5"/>
+<rect id="Rectangle 169_3" x="892.159" y="309" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 188_4" x="892.159" y="241" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 190_3" x="892.159" y="446" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 173_3" x="892.159" y="378" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 176_3" x="949.438" y="309" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 189_4" x="949.438" y="241" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 191_3" x="949.438" y="446" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 180_3" x="949.438" y="378" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 186_3" x="887.045" y="237" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 192_3" x="887.045" y="305" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 193_3" x="887.045" y="374" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 194_3" x="887.045" y="443" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+</g>
+<g id="Group 55">
+<path id="Vector 134" d="M470.4 336H531.771" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 135" d="M470.4 268H531.771" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 136" d="M473.469 407H538.931" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 137" d="M470.4 474H537.908" stroke="#DDDDDD" stroke-width="5"/>
+<rect id="Rectangle 195" x="458.126" y="309" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 196" x="458.126" y="241" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 197" x="458.126" y="446" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 198" x="458.126" y="378" width="31.7081" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 199" x="515.405" y="309" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 200" x="515.405" y="241" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 201" x="515.405" y="446" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 202" x="515.405" y="378" width="32.731" height="50" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 203" x="453.012" y="237" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 204" x="453.012" y="305" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 205" x="453.012" y="374" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 206" x="453.012" y="443" width="101.261" height="58" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+</g>
+</g>
+</g>
+<g id="Group 76">
+<g id="AlexNet has several two-way branches.">
+<text fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" letter-spacing="0em"><tspan x="98.2642" y="27.3994"> has several </tspan><tspan x="0" y="59.3994">two-way branches.</tspan></text>
+<text fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" font-weight="bold" letter-spacing="0em"><tspan x="0" y="27.3994">AlexNet</tspan></text>
+</g>
+<path id="Vector 108" d="M341.5 12V176.5" stroke="#B0B0B0"/>
+<path id="Vector 107" d="M1062 88H1229" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 110" d="M477 141H538" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 114" d="M477 39H538" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 113" d="M692 38H753" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 112" d="M692 141H753" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 111" d="M901 38H963" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 109_2" d="M904 141H970" stroke="#DDDDDD" stroke-width="5"/>
+<g id="Group 30">
+<path id="Vector 103_17" d="M406 89C441.548 90.7139 432.574 140.846 469.848 139.989" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_17" d="M406 89C441.165 87.2861 432.289 37.1539 469.161 38.0109" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 31">
+<path id="Vector 103_18" d="M605.388 89C570.624 90.7139 579.4 140.846 542.948 139.989" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_18" d="M605.388 89C570.998 87.2861 579.679 37.1539 543.62 38.0109" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 35">
+<path id="Vector 103_19" d="M1041.25 89C1006.49 90.7139 1015.26 140.846 978.814 139.989" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_19" d="M1041.25 89C1006.86 87.2861 1015.54 37.1539 979.485 38.0109" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 33">
+<path id="Vector 103_20" d="M825.959 89C791.195 90.7139 799.97 140.846 763.519 139.989" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_20" d="M825.959 89C791.569 87.2861 800.25 37.1539 764.191 38.0109" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 32">
+<path id="Vector 103_21" d="M622.621 89C657.384 90.7139 648.609 140.846 685.06 139.989" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_21" d="M622.621 89C657.011 87.2861 648.33 37.1539 684.389 38.0109" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<g id="Group 34">
+<path id="Vector 103_22" d="M832.903 89C867.667 90.7139 858.892 140.846 895.343 139.989" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_22" d="M832.903 89C867.293 87.2861 858.612 37.1539 894.671 38.0109" stroke="#DDDDDD" stroke-width="5"/>
+</g>
+<rect id="Rectangle 122" x="461" y="3" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 126" x="681" y="3" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 130" x="889" y="3" width="31" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 124" x="461" y="105" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 127" x="681" y="105" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 134" x="1095" y="53" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 167" x="815" y="53" width="31" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 131" x="889" y="105" width="31" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 123" x="521" y="3" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 128" x="737" y="3" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 132" x="946" y="3" width="34" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 125" x="521" y="105" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 129" x="737" y="105" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 135" x="1153" y="53" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 133" x="946" y="105" width="34" height="71" rx="6" fill="#D6D8DC"/>
+<g id="image 39" style="mix-blend-mode:darken">
+<rect x="596" y="49" width="37" height="84" fill="url(#pattern0)"/>
+</g>
+<g id="image 40" style="mix-blend-mode:darken">
+<rect x="1033" y="49" width="38" height="84" fill="url(#pattern1)"/>
+</g>
+<rect id="Rectangle 138" x="674" y="-2" width="101" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 142" x="457" y="-2" width="101" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 140" x="883" y="-2" width="101" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 139" x="674" y="100" width="103" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 143" x="457" y="100" width="102" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 141" x="884" y="100" width="101" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+</g>
+<g id="Group 74">
+<g id="Residual Networks aren&#226;&#128;&#153;t typically thought of as having branches, but residual blocks can be seen as a type of branch.">
+<text fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" font-weight="bold" letter-spacing="0em"><tspan x="0" y="585.399">Residual Networks</tspan></text>
+<text fill="#676767" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="27.5" letter-spacing="0em"><tspan x="231.924" y="585.399"> </tspan><tspan x="0" y="617.399">aren&#x2019;t typically thought </tspan><tspan x="0" y="649.399">of as having branches, </tspan><tspan x="0" y="681.399">but residual blocks can </tspan><tspan x="0" y="713.399">be seen as a type of </tspan><tspan x="0" y="745.399">branch.</tspan></text>
+</g>
+<path id="Vector 110_2" d="M341 570L341 764" stroke="#B0B0B0"/>
+<circle id="Ellipse 2" cx="618.5" cy="664.5" r="17.5" fill="#DDDDDD"/>
+<ellipse id="Ellipse 3" cx="834" cy="664.5" rx="18" ry="17.5" fill="#DDDDDD"/>
+<ellipse id="Ellipse 5" cx="1253" cy="670.5" rx="18" ry="17.5" fill="#DDDDDD"/>
+<ellipse id="Ellipse 4" cx="1047" cy="664.5" rx="18" ry="17.5" fill="#DDDDDD"/>
+<path id="Vector 115" d="M707 608H769" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 119" d="M1126 608H1188" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 117" d="M900 608H961" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 116" d="M476 606H537" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 118" d="M380 666L1034 666" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 121" d="M799 666L1299 666" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_23" d="M403 666C439.189 663.984 430.054 605.005 468 606.013" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_24" d="M607 666C572.481 663.984 581.195 605.005 545 606.013" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_25" d="M1043 666C1007.37 663.984 1016.36 605.005 979 606.013" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_26" d="M837 666C802.481 663.984 811.195 605.005 775 606.013" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 123" d="M1257 672C1221.92 669.984 1230.78 611.005 1194 612.013" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_27" d="M628 666C664.189 663.984 655.054 605.005 693 606.013" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 124" d="M1049 666C1083.52 663.984 1074.81 605.005 1111 606.013" stroke="#DDDDDD" stroke-width="5"/>
+<path id="Vector 104_28" d="M826 666C861.632 663.984 852.638 605.005 890 606.013" stroke="#DDDDDD" stroke-width="5"/>
+<rect id="Rectangle 145" x="459" y="571" width="35" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 146" x="689" y="571" width="34" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 162" x="1108" y="571" width="34" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 147" x="887" y="571" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 152" x="522" y="571" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 153" x="749" y="571" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 164" x="1168" y="571" width="32" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 154" x="946" y="571" width="33" height="71" rx="6" fill="#D6D8DC"/>
+<rect id="Rectangle 159" x="684" y="566" width="103" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 166" x="1103" y="566" width="103" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 160" x="455" y="566" width="104" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+<rect id="Rectangle 161" x="881" y="566" width="103" height="81" rx="10" fill="#FFB661" fill-opacity="0.3"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(0 -0.0010352) scale(0.0116649 0.00569358)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="translate(0 -0.0010352) scale(0.0116649 0.00569358)"/>
+</pattern>
+<clipPath id="clip0">
+<rect width="1377" height="788" fill="white"/>
+</clipPath>
+<image id="image0" data-name="image.png" width="92" height="176" xlink:href="data:image/png;base64,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"/>
+</defs>
+</svg>

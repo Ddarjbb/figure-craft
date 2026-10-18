@@ -1,0 +1,1194 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="wp560-svg" version="1.1" baseProfile="full" preserveAspectRatio="xMidYMid" color="black" class="Diagram" viewBox="0 0 1079.333333333333 774" width="800px" height="600px" vocab="http://vocabularies.wikipathways.org/wp#">
+  <style type="text/css"><![CDATA[
+]]></style>
+  <defs>
+    <g id="jit-defs">
+      <filter id="kaaviodoublefalse3filter" width="200%" height="200%" x="-50%" y="-50%">
+        <feComposite in="SourceGraphic" in2="SourceGraphic" operator="over" result="doubleDark"/>
+        <feMorphology in="doubleDark" result="in2Double" operator="dilate" radius="0.16666666666666666"/>
+        <feMorphology in="SourceGraphic" result="inDouble" operator="dilate" radius="3"/>
+        <feComposite in="inDouble" in2="in2Double" operator="out" result="doubleResult"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaaviowhitetofffffffilter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="1  0  0 0 -1                  0  1  0 0 -1                  0  0  1 0 -1                  0  0  0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaavioblacktofffffffilter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="-1   0   0 0 1                   0  -1   0 0 1                   0   0  -1 0 1                   0   0   0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaaviowhiteto000000filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="1  0  0 0 -0                  0  1  0 0 -0                  0  0  1 0 -0                  0  0  0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaavioblackto000000filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="-1   0   0 0 0                   0  -1   0 0 0                   0   0  -1 0 0                   0   0   0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaaviowhitetoc0c0c0filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="1  0  0 0 -0.7529411764705882                  0  1  0 0 -0.7529411764705882                  0  0  1 0 -0.7529411764705882                  0  0  0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaavioblacktoc0c0c0filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="-1   0   0 0 0.7529411764705882                   0  -1   0 0 0.7529411764705882                   0   0  -1 0 0.7529411764705882                   0   0   0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaaviowhitetoafc5c5filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="1  0  0 0 -0.6862745098039216                  0  1  0 0 -0.7725490196078432                  0  0  1 0 -0.7725490196078432                  0  0  0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaavioblacktoafc5c5filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="-1   0   0 0 0.6862745098039216                   0  -1   0 0 0.7725490196078432                   0   0  -1 0 0.7725490196078432                   0   0   0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaaviowhitetob4b464filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="1  0  0 0 -0.7058823529411765                  0  1  0 0 -0.7058823529411765                  0  0  1 0 -0.39215686274509803                  0  0  0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaavioblacktob4b464filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="-1   0   0 0 0.7058823529411765                   0  -1   0 0 0.7058823529411765                   0   0  -1 0 0.39215686274509803                   0   0   0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaaviowhiteto808080filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="1  0  0 0 -0.5019607843137255                  0  1  0 0 -0.5019607843137255                  0  0  1 0 -0.5019607843137255                  0  0  0 1 0"/>
+      </filter>
+      <filter x="0" y="0" height="774" width="1079.333333333333" id="kaavioblackto808080filter" filterUnits="userSpaceOnUse">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="-1   0   0 0 0.5019607843137255                   0  -1   0 0 0.5019607843137255                   0   0  -1 0 0.5019607843137255                   0   0   0 1 0"/>
+      </filter>
+    </g>
+    <g id="jic-defs">
+      <clipPath id="ClipPathRoundedRectangle" clipPathUnits="objectBoundingBox">
+        <rect x="0" y="0" rx="0.125" ry="0.25" width="1" height="1"/>
+      </clipPath>
+      <filter xmlns="http://www.w3.org/2000/svg" id="BlackToRed" filterUnits="userSpaceOnUse" x="0" y="0" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 100% 100%">
+        <feComponentTransfer>
+          <feFuncR type="linear" slope="1" intercept="1"/>
+          <feFuncG type="linear" slope="-1" intercept="1"/>
+          <feFuncB type="linear" slope="-1" intercept="1"/>
+        </feComponentTransfer>
+      </filter>
+      <filter xmlns="http://www.w3.org/2000/svg" id="BlackToGreen" filterUnits="userSpaceOnUse" x="0" y="0" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 100% 100%">
+        <feComponentTransfer>
+          <feFuncR type="linear" slope="1" intercept="1"/>
+          <feFuncG type="linear" slope="-1" intercept="1"/>
+          <feFuncB type="linear" slope="-1" intercept="1"/>
+        </feComponentTransfer>
+      </filter>
+      <filter xmlns="http://www.w3.org/2000/svg" id="Invert100" filterUnits="userSpaceOnUse" x="-100%" y="-100%" width="200%" height="200%" preserveAspectRatio="none" viewBox="0 0 100% 100%">
+        <feColorMatrix type="matrix" in="SourceGraphic" values=" -1   0   0 0 1                      0  -1   0 0 1                      0   0  -1 0 1                      0   0   0 1 0"/>
+      </filter>
+      <filter xmlns="http://www.w3.org/2000/svg" id="Invert95" filterUnits="userSpaceOnUse" x="-50%" y="-50%" width="200%" height="200%" preserveAspectRatio="none" viewBox="0 0 100% 100%">
+        <feComponentTransfer>
+          <feFuncR type="table" tableValues="1 0.05"/>
+          <feFuncG type="table" tableValues="1 0.05"/>
+          <feFuncB type="table" tableValues="1 0.05"/>
+        </feComponentTransfer>
+      </filter>
+      <filter xmlns="http://www.w3.org/2000/svg" id="WhiteTo33BFFF" filterUnits="userSpaceOnUse" x="0" y="0" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 100% 100%">
+        <feColorMatrix type="matrix" in="SourceGraphic" values="  1   0   0 0 0                      0   1   0 0 0                      0   0   1 0 0                      0   0   0 1 0"/>
+      </filter>
+      <filter xmlns="http://www.w3.org/2000/svg" id="WhiteToRed" filterUnits="userSpaceOnUse" x="0" y="0" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 100% 100%">
+        <feComponentTransfer>
+          <feFuncR type="linear" slope="1" intercept="0"/>
+          <feFuncG type="linear" slope="-0.95" intercept="1"/>
+          <feFuncB type="linear" slope="-1" intercept="1"/>
+        </feComponentTransfer>
+      </filter>
+      <filter xmlns="http://www.w3.org/2000/svg" id="WhiteToGreen" filterUnits="userSpaceOnUse" x="0" y="0" width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 100% 100%">
+        <feComponentTransfer>
+          <feFuncR type="linear" slope="-1" intercept="1"/>
+          <feFuncG type="linear" slope="1" intercept="0"/>
+          <feFuncB type="linear" slope="-0.95" intercept="1"/>
+        </feComponentTransfer>
+      </filter>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerArrow" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartArrow" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g transform="rotate(180, 6, 6)">
+            <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidArrow" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndArrow" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimBinding" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="1" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,12 0,6 12,0 5,6" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimBinding" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="1" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g transform="rotate(180, 6, 6)">
+            <polygon points="12,12 0,6 12,0 5,6" stroke-width="0" fill="black"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimBinding" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="1" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,12 0,6 12,0 5,6" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimBinding" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="1" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,12 0,6 12,0 5,6" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimCatalysis" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <circle cx="6" cy="6" r="5.3px" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimCatalysis" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g transform="rotate(180, 6, 6)">
+            <circle cx="6" cy="6" r="5.3px" stroke="black" stroke-width="1" fill="none"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimCatalysis" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <circle cx="6" cy="6" r="5.3px" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimCatalysis" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g transform="rotate(180, 6, 6)">
+          <circle cx="6" cy="6" r="5.3px" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimCleavage" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="30" data-context-stroke-dashoffset="18" stroke-dasharray="99999" refY="15" viewBox="0 0 20 30" refX="10">
+        <g transform="rotate(180, 10, 15)">
+          <line x1="18" y1="14.5" x2="18" y2="30" stroke="black" stroke-width="1"/>
+          <line x1="18" y1="30" x2="0" y2="0" stroke="black" stroke-width="1"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimCleavage" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="30" data-context-stroke-dashoffset="18" stroke-dasharray="99999" refY="15" viewBox="0 0 20 30" refX="0">
+        <g transform="rotate(180, 10, 15)">
+          <g transform="rotate(180, 10, 15)">
+            <line x1="18" y1="14.5" x2="18" y2="30" stroke="black" stroke-width="1"/>
+            <line x1="18" y1="30" x2="0" y2="0" stroke="black" stroke-width="1"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimCleavage" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="30" data-context-stroke-dashoffset="18" stroke-dasharray="99999" refY="15" viewBox="0 0 20 30" refX="10">
+        <g transform="rotate(180, 10, 15)">
+          <line x1="18" y1="14.5" x2="18" y2="30" stroke="black" stroke-width="1"/>
+          <line x1="18" y1="30" x2="0" y2="0" stroke="black" stroke-width="1"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimCleavage" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="30" data-context-stroke-dashoffset="18" stroke-dasharray="99999" refY="15" viewBox="0 0 20 30" refX="20">
+        <g transform="rotate(180, 10, 15)">
+          <line x1="18" y1="14.5" x2="18" y2="30" stroke="black" stroke-width="1"/>
+          <line x1="18" y1="30" x2="0" y2="0" stroke="black" stroke-width="1"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimConversion" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimConversion" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g transform="rotate(180, 6, 6)">
+            <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimConversion" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimConversion" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.8" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="12,11 0,6 12,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimCovalentBond" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g>
+          <path d="M 11,1 L 1,1 L 1,11 L 11,11" stroke="black" strokeWidth="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimCovalentBond" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g>
+            <path d="M 11,1 L 1,1 L 1,11 L 11,11" stroke="black" strokeWidth="1" fill="none"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimCovalentBond" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g>
+          <path d="M 11,1 L 1,1 L 1,11 L 11,11" stroke="black" strokeWidth="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimCovalentBond" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g>
+          <path d="M 11,1 L 1,1 L 1,11 L 11,11" stroke="black" strokeWidth="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimGap" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.3" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <rect x="0" y="5.3" width="8" height="1.4" stroke="none" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimGap" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.3" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g transform="rotate(180, 6, 6)">
+            <rect x="0" y="5.3" width="8" height="1.4" stroke="none" fill="none"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimGap" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.3" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <rect x="0" y="5.3" width="8" height="1.4" stroke="none" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimGap" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="5.3" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g transform="rotate(180, 6, 6)">
+          <rect x="0" y="5.3" width="8" height="1.4" stroke="none" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimInhibition" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="5">
+        <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimInhibition" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="0">
+        <g transform="rotate(180, 5, 10)">
+          <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimInhibition" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="5">
+        <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimInhibition" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="10">
+        <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimModification" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="0,6 11,11 11,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimModification" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g transform="rotate(180, 6, 6)">
+            <polygon points="0,6 11,11 11,1" stroke-width="0" fill="black"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimModification" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="0,6 11,11 11,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimModification" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g transform="rotate(180, 6, 6)">
+          <polygon points="0,6 11,11 11,1" stroke-width="0" fill="black"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimNecessaryStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="16" markerHeight="12" data-context-stroke-dashoffset="9" stroke-dasharray="99999" refY="6" viewBox="0 0 16 12" refX="8">
+        <g transform="rotate(180, 8, 6)">
+          <line x1="14" y1="0" x2="14" y2="12" stroke="black" stroke-width="1" fill="none"/>
+          <line x1="16" y1="6" x2="16" y2="6" stroke="none" fill="none"/>
+          <polygon points="0,6 9,11 9,1" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimNecessaryStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="16" markerHeight="12" data-context-stroke-dashoffset="9" stroke-dasharray="99999" refY="6" viewBox="0 0 16 12" refX="0">
+        <g transform="rotate(180, 8, 6)">
+          <g transform="rotate(180, 8, 6)">
+            <line x1="14" y1="0" x2="14" y2="12" stroke="black" stroke-width="1" fill="none"/>
+            <line x1="16" y1="6" x2="16" y2="6" stroke="none" fill="none"/>
+            <polygon points="0,6 9,11 9,1" stroke="black" stroke-width="1" fill="none"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimNecessaryStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="16" markerHeight="12" data-context-stroke-dashoffset="9" stroke-dasharray="99999" refY="6" viewBox="0 0 16 12" refX="8">
+        <g transform="rotate(180, 8, 6)">
+          <line x1="14" y1="0" x2="14" y2="12" stroke="black" stroke-width="1" fill="none"/>
+          <line x1="16" y1="6" x2="16" y2="6" stroke="none" fill="none"/>
+          <polygon points="0,6 9,11 9,1" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimNecessaryStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="16" markerHeight="12" data-context-stroke-dashoffset="9" stroke-dasharray="99999" refY="6" viewBox="0 0 16 12" refX="16">
+        <g transform="rotate(180, 8, 6)">
+          <line x1="14" y1="0" x2="14" y2="12" stroke="black" stroke-width="1" fill="none"/>
+          <line x1="16" y1="6" x2="16" y2="6" stroke="none" fill="none"/>
+          <polygon points="0,6 9,11 9,1" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <line x1="12" y1="6" x2="12" y2="6" stroke="none" fill="none"/>
+          <polygon points="0,6 11,11 11,1" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="0">
+        <g transform="rotate(180, 6, 6)">
+          <g transform="rotate(180, 6, 6)">
+            <line x1="12" y1="6" x2="12" y2="6" stroke="none" fill="none"/>
+            <polygon points="0,6 11,11 11,1" stroke="black" stroke-width="1" fill="none"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="6">
+        <g transform="rotate(180, 6, 6)">
+          <line x1="12" y1="6" x2="12" y2="6" stroke="none" fill="none"/>
+          <polygon points="0,6 11,11 11,1" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimStimulation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="12" markerHeight="12" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="6" viewBox="0 0 12 12" refX="12">
+        <g transform="rotate(180, 6, 6)">
+          <line x1="12" y1="6" x2="12" y2="6" stroke="none" fill="none"/>
+          <polygon points="0,6 11,11 11,1" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMimTranscriptionTranslation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="24" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="12" viewBox="0 0 20 24" refX="10">
+        <g transform="rotate(180, 10, 12)">
+          <line x1="15" y1="12" x2="15" y2="5" stroke="black" stroke-width="1" fill="none"/>
+          <line x1="15.5" y1="5" x2="8" y2="5" stroke="black" stroke-width="1" fill="none"/>
+          <polygon points="0,5 8,1 8,9" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartMimTranscriptionTranslation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="24" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="12" viewBox="0 0 20 24" refX="0">
+        <g transform="rotate(180, 10, 12)">
+          <g transform="rotate(180, 10, 12)">
+            <line x1="15" y1="12" x2="15" y2="5" stroke="black" stroke-width="1" fill="none"/>
+            <line x1="15.5" y1="5" x2="8" y2="5" stroke="black" stroke-width="1" fill="none"/>
+            <polygon points="0,5 8,1 8,9" stroke="black" stroke-width="1" fill="none"/>
+          </g>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidMimTranscriptionTranslation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="24" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="12" viewBox="0 0 20 24" refX="10">
+        <g transform="rotate(180, 10, 12)">
+          <line x1="15" y1="12" x2="15" y2="5" stroke="black" stroke-width="1" fill="none"/>
+          <line x1="15.5" y1="5" x2="8" y2="5" stroke="black" stroke-width="1" fill="none"/>
+          <polygon points="0,5 8,1 8,9" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndMimTranscriptionTranslation" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="20" markerHeight="24" data-context-stroke-dashoffset="11" stroke-dasharray="99999" refY="12" viewBox="0 0 20 24" refX="20">
+        <g transform="rotate(180, 10, 12)">
+          <line x1="15" y1="12" x2="15" y2="5" stroke="black" stroke-width="1" fill="none"/>
+          <line x1="15.5" y1="5" x2="8" y2="5" stroke="black" stroke-width="1" fill="none"/>
+          <polygon points="0,5 8,1 8,9" stroke="black" stroke-width="1" fill="none"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerTBar" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="5">
+        <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerStartTBar" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="0">
+        <g transform="rotate(180, 5, 10)">
+          <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+        </g>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerMidTBar" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="5">
+        <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+      </marker>
+      <marker xmlns="http://www.w3.org/2000/svg" id="markerEndTBar" markerUnits="userSpaceOnUse" orient="auto" preserveAspectRatio="none" markerWidth="10" markerHeight="20" data-context-stroke-dashoffset="7" stroke-dasharray="99999" refY="10" viewBox="0 0 10 20" refX="10">
+        <line stroke="currentColor" strokeWidth="1.8" x1="3" y1="0" x2="3" y2="20"/>
+      </marker>
+      <symbol id="ArcPathVisio" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>ArcPathVisio</desc>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="m99.5,50c0,27.338341 -22.162117,49.5 -49.5,49.5s-49.5,-22.161659 -49.5,-49.5"/>
+      </symbol>
+      <symbol id="Brace" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>Brace</desc>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="m1.5,49.499996c0,-16.166668 8.166666,-24.249996 24.499998,-24.249996s24.499998,-8.083336 24.499998,-24.250002c0,16.166666 8.166664,24.250002 24.499996,24.250002s24.5,8.083328 24.5,24.249996"/>
+      </symbol>
+      <symbol id="Complex" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>Octagon</desc>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="M0,25 L25,0 L75,0 L100,25 L100,75 L75,100 L25,100 L0,75 Z"/>
+      </symbol>
+      <symbol id="Ellipse" overflow="visible" preserveAspectRatio="none" viewBox="0 0 50 50">
+        <desc>Ellipse</desc>
+        <ellipse stroke="currentColor" vector-effect="non-scaling-stroke" cx="25" cy="25" rx="25" ry="25"/>
+      </symbol>
+      <symbol id="EndoplasmicReticulum" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>EndoplasmicReticulum</desc>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="m73.52756,56.60967c-5.62457,-18.60675 23.51463,-32.43358 23.40173,-45.06604c-0.34426,-4.86102 -10.48934,-8.89743 -18.28974,-5.33395c-17.04119,7.87556 -15.64949,29.30503 -21.20533,42.23387c-0.35661,3.60951 -7.36274,2.46926 -7.74964,-0.48694c-5.8512,-11.38871 17.13534,-24.48692 5.96075,-29.42586c-19.63467,-8.16979 -28.75184,21.15346 -22.0682,28.81784c7.4956,14.17602 -2.17949,24.40679 -6.74689,15.49637c-2.44209,-5.30613 6.06605,-11.08445 -0.80351,-16.17689c-4.31991,-2.79993 -11.75555,-0.64618 -16.15468,3.0943c-12.89117,10.73799 4.72957,40.98145 20.96467,36.14635c4.69833,-1.95989 -3.23603,-8.70151 3.90717,-9.59951c7.29767,-0.81255 5.17628,6.18889 7.68745,9.22691c2.3071,4.0509 4.83232,8.35538 10.7626,11.6237c4.78642,2.53724 15.29437,2.11225 16.77148,-1.95795c2.0318,-9.26291 -26.11129,-28.35848 -10.68903,-31.2815c18.55524,-2.71473 4.74866,23.84573 24.31006,29.69419c9.50188,2.02824 15.63902,-0.62194 14.81255,-4.03272c-2.74586,-11.26327 -25.13557,-22.6802 -24.96441,-33.14968"/>
+      </symbol>
+      <symbol id="HexagonPathVisio" overflow="visible" preserveAspectRatio="none" viewBox="0 8 100 86">
+        <desc>HexagonPathVisio</desc>
+        <g transform="scale(1, 0.85)">
+          <path stroke="currentColor" vector-effect="non-scaling-stroke" d="m1.42004,50.99635l21.07262,-42.13943l56.19152,0l21.0667,42.13943l-21.0667,42.14507l-56.19152,0l-21.07262,-42.14507z"/>
+        </g>
+      </symbol>
+      <symbol id="GolgiApparatus" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>GolgiApparatus</desc>
+        <path vector-effect="non-scaling-stroke" stroke="currentColor" d="m58.46714,27.713327c-22.205345,-29.90079 37.310066,-30.258356 25.567245,-4.823446c-8.807655,18.581238 -17.066429,58.135235 -0.941673,99.22044c13.31469,27.066696 -41.748463,27.760925 -27.755554,-1.469849c11.345825,-29.420242 10.286858,-80.336422 3.129982,-92.927145z"/>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="m31.214371,36.214363c-10.791712,-21.427903 29.897598,-19.848164 18.407501,0.670895c-4.066933,7.422386 -5.782803,61.572803 1.160713,75.028805c8.52943,18.597427 -32.852985,19.355408 -20.500162,-2.250633c6.952761,-17.358604 10.473742,-52.291187 0.931948,-73.449066z"/>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="m29.803959,52.160912c1.584177,11.474716 2.723461,16.737267 -1.482977,38.361366c-3.731956,12.989006 -3.600399,16.340691 -11.732334,19.412781c-6.683298,1.658531 -11.864832,-9.789436 -4.793299,-16.11377c4.855728,-5.623222 6.141087,-10.882362 6.658888,-22.954659c-0.239212,-9.521427 0.814508,-15.823826 -5.36692,-19.958626c-7.624315,-2.195171 -6.088041,-16.534611 4.824059,-13.863804c5.849354,1.027065 10.282408,8.561516 11.892582,15.116711z"/>
+      </symbol>
+      <symbol id="MimDegradation" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>MimDegradation</desc>
+        <circle cx="50" cy="50" r="49" stroke="currentColor" vector-effect="non-scaling-stroke"/>
+        <line x1="1" y1="1" x2="100" y2="100" stroke="currentColor" stroke-width="1" vector-effect="non-scaling-stroke"/>
+      </symbol>
+      <symbol id="Mitochondria" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>Mitochondria</desc>
+        <ellipse stroke="currentColor" cx="50" cy="50" rx="50" ry="50"/>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="m14.894899,26.347357c4.363817,-0.741571 3.827518,17.036169 8.182638,16.183825c8.27347,0.030762 2.982006,-28.148991 9.899754,-28.336687c6.967995,-0.187704 2.246651,29.947527 9.204983,29.43981c7.632813,-0.560024 0.507309,-32.935357 8.136253,-33.623082c7.698521,-0.689259 2.919197,32.039941 10.628349,32.224557c6.546684,0.160011 3.026451,-27.642808 9.56057,-26.921232c7.192177,0.79388 0.664818,29.842905 7.781624,31.667604c4.748405,1.215439 4.420822,-18.257757 9.204018,-17.440804c11.128883,7.577278 8.628105,37.698658 -2.179977,44.645138c-3.138542,0.698479 -3.965698,-10.502029 -7.112938,-9.905075c-5.59005,1.058502 -3.982124,22.284088 -9.603096,21.799461c-5.239281,-0.456947 -2.226364,-21.636383 -7.47047,-21.730232c-6.961235,-0.116928 -3.357895,28.924408 -10.316231,28.495148c-6.140846,-0.375397 -1.73064,-24.950363 -7.825104,-26.191963c-5.681847,-1.156982 -5.378429,22.170242 -11.027426,20.680939c-6.249069,-1.644684 -0.469624,-26.673519 -6.759275,-27.865887c-3.728954,-0.706188 -2.647665,14.400654 -6.403677,14.545292c-14.016198,-5.938736 -15.748776,-39.707981 -3.899994,-47.666811z"/>
+      </symbol>
+      <symbol id="Octagon" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>Octagon</desc>
+        <path stroke="currentColor" vector-effect="non-scaling-stroke" d="M0,25 L25,0 L75,0 L100,25 L100,75 L75,100 L25,100 L0,75 Z"/>
+      </symbol>
+      <symbol id="PentagonPathVisio" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>PentagonPathVisio</desc>
+        <g transform="translate(8, 0) scale(0.95, 1)">
+          <polygon stroke="currentColor" vector-effect="non-scaling-stroke" points="59.159732818603516,99.61322021484375 95,50.28331756591797 59.159732818603516,0.9534196853637695 1.168962001800537,19.795764923095703 1.168962001800537,80.7708740234375 "/>
+        </g>
+      </symbol>
+      <symbol id="Rectangle" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>Rectangle</desc>
+        <rect x="0" y="0" width="100" height="100" stroke="currentColor" vector-effect="non-scaling-stroke"/>
+      </symbol>
+      <symbol id="RoundedRectangle" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>RoundedRectangle</desc>
+        <rect stroke="currentColor" x="0" y="0" rx="15" ry="15" vector-effect="non-scaling-stroke" width="100" height="100"/>
+      </symbol>
+      <symbol id="SarcoplasmicReticulum" overflow="visible" preserveAspectRatio="none" viewBox="0 0 100 100">
+        <desc>SarcoplasmicReticulum</desc>
+        <path vector-effect="non-scaling-stroke" d="m46.60182,1.40724c-32.37224,1.34138 -36.32004,22.77011 -26.50318,38.12777c9.31826,18.3425 -18.7656,30.15016 2.56955,49.37807c16.82126,13.11594 46.33175,6.10508 52.12638,-8.56826c5.89916,-15.24847 -10.95099,-26.0272 -3.29316,-40.96135c10.85342,-19.88432 -0.77615,-38.13043 -24.89959,-37.97624z"/>
+      </symbol>
+      <symbol id="TrianglePathVisio" overflow="visible" preserveAspectRatio="none" viewBox="0 0 50 50">
+        <desc>TrianglePathVisio</desc>
+        <polygon stroke="currentColor" vector-effect="non-scaling-stroke" points="14.5,3.3 14.5,46.7 61,25 "/>
+      </symbol>
+      <symbol id="none" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <desc>none</desc>
+        <rect id="none" x="0" y="0" width="0" height="0" stroke="none" fill="none" stroke-width="0"/>
+      </symbol>
+    </g>
+  </defs>
+  <g id="WP560" class="Viewport" color="black">
+    <rect fill="white" stroke="black" stroke-width="0" fill-opacity="1" height="774px" id="WP560-icon" width="1079.333333333333px" x="0" y="0" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+    <g id="a36cf" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="28.19999999999943, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="a36cf-path" d="M190.00000000000034,493.3333333333333L223.99999999999977,493.3333333333333" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="e8bbf" class="Edge GraphicalLine" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="261.0000000000009, 0" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="e8bbf-path" d="M629.9999999999991,572L891,572" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="a67b8" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="191.86666666666616, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="a67b8-path" d="M903.3333333333331,429.9999999999999L909.9999999999992,429.9999999999999L909.9999999999992,621" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="adfe2" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="21.2, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="adfe2-path" d="M728.9999999999999,349.9999999999999L755.9999999999999,349.9999999999999" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="af716" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="21.2, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="af716-path" d="M728.9999999999999,376.6666666666666L755.9999999999999,376.6666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="b4105" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="49.66666666666663, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="b4105-path" d="M512.0000000000005,77.5L455.3333333333338,77.49999999999999" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="bc732" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="28.19999999999943, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="bc732-path" d="M190.00000000000034,516.6666666666667L223.99999999999977,516.6666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="bcfb4" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="21.533333333333257, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="bcfb4-path" d="M815.9999999999999,403.33333333333326L843.3333333333331,403.33333333333326" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="c4def" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="249.2000000000006, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="c4def-path" d="M283.9999999999998,566.6666666666666L419.00000000000045,566.6666666666666L419.00000000000045,446.6666666666667" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="c734e" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="49.66764705034353, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="c734e-path" d="M512.0000000000005,133L455.33333333333303,133.33333333333334" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="cc4d9" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="192.53333333333399, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="cc4d9-path" d="M283.9999999999998,540L389.00000000000045,540L389.00000000000045,446.6666666666667" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="cc543" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="196.53333333333393, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="cc543-path" d="M283.9999999999998,540L354.666666666667,540L354.666666666667,408.3333333333333" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="cf9c6" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="34.333333333333485, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="cf9c6-path" d="M613.3333333333339,77.5L572.0000000000005,77.5" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="d1dcf" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="160.8666666666673, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="d1dcf-path" d="M283.9999999999998,493.3333333333333L404.00000000000045,493.3333333333333L404.00000000000045,446.6666666666667" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="d5bd1" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="184.2000000000006, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="d5bd1-path" d="M283.9999999999998,516.6666666666666L404.00000000000045,516.6666666666666L404.00000000000045,446.6666666666667" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="d708b" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="21.2, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="d708b-path" d="M728.9999999999999,403.33333333333326L755.9999999999999,403.33333333333326" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="d7928" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="27.53333333333337, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="d7928-path" d="M517.3333333333339,546.6666666666666L517.3333333333339,513.3333333333333" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="da3a5" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="28.19999999999943, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="da3a5-path" d="M190.00000000000034,566.6666666666666L223.99999999999977,566.6666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="dc485" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="143.20000000000056, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="dc485-path" d="M283.9999999999998,516.6666666666666L324.666666666667,516.6666666666666L324.666666666667,408.3333333333333" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="dc7e0" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="21.533333333333257, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="dc7e0-path" d="M815.9999999999999,376.6666666666666L843.3333333333331,376.6666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="e86e6" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="23.501821439237215, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="e86e6-path" d="M557.3333333333337,37L557.0000000000005,67.5" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="eb6ad" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="49.66666666666663, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="eb6ad-path" d="M512.0000000000005,103.33333333333333L455.3333333333338,103.33333333333331" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="edf83" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="28.19999999999943, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="edf83-path" d="M190.00000000000034,540L223.99999999999977,540" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="f65e3" class="Edge Interaction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="56.59083690048074, 1" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f65e3-path" d="M298.6666666666664,225.66666666666666L298.66666666666634,229C298.6666666666664,232.33333333333331,298.6666666666664,239,303.66666666666646,242.33333333333331C308.6666666666666,245.66666666666666,318.66666666666674,245.66666666666666,323.66666666666686,242.27777777777777C328.66666666666697,238.88888888888889,328.66666666666697,232.11111111111111,328.66666666666697,228.72222222222223L328.66666666666697,225.33333333333334" marker-end="url(#markerEndMimBinding)" class="EdgeBody"/>
+      </g>
+      <g id="beb25" class="Burr Anchor" transform="translate(314.72659737620694,244.80179078897896)">
+        <use fill="#141414" stroke-width="0" fill-opacity="1" height="0" id="beb25-icon" width="0" x="0" y="0" xlink:href="#none" class="Icon"/>
+      </g>
+    </g>
+    <g id="f8052" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="154.20000000000135, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f8052-path" d="M409.3333333333337,618.6666666666678L517.3333333333339,618.6666666666678L517.3333333333339,566.6666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="f8e4f" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="21.533333333333257, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f8e4f-path" d="M815.9999999999999,349.9999999999999L843.3333333333331,349.9999999999999" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="fd52d" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="195.86666666666605, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="fd52d-path" d="M903.3333333333331,403.33333333333326L929.9999999999991,403.33333333333326L929.9999999999991,578.3333333333334" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="idcac5aab1" class="Edge Interaction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="36.44329045369829, 1" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="idcac5aab1-path" d="M215.33333333333348,256.66666666666663L194.3333333333331,225.66666666666669" marker-end="url(#markerEndMimBinding)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="idf0cd1ce6" class="Edge Interaction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="37.80005727372607, 1" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="idf0cd1ce6-path" d="M245.33333333333348,256.66666666666663L268.6666666666664,225.66666666666666" marker-end="url(#markerEndMimBinding)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="f041b" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="336.86666666666423, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f041b-path" d="M532.3333333333339,566.6666666666666L532.3333333333339,659.6666666666666L781.9999999999982,659.6666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="f7b1b" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="21.74060119311607, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f7b1b-path" d="M314.33333333333366,274.3333333333331L314.7047976819955,245.59513277763688" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="id4186dc77" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="25.159209084337668, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="id4186dc77-path" d="M680,256L649.0463649972069,255.41254171076093" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="ffa3e" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="240.74545105762226, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="ffa3e-path" d="M518.5000000000011,362L688.3907933333323,540.6666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+      <g id="dc636" class="Burr Anchor" transform="translate(561.1395735028846,406.842161934586)">
+        <use fill="#141414" stroke-width="0" fill-opacity="1" height="0" id="dc636-icon" width="0" x="0" y="0" xlink:href="#none" class="Icon"/>
+      </g>
+      <g id="c35c5" class="Burr Anchor" transform="translate(580.5426750013305,427.2475494173589)">
+        <use fill="#141414" stroke-width="0" fill-opacity="1" height="0" id="c35c5-icon" width="0" x="0" y="0" xlink:href="#none" class="Icon"/>
+      </g>
+      <g id="e5571" class="Burr Anchor" transform="translate(526.9458848747886,370.88216523109645)">
+        <use fill="#141414" stroke-width="0" fill-opacity="1" height="0" id="e5571-icon" width="0" x="0" y="0" xlink:href="#none" class="Icon"/>
+      </g>
+      <g id="dcc8d" class="Burr Anchor" transform="translate(617.5852832378191,466.20362942851864)">
+        <use fill="#141414" stroke-width="0" fill-opacity="1" height="0" id="dcc8d-icon" width="0" x="0" y="0" xlink:href="#none" class="Icon"/>
+      </g>
+    </g>
+    <g id="f5165" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="27.682688605252366, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f5165-path" d="M838.9999999999982,621.6666666666666L847.3333333333325,588" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="b1506" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="34.564450471512195, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="b1506-path" d="M614.0000000000007,404.66666666666646L580.5426750013305,427.2475494173589" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="b41e9" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="123.59085815251072, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="b41e9-path" d="M434.00000000000045,436.6666666666667L561.1395735028846,406.84216193458593" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="c4d4a" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="152.65687930789332, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="c4d4a-path" d="M369.666666666667,398.3333333333333L526.9458848747887,370.88216523109645" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="d8569" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="82.46460638978849, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="d8569-path" d="M532.3333333333339,493.33333333333326L617.5852832378192,466.20362942851864" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="e2e07" class="Edge Interaction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="50.397377963673556, 1" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="e2e07-path" d="M498.9415295549354,238.46941305443193L518.5000000000011,286" marker-end="url(#markerEndMimBinding)" class="EdgeBody"/>
+      </g>
+      <g id="cf6e7" class="Burr Anchor" transform="translate(506.2121652354341,256.1383602418985)">
+        <use fill="#141414" stroke-width="0" fill-opacity="1" height="0" id="cf6e7-icon" width="0" x="0" y="0" xlink:href="#none" class="Icon"/>
+      </g>
+    </g>
+    <g id="id140f7f11" class="Edge Interaction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="39.982807962250575, 11" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="id140f7f11-path" d="M536.9415295549354,238.46941305443193L518.5000000000011,286" marker-end="url(#markerEndMimModification)" class="EdgeBody"/>
+      </g>
+      <g id="d52ed" class="Burr Anchor" transform="translate(530.5140219101279,255.03545818885434)">
+        <use fill="#141414" stroke-width="0" fill-opacity="1" height="0" id="d52ed-icon" width="0" x="0" y="0" xlink:href="#none" class="Icon"/>
+      </g>
+    </g>
+    <g id="c2b40" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="135.59881351241313, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="c2b40-path" d="M387.3333333333338,90.41666666666666L380.055555555556,90.41666666666666C372.77777777777817,90.41666666666666,358.22222222222257,90.41666666666666,350.9444444444448,109.56944444444443C343.66666666666697,128.72222222222223,343.66666666666697,167.02777777777777,343.66666666666697,186.18055555555554L343.66666666666697,205.33333333333334" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="d7a55" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="184.86608839266114, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="d7a55-path" d="M387.3333333333338,90.41666666666666L370.0555555555559,90.41666666666666C352.77777777777794,90.41666666666666,318.2222222222222,90.41666666666666,300.9444444444443,109.62499999999999C283.6666666666664,128.83333333333331,283.6666666666664,167.24999999999997,283.66666666666634,186.45833333333331L283.6666666666664,205.66666666666666" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="e556c" class="Edge Interaction SBO_0000167 SBO_0000393 SBO_0000394 DirectedInteraction" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="37.15297224955532, 5.8" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="e556c-path" d="M463.2605659683927,255.79492833517105L506.2121652354341,256.1383602418985" marker-end="url(#markerEndArrow)" class="EdgeBody"/>
+      </g>
+    </g>
+    <g id="a12af" class="SingleFreeNode Shape" color="#000000" transform="translate(452.66666666666583,286)">
+      <rect fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="1" height="76.66666666666671px" id="a12af-icon" width="132px" x="0" y="0" transform="matrix(0.9924812030075187, 0, 0, 0.9871244635193133, 0.49624060150375726, 0.4935622317596611)" class="Icon"/>
+    </g>
+    <g id="aefea" class="SingleFreeNode Shape" color="#c0c0c0" transform="translate(574.4999999999991,494.5)">
+      <g filter="url(#kaaviodoublefalse3filter)" fill="transparent" fill-opacity="0" stroke="#c0c0c0" stroke-width="3">
+        <use style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" height="224px" id="aefea-icon" width="439px" x="0" y="0" xlink:href="#Ellipse" transform="matrix(0.9733924611973392, 0, 0, 0.9491525423728814, 5.840354767184039, 5.694915254237287)" class="Icon"/>
+      </g>
+    </g>
+    <g id="bc3f8" class="SingleFreeNode Shape" color="#000000" transform="translate(360.49999999999966,87.5) rotate(270,27.5,4)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="1" height="8px" id="bc3f8-icon" width="55px" x="0" y="0" xlink:href="#Brace" transform="matrix(0.9821428571428571, 0, 0, 0.8888888888888888, 0.4910714285714306, 0.44444444444444464)" class="Icon"/>
+    </g>
+    <g id="c24" class="SingleFreeNode Shape" color="#000000" transform="translate(830.6666666666658,526.3333333333334)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="1" height="60px" id="c24-icon" width="33.333333333333336px" x="0" y="0" xlink:href="#Ellipse" transform="matrix(0.970873786407767, 0, 0, 0.9836065573770492, 0.4854368932038824, 0.4918032786885256)" class="Icon"/>
+    </g>
+    <g id="cc8" class="SingleFreeNode Shape" color="#000000" transform="translate(688.3907933333323,522.3333333333334)">
+      <use fill="#afc5c5" stroke="#000000" stroke-width="1" fill-opacity="1" height="73.33333333333333px" id="cc8-icon" width="40.551746666666666px" x="0" y="0" xlink:href="#Ellipse" transform="matrix(0.975933623006943, 0, 0, 0.9865470852017937, 0.48796681150347254, 0.49327354260089606)" class="Icon"/>
+    </g>
+    <g id="d73b0" class="SingleFreeNode Shape" color="#c0c0c0" transform="translate(74.5,209.16666666666663)">
+      <g filter="url(#kaaviodoublefalse3filter)" fill="transparent" fill-opacity="0" stroke="#c0c0c0" stroke-width="3">
+        <rect style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" height="536.3333333333334px" id="d73b0-icon" rx="15" ry="15" width="971px" x="0" y="0" transform="matrix(0.987792472024415, 0, 0, 0.9781155015197568, 5.926754832146514, 5.8686930091185445)" class="Icon"/>
+      </g>
+    </g>
+    <g id="d9f" class="SingleFreeNode Shape" color="#000000" transform="translate(740.5280333333324,529.3333333333333)">
+      <rect fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="1" height="26.666666666666668px" id="d9f-icon" width="80.27726666666668px" x="0" y="0" transform="matrix(0.9876964366419803, 0, 0, 0.963855421686747, 0.49384821832099135, 0.48192771084337416)" class="Icon"/>
+    </g>
+    <g id="de4" class="SingleFreeNode Shape" color="#000000" transform="translate(740.6666666666657,556.6666666666666)">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="26.666666666666668px" id="de4-icon" width="80px" x="0" y="0" transform="matrix(0.9876543209876543, 0, 0, 0.963855421686747, 0.49382716049382935, 0.48192771084337416)" class="Icon"/>
+    </g>
+    <g id="f31" class="SingleFreeNode Shape" color="#000000" transform="translate(918.3333333333331,242.33333333333337) rotate(90,20,4.333333333333333)">
+      <use fill="#000000" stroke="#000000" stroke-width="1" fill-opacity="1" height="8.666666666666666px" id="f31-icon" width="40px" x="0" y="0" xlink:href="#Brace" transform="matrix(0.975609756097561, 0, 0, 0.896551724137931, 0.4878048780487809, 0.4482758620689653)" class="Icon"/>
+    </g>
+    <g id="fa2" class="SingleFreeNode Shape" color="#000000" transform="translate(829.3333333333331,385.6666666666666) rotate(90,110,4.333333333333333)">
+      <use fill="#000000" stroke="#000000" stroke-width="1" fill-opacity="1" height="8.666666666666666px" id="fa2-icon" width="220px" x="0" y="0" xlink:href="#Brace" transform="matrix(0.995475113122172, 0, 0, 0.896551724137931, 0.4977375565610771, 0.4482758620689653)" class="Icon"/>
+    </g>
+    <g id="a30" class="SingleFreeNode Label" color="#000000" name="Repressors" transform="translate(939.1666666666665,240.00000000000006)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="16px" id="a30-icon" width="74.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="a30-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(37.166666666666664,11)">
+        <tspan x="0" y="0">Repressors</tspan>
+      </text>
+    </g>
+    <g id="a5b" class="SingleFreeNode Label" color="#000000" name="R-Smads" transform="translate(747.4999999999991,565.3333333333334)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="16px" id="a5b-icon" width="66.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="a5b-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="11px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.166666666666664,11)">
+        <tspan x="0" y="0">R-Smads</tspan>
+      </text>
+    </g>
+    <g id="b3895" class="SingleFreeNode Label" color="#000000" name="DNA" transform="translate(621.9999999999991,571)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="20px" id="b3895-icon" width="38px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="b3895-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(19,13)">
+        <tspan x="0" y="0">DNA</tspan>
+      </text>
+    </g>
+    <g id="bdd" class="SingleFreeNode Label" color="#000000" name="Co-Smads" transform="translate(740.9999999999991,535.3333333333334)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="16px" id="bdd-icon" width="75.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="bdd-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="11px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(37.666666666666664,11)">
+        <tspan x="0" y="0">Co-Smads</tspan>
+      </text>
+    </g>
+    <g id="c9e" class="SingleFreeNode Label" color="#000000" name="Cofactor" transform="translate(679.4999999999991,550)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="16px" id="c9e-icon" width="58.333333333333336px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="c9e-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(29.166666666666668,11)">
+        <tspan x="0" y="0">Cofactor</tspan>
+      </text>
+    </g>
+    <g id="d25" class="SingleFreeNode Label" color="#000000" name="Accessory receptor" transform="translate(124.66666666666659,182.00000000000003)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="16px" id="d25-icon" width="112.33333333333334px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="d25-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(56.16666666666667,11)">
+        <tspan x="0" y="0">Accessory receptor</tspan>
+      </text>
+    </g>
+    <g id="d31" class="SingleFreeNode Label" color="#000000" name="Rsmads" transform="translate(441.7565233370078,268.39746416758544)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="19px" id="d31-icon" width="68.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="d31-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(34.166666666666664,13.5)">
+        <tspan x="0" y="0">Rsmads</tspan>
+      </text>
+    </g>
+    <g id="e1b" class="SingleFreeNode Label" color="#000000" name="Cofactors" transform="translate(940.4999999999999,380.6666666666666)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="16px" id="e1b-icon" width="64.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="e1b-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(32.166666666666664,11)">
+        <tspan x="0" y="0">Cofactors</tspan>
+      </text>
+    </g>
+    <g id="e69" class="SingleFreeNode Label" color="#000000" name="Co-smads" transform="translate(574.6666666666664,363.16666666666646)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="19px" id="e69-icon" width="83.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="e69-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(41.666666666666664,13.5)">
+        <tspan x="0" y="0">Co-smads</tspan>
+      </text>
+    </g>
+    <g id="f66" class="SingleFreeNode Label" color="#000000" name="Ligands" transform="translate(392.66666666666697,41.5)">
+      <use fill="transparent" fill-opacity="0" stroke="#000000" stroke-width="0" height="19px" id="f66-icon" width="67.33333333333333px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <text id="f66-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="12px" font-style="normal" font-weight="bold" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(33.666666666666664,13.5)">
+        <tspan x="0" y="0">Ligands</tspan>
+      </text>
+    </g>
+    <a id="a06" class="SingleFreeNode DataNode Entrez_Gene_7049 GeneProduct CompactIdentifier_ncbigene_7049 TGFBR3 Ensembl_ENSG00000069702 HGNC_TGFBR3 UniProt_E9PKY4 UniProt_E9PMG7 UniProt_Q03167 UniProt_E9PAW7 UniProt_A0A0A8KWK3" color="#000000" name="TGFBR3" transform="translate(149.3333333333331,205.66666666666669)" xlink:href="https://bioregistry.io/ncbigene:7049" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a06-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="a06-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">TGFBR3</tspan>
+      </text>
+    </a>
+    <a id="a0d" class="SingleFreeNode DataNode Entrez_Gene_9839 GeneProduct CompactIdentifier_ncbigene_9839 ZFHX1B Ensembl_ENSG00000169554 HGNC_ZEB2 UniProt_A0A1B0GV02 UniProt_A0A0D9SF74 UniProt_A0A0D9SG93 UniProt_A0A8I5KV18 UniProt_A0A0D9SF71 UniProt_A0A1B0GUM8 UniProt_A0A1X7SC99 UniProt_E7EVG9 UniProt_A0A1B0GW50 UniProt_A0A6Q8PH34 UniProt_A0A1W2PS25 UniProt_E7EUW9 UniProt_A0A1B0GWA7 UniProt_U3KPX6 UniProt_C9JU62 UniProt_U3KPV5 UniProt_A0A1B0GVV8 UniProt_H7C0G0 UniProt_U3KQ33 UniProt_A0A1B0GTH3 UniProt_A0A2R8YDQ8 UniProt_C9JUQ1 UniProt_U3KQ51 UniProt_A0A0D9SGG5 UniProt_A0JP08 UniProt_O60315 UniProt_E7ESP8" color="#000000" name="ZFHX1B" transform="translate(843.3333333333331,246.66666666666674)" xlink:href="https://bioregistry.io/ncbigene:9839" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a0d-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="a0d-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">ZFHX1B</tspan>
+      </text>
+    </a>
+    <a id="a4d" class="SingleFreeNode DataNode Entrez_Gene_3716 GeneProduct CompactIdentifier_ncbigene_3716 JAK1 Ensembl_ENSG00000162434 HGNC_JAK1 UniProt_A0A8V8TN56 UniProt_A0A8V8TN11 UniProt_A0A5F9ZH07 UniProt_A0A5F9ZHK2 UniProt_A0A5F9ZI39 UniProt_A0A5F9ZHI1 UniProt_P23458 UniProt_A0A8V8TMY8 UniProt_A0A5F9ZHN8 UniProt_A0A0A0N0M2 UniProt_A0A5F9ZI01 UniProt_A0A8V8TPQ9 UniProt_A0A5F9ZH73 UniProt_A0A8V8TPG3 UniProt_A0A5F9ZHW0" color="#000000" name="JAK1" transform="translate(755.9999999999999,366.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:3716" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a4d-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="a4d-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">JAK1</tspan>
+      </text>
+    </a>
+    <a id="a75" class="SingleFreeNode DataNode Entrez_Gene_5601 GeneProduct CompactIdentifier_ncbigene_5601 MAPK9 Ensembl_ENSG00000050748 HGNC_MAPK9 UniProt_D7R525 UniProt_D7R528 UniProt_J3KNK1 UniProt_E5RJ57 UniProt_P45984" color="#000000" name="MAPK9" transform="translate(755.9999999999999,393.33333333333326)" xlink:href="https://bioregistry.io/ncbigene:5601" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a75-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="a75-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">MAPK9</tspan>
+      </text>
+    </a>
+    <a id="a9d" class="SingleFreeNode DataNode Entrez_Gene_860 GeneProduct CompactIdentifier_ncbigene_860 RUNX2 Ensembl_ENSG00000124813 HGNC_RUNX2 UniProt_Q13950 UniProt_A0A2R8Y7Z3 UniProt_I3L0L0 UniProt_I3L4L9 UniProt_I3L354 UniProt_A0A0D9SEN7" color="#000000" name="RUNX2" transform="translate(843.3333333333331,286.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:860" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a9d-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="a9d-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">RUNX2</tspan>
+      </text>
+    </a>
+    <a id="ae4" class="SingleFreeNode DataNode Entrez_Gene_4089 GeneProduct CompactIdentifier_ncbigene_4089 SMAD4 Ensembl_ENSG00000141646 HGNC_SMAD4 UniProt_K7ES96 UniProt_K7EIJ2 UniProt_K7EL15 UniProt_A0A024R274 UniProt_A0A087WUF3 UniProt_K7EIU8 UniProt_K7ENG1 UniProt_Q13485 UniProt_K7EL18 UniProt_K7ELK2" color="#000000" name="SMAD4" transform="translate(584.0000000000007,381.33333333333314)" xlink:href="https://bioregistry.io/ncbigene:4089" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ae4-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ae4-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">SMAD4</tspan>
+      </text>
+    </a>
+    <a id="aed" class="SingleFreeNode DataNode Entrez_Gene_652 GeneProduct CompactIdentifier_ncbigene_652 BMP4 Ensembl_ENSG00000125378 HGNC_BMP4 UniProt_H0YM53 UniProt_P12644 UniProt_Q53XC5 UniProt_V9GYF1 UniProt_H0YMP9 UniProt_H0YLW3" color="#000000" name="BMP4" transform="translate(395.33333333333303,123.33333333333334)" xlink:href="https://bioregistry.io/ncbigene:652" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="aed-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="aed-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">BMP4</tspan>
+      </text>
+    </a>
+    <a id="b39" class="SingleFreeNode DataNode Entrez_Gene_7124 GeneProduct CompactIdentifier_ncbigene_7124 TNF Ensembl_ENSG00000232810 HGNC_TNF UniProt_A0A8V8TNL2 UniProt_Q5STB3 UniProt_P01375" color="#000000" name="TNF" transform="translate(130.00000000000034,556.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:7124" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b39-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="b39-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">TNF</tspan>
+      </text>
+    </a>
+    <a id="b50" class="SingleFreeNode DataNode Entrez_Gene_10468 GeneProduct CompactIdentifier_ncbigene_10468 FST Ensembl_ENSG00000134363 HGNC_FST UniProt_H0YA75 UniProt_A0A024QZU6 UniProt_P19883 UniProt_H0YAF9" color="#000000" name="FST" transform="translate(512.0000000000005,93.33333333333333)" xlink:href="https://bioregistry.io/ncbigene:10468" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b50-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="b50-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">FST</tspan>
+      </text>
+    </a>
+    <a id="b6c" class="SingleFreeNode DataNode Entrez_Gene_6696 GeneProduct CompactIdentifier_ncbigene_6696 SPP1 Ensembl_ENSG00000118785 HGNC_SPP1 UniProt_A0A804HLB3 UniProt_A0A024RDE2 UniProt_Q3LGB0 UniProt_A0A024RDE6 UniProt_A0A024RDJ0 UniProt_P10451" color="#000000" name="SPP1" transform="translate(843.3333333333331,226.6666666666667)" xlink:href="https://bioregistry.io/ncbigene:6696" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b6c-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="b6c-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">SPP1</tspan>
+      </text>
+    </a>
+    <a id="bd0" class="SingleFreeNode DataNode Entrez_Gene_7471 GeneProduct CompactIdentifier_ncbigene_7471 WNT1 Ensembl_ENSG00000125084 HGNC_WNT1 UniProt_P04628" color="#000000" name="WNT1" transform="translate(668.9999999999999,339.9999999999999)" xlink:href="https://bioregistry.io/ncbigene:7471" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="bd0-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="bd0-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">WNT1</tspan>
+      </text>
+    </a>
+    <a id="be1" class="SingleFreeNode DataNode Entrez_Gene_7048 GeneProduct CompactIdentifier_ncbigene_7048 TGFBR2 Ensembl_ENSG00000163513 HGNC_TGFBR2 UniProt_D2JYI1 UniProt_P37173 UniProt_A3QNQ0" color="#000000" name="TGFBR2" transform="translate(313.66666666666697,205.33333333333334)" xlink:href="https://bioregistry.io/ncbigene:7048" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="be1-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="be1-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">TGFBR2</tspan>
+      </text>
+    </a>
+    <a id="c0d" class="SingleFreeNode DataNode Entrez_Gene_7057 GeneProduct CompactIdentifier_ncbigene_7057 THBS1 Ensembl_ENSG00000137801 HGNC_THBS1 UniProt_A8MZG1 UniProt_P07996" color="#000000" name="THBS1" transform="translate(613.3333333333339,67.5)" xlink:href="https://bioregistry.io/ncbigene:7057" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c0d-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="c0d-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">THBS1</tspan>
+      </text>
+    </a>
+    <a id="c11" class="SingleFreeNode DataNode Entrez_Gene_3976 GeneProduct CompactIdentifier_ncbigene_3976 LIF Ensembl_ENSG00000128342 HGNC_LIF UniProt_P15018" color="#000000" name="LIF" transform="translate(668.9999999999999,366.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:3976" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c11-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="c11-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">LIF</tspan>
+      </text>
+    </a>
+    <a id="c13" class="SingleFreeNode DataNode Entrez_Gene_9241 GeneProduct CompactIdentifier_ncbigene_9241 NOG Ensembl_ENSG00000183691 HGNC_NOG UniProt_Q13253" color="#000000" name="NOG" transform="translate(512.0000000000005,123)" xlink:href="https://bioregistry.io/ncbigene:9241" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c13-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="c13-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">NOG</tspan>
+      </text>
+    </a>
+    <a id="c42" class="SingleFreeNode DataNode Entrez_Gene_51176 GeneProduct CompactIdentifier_ncbigene_51176 LEF1 Ensembl_ENSG00000138795 HGNC_LEF1 UniProt_D6RID7 UniProt_D6RAB1 UniProt_D6RIV1 UniProt_Q9UJU2" color="#000000" name="LEF1" transform="translate(843.3333333333331,339.9999999999999)" xlink:href="https://bioregistry.io/ncbigene:51176" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c42-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="c42-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">LEF1</tspan>
+      </text>
+    </a>
+    <a id="c44" class="SingleFreeNode DataNode Entrez_Gene_2022 GeneProduct CompactIdentifier_ncbigene_2022 ENG Ensembl_ENSG00000106991 HGNC_ENG UniProt_P17813 UniProt_Q5T9B9 UniProt_F5GX88 UniProt_A0A024R878" color="#000000" name="ENG" transform="translate(200.33333333333346,256.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:2022" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c44-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="c44-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">ENG</tspan>
+      </text>
+    </a>
+    <a id="c48" class="SingleFreeNode DataNode Entrez_Gene_4091 GeneProduct CompactIdentifier_ncbigene_4091 SMAD6 Ensembl_ENSG00000137834 HGNC_SMAD6 UniProt_O43541 UniProt_H0YM33 UniProt_H0YK80" color="#000000" name="SMAD6" transform="translate(309.666666666667,388.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:4091" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c48-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="c48-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">SMAD6</tspan>
+      </text>
+    </a>
+    <a id="c61" class="SingleFreeNode DataNode Entrez_Gene_652 GeneProduct CompactIdentifier_ncbigene_652 BMP4 Ensembl_ENSG00000125378 HGNC_BMP4 UniProt_H0YM53 UniProt_P12644 UniProt_Q53XC5 UniProt_V9GYF1 UniProt_H0YMP9 UniProt_H0YLW3" color="#000000" name="BMP4" transform="translate(130.00000000000034,530)" xlink:href="https://bioregistry.io/ncbigene:652" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="c61-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="c61-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">BMP4</tspan>
+      </text>
+    </a>
+    <a id="cdd" class="SingleFreeNode DataNode Entrez_Gene_23090 GeneProduct CompactIdentifier_ncbigene_23090 ZNF423 Ensembl_ENSG00000102935 HGNC_ZNF423 UniProt_A0A7P0Q1F0 UniProt_A0A087WV99 UniProt_F5H7S1 UniProt_Q2M1K9" color="#000000" name="ZNF423" transform="translate(843.3333333333331,476.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:23090" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="cdd-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="cdd-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">ZNF423</tspan>
+      </text>
+    </a>
+    <a id="d0b" class="SingleFreeNode DataNode Entrez_Gene_5595 GeneProduct CompactIdentifier_ncbigene_5595 MAPK3 Ensembl_ENSG00000102882 HGNC_MAPK3 UniProt_B3KR49 UniProt_E9PBK7 UniProt_P27361 UniProt_E9PQW4 UniProt_H0YEX6 UniProt_E9PJF0 UniProt_L7RXH5 UniProt_E9PRH7 UniProt_H0YDH9" color="#000000" name="MAPK3" transform="translate(487.33333333333394,493.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:5595" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="d0b-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="d0b-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">MAPK3</tspan>
+      </text>
+    </a>
+    <a id="d5c" class="SingleFreeNode DataNode Entrez_Gene_864 GeneProduct CompactIdentifier_ncbigene_864 RUNX3 Ensembl_ENSG00000020633 HGNC_RUNX3 UniProt_A0A024RAH4 UniProt_Q13761" color="#000000" name="RUNX3" transform="translate(843.3333333333331,313.33333333333326)" xlink:href="https://bioregistry.io/ncbigene:864" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="d5c-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="d5c-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">RUNX3</tspan>
+      </text>
+    </a>
+    <a id="d70" class="SingleFreeNode DataNode Entrez_Gene_4790 GeneProduct CompactIdentifier_ncbigene_4790 NFKB1 Ensembl_ENSG00000109320 HGNC_NFKB1 UniProt_A0A494C157 UniProt_A0A494C1E9 UniProt_P19838 UniProt_D6RC45 UniProt_A0A8V8TLB2 UniProt_D6RH30" color="#000000" name="NFKB1" transform="translate(223.99999999999977,556.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:4790" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="d70-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="d70-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">NFKB1</tspan>
+      </text>
+    </a>
+    <a id="df4" class="SingleFreeNode DataNode Entrez_Gene_5054 GeneProduct CompactIdentifier_ncbigene_5054 SERPINE1 Ensembl_ENSG00000106366 HGNC_SERPINE1 UniProt_A0A024QYT5 UniProt_P05121" color="#000000" name="SERPINE1" transform="translate(891.6666666666658,621)" xlink:href="https://bioregistry.io/ncbigene:5054" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="df4-icon" width="73.33333333333333px" x="0" y="0" transform="matrix(0.9865470852017937, 0, 0, 0.9523809523809523, 0.49327354260089606, 0.4761904761904763)" class="Icon"/>
+      <text id="df4-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(36.666666666666664,13)">
+        <tspan x="0" y="0">SERPINE1</tspan>
+      </text>
+    </a>
+    <a id="e0b" class="SingleFreeNode DataNode Entrez_Gene_4086 GeneProduct CompactIdentifier_ncbigene_4086 SMAD1 Ensembl_ENSG00000170365 HGNC_SMAD1 UniProt_D6RAY1 UniProt_D6RD62 UniProt_D6RDN7 UniProt_A0A1D5RMR4 UniProt_D6RBH9 UniProt_Q15797 UniProt_D6REQ3" color="#000000" name="SMAD1" transform="translate(223.99999999999977,530)" xlink:href="https://bioregistry.io/ncbigene:4086" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e0b-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="e0b-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">SMAD1</tspan>
+      </text>
+    </a>
+    <a id="e49" class="SingleFreeNode DataNode Entrez_Gene_4052 GeneProduct CompactIdentifier_ncbigene_4052 LTBP1 Ensembl_ENSG00000049323 HGNC_LTBP1 UniProt_H7BZ76 UniProt_Q14766 UniProt_E7EV71 UniProt_C9JD84 UniProt_C9JDW2 UniProt_H7C2H7 UniProt_H7C4L5 UniProt_H7C0I7" color="#000000" name="LTBP1" transform="translate(512.0000000000005,67.5)" xlink:href="https://bioregistry.io/ncbigene:4052" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e49-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="e49-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">LTBP1</tspan>
+      </text>
+    </a>
+    <a id="e55" class="SingleFreeNode DataNode Entrez_Gene_6774 GeneProduct CompactIdentifier_ncbigene_6774 STAT3 Ensembl_ENSG00000168610 HGNC_STAT3 UniProt_G8JLH9 UniProt_A0A7I2V4F6 UniProt_A0A7I2V4C8 UniProt_A0A7I2V3V0 UniProt_P40763 UniProt_A0A7I2V2T1 UniProt_A0A7I2V395 UniProt_A0A7I2V552 UniProt_A0A7I2V444 UniProt_A0A7I2V4R2 UniProt_A0A7I2YQR5 UniProt_A0A7I2V4R3 UniProt_A0A7I2YQI1 UniProt_A0A7I2YQD2 UniProt_A0A7I2V2G1 UniProt_A0A7I2V5N9" color="#000000" name="STAT3" transform="translate(843.3333333333331,366.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:6774" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e55-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="e55-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">STAT3</tspan>
+      </text>
+    </a>
+    <a id="e98b2" class="SingleFreeNode DataNode Ensembl_ENSG00000207927 GeneProduct CompactIdentifier_ensembl_ENSG00000207927 MIR302A Entrez_Gene_407028 HGNC_MIR302A" color="#000000" name="MIR302A" transform="translate(680,246)" xlink:href="https://bioregistry.io/ensembl:ENSG00000207927" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e98b2-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="e98b2-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">MIR302A</tspan>
+      </text>
+    </a>
+    <a id="ead" class="SingleFreeNode DataNode Entrez_Gene_9372 GeneProduct CompactIdentifier_ncbigene_9372 ZFYVE9 Ensembl_ENSG00000157077 HGNC_ZFYVE9 UniProt_O95405" color="#000000" name="ZFYVE9" transform="translate(403.2605659683927,245.79492833517105)" xlink:href="https://bioregistry.io/ncbigene:9372" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ead-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ead-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">ZFYVE9</tspan>
+      </text>
+    </a>
+    <a id="eaf" class="SingleFreeNode DataNode Entrez_Gene_3458 GeneProduct CompactIdentifier_ncbigene_3458 IFNG Ensembl_ENSG00000111537 HGNC_IFNG UniProt_A0A7R8GUN6 UniProt_P01579" color="#000000" name="IFNG" transform="translate(130.00000000000034,483.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:3458" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="eaf-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="eaf-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">IFNG</tspan>
+      </text>
+    </a>
+    <a id="ebc" class="SingleFreeNode DataNode Entrez_Gene_7040 GeneProduct CompactIdentifier_ncbigene_7040 TGFB1 Ensembl_ENSG00000105329 HGNC_TGFB1 UniProt_A0A7I2V5Z9 UniProt_A0A499FJK2 UniProt_A0A7I2YQL8" color="#000000" name="TGFB1" transform="translate(130.00000000000034,506.66666666666674)" xlink:href="https://bioregistry.io/ncbigene:7040" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ebc-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ebc-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">TGFB1</tspan>
+      </text>
+    </a>
+    <a id="ec0" class="SingleFreeNode DataNode Entrez_Gene_3725 GeneProduct CompactIdentifier_ncbigene_3725 JUN Ensembl_ENSG00000177606 HGNC_JUN UniProt_P05412" color="#000000" name="JUN" transform="translate(843.3333333333331,393.33333333333326)" xlink:href="https://bioregistry.io/ncbigene:3725" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ec0-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ec0-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">JUN</tspan>
+      </text>
+    </a>
+    <a id="ec1" class="SingleFreeNode DataNode Entrez_Gene_4087 GeneProduct CompactIdentifier_ncbigene_4087 SMAD2 Ensembl_ENSG00000175387 HGNC_SMAD2 UniProt_Q53XR6 UniProt_B7Z5N5 UniProt_Q15796 UniProt_K7ERC7 UniProt_K7EJX0 UniProt_K7EL92 UniProt_K7ESI8" color="#000000" name="SMAD2" transform="translate(223.99999999999977,506.66666666666663)" xlink:href="https://bioregistry.io/ncbigene:4087" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ec1-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ec1-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">SMAD2</tspan>
+      </text>
+    </a>
+    <a id="ecf" class="SingleFreeNode DataNode Entrez_Gene_4092 GeneProduct CompactIdentifier_ncbigene_4092 SMAD7 Ensembl_ENSG00000101665 HGNC_SMAD7 UniProt_K7EKF0 UniProt_O15105" color="#000000" name="SMAD7" transform="translate(374.00000000000045,426.6666666666667)" xlink:href="https://bioregistry.io/ncbigene:4092" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ecf-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ecf-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">SMAD7</tspan>
+      </text>
+    </a>
+    <a id="eeb" class="SingleFreeNode DataNode Entrez_Gene_8928 GeneProduct CompactIdentifier_ncbigene_8928 FOXH1 Ensembl_ENSG00000160973 HGNC_FOXH1 UniProt_O75593" color="#000000" name="FOXH1" transform="translate(843.3333333333331,449.9999999999999)" xlink:href="https://bioregistry.io/ncbigene:8928" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="eeb-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="eeb-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">FOXH1</tspan>
+      </text>
+    </a>
+    <a id="ef6" class="SingleFreeNode DataNode Entrez_Gene_3265 GeneProduct CompactIdentifier_ncbigene_3265 HRAS Ensembl_ENSG00000174775 HGNC_HRAS UniProt_P01112 UniProt_A0A804HKM6 UniProt_X5D945 UniProt_A0A804HJ06 UniProt_A0A8C8MQR2" color="#000000" name="HRAS" transform="translate(487.33333333333394,546.6666666666666)" xlink:href="https://bioregistry.io/ncbigene:3265" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ef6-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ef6-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">HRAS</tspan>
+      </text>
+    </a>
+    <a id="ef9" class="SingleFreeNode DataNode Entrez_Gene_1499 GeneProduct CompactIdentifier_ncbigene_1499 CTNNB1 Ensembl_ENSG00000168036 HGNC_CTNNB1 UniProt_A0A2R8Y6G0 UniProt_A0A2R8Y804 UniProt_A0A2R8Y815 UniProt_A0A2R8Y5A3 UniProt_C9IZ65 UniProt_A0A2R8Y5C3 UniProt_P35222 UniProt_A0A2R8Y7Z0 UniProt_A0A2R8YG06 UniProt_A0A2R8Y5Z1 UniProt_A0A2R8Y750 UniProt_A0A2R8YCH5 UniProt_A0A024R2Q3 UniProt_A0A2R8Y543 UniProt_B4DGU4" color="#000000" name="CTNNB1" transform="translate(755.9999999999999,339.9999999999999)" xlink:href="https://bioregistry.io/ncbigene:1499" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ef9-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="ef9-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">CTNNB1</tspan>
+      </text>
+    </a>
+    <a id="f21" class="SingleFreeNode DataNode Entrez_Gene_7124 GeneProduct CompactIdentifier_ncbigene_7124 TNF Ensembl_ENSG00000232810 HGNC_TNF UniProt_A0A8V8TNL2 UniProt_Q5STB3 UniProt_P01375" color="#000000" name="TNF" transform="translate(668.9999999999999,393.33333333333326)" xlink:href="https://bioregistry.io/ncbigene:7124" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f21-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="f21-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">TNF</tspan>
+      </text>
+    </a>
+    <a id="f56" class="SingleFreeNode DataNode Entrez_Gene_2353 GeneProduct CompactIdentifier_ncbigene_2353 FOS Ensembl_ENSG00000170345 HGNC_FOS UniProt_G3V5N7 UniProt_H0YJM3 UniProt_G3V5N9 UniProt_Q6FG41 UniProt_G3V5J9 UniProt_G3V289 UniProt_G3V2V7 UniProt_P01100" color="#000000" name="FOS" transform="translate(914.9999999999991,578.3333333333334)" xlink:href="https://bioregistry.io/ncbigene:2353" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f56-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="f56-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">FOS</tspan>
+      </text>
+    </a>
+    <a id="f61" class="SingleFreeNode DataNode Entrez_Gene_7030 GeneProduct CompactIdentifier_ncbigene_7030 TFE3 Ensembl_ENSG00000068323 HGNC_TFE3 UniProt_A0A024QZ23 UniProt_P19532" color="#000000" name="TFE3" transform="translate(843.3333333333331,419.9999999999999)" xlink:href="https://bioregistry.io/ncbigene:7030" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f61-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="f61-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">TFE3</tspan>
+      </text>
+    </a>
+    <a id="f6a" class="SingleFreeNode DataNode Entrez_Gene_1950 GeneProduct CompactIdentifier_ncbigene_1950 EGF Ensembl_ENSG00000138798 HGNC_EGF UniProt_A0A494C018 UniProt_P01133" color="#000000" name="EGF" transform="translate(349.3333333333337,608.6666666666678)" xlink:href="https://bioregistry.io/ncbigene:1950" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f6a-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="f6a-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">EGF</tspan>
+      </text>
+    </a>
+    <a id="f8c" class="SingleFreeNode DataNode Entrez_Gene_6772 GeneProduct CompactIdentifier_ncbigene_6772 STAT1 Ensembl_ENSG00000115415 HGNC_STAT1 UniProt_E9PH66 UniProt_A0A669KBK4 UniProt_A0A8V8TMY9 UniProt_E7EPD2 UniProt_J3KPM9 UniProt_Q67C41 UniProt_A0A669KB17 UniProt_A0A8V8TN81 UniProt_A0A669KB56 UniProt_A0A669KB68 UniProt_A0A669KB52 UniProt_A0A669KB53 UniProt_A0A669KB75 UniProt_D2KFR9 UniProt_P42224 UniProt_A0A669KBA4 UniProt_E7ENM1 UniProt_A0A669KBI6 UniProt_A0A8V8TLI6" color="#000000" name="STAT1" transform="translate(223.99999999999977,483.3333333333333)" xlink:href="https://bioregistry.io/ncbigene:6772" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="f8c-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="f8c-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">STAT1</tspan>
+      </text>
+    </a>
+    <a id="fdf" class="SingleFreeNode DataNode Entrez_Gene_7046 GeneProduct CompactIdentifier_ncbigene_7046 TGFBR1 Ensembl_ENSG00000106799 HGNC_TGFBR1 UniProt_F8VVC4 UniProt_F8W1R9 UniProt_B4DY26 UniProt_F8W0K6 UniProt_F8VRH6 UniProt_Q5T7S2 UniProt_H0YHS4 UniProt_P36897 UniProt_F8VXZ5 UniProt_A0A8V8TMH4 UniProt_A0A8V8TMI6" color="#000000" name="TGFBR1" transform="translate(253.6666666666664,205.66666666666666)" xlink:href="https://bioregistry.io/ncbigene:7046" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="fdf-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="fdf-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">TGFBR1</tspan>
+      </text>
+    </a>
+    <a id="fe9" class="SingleFreeNode DataNode Entrez_Gene_3694 GeneProduct CompactIdentifier_ncbigene_3694 ITGB6 Ensembl_ENSG00000115221 HGNC_ITGB6 UniProt_E9PEE8 UniProt_A0A087WXP3 UniProt_P18564 UniProt_F8WBJ8" color="#000000" name="ITGB6" transform="translate(542.3333333333337,17)" xlink:href="https://bioregistry.io/ncbigene:3694" target="_blank">
+      <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="fe9-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+      <text id="fe9-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+        <tspan x="0" y="0">ITGB6</tspan>
+      </text>
+    </a>
+    <g id="a16d4" class="Group GroupNone" color="#808080" transform="translate(780.9999999999982,620.6666666666666)">
+      <rect fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-dasharray="5,3" stroke-width="1" height="78px" id="a16d4-icon" width="78px" x="0" y="0" transform="matrix(0.9873417721518988, 0, 0, 0.9873417721518988, 0.49367088607594667, 0.49367088607594667)" class="Icon"/>
+      <a id="abb" class="SingleFreeNode DataNode Entrez_Gene_7050 GeneProduct CompactIdentifier_ncbigene_7050 TGIF Ensembl_ENSG00000177426 HGNC_TGIF1 UniProt_F8VW34 UniProt_F8VX54 UniProt_F8VUY0 UniProt_F8VVS9 UniProt_J3KS32 UniProt_F8W1J9 UniProt_F8VXG3 UniProt_F8VZH2 UniProt_Q15583 UniProt_F8VWK5 UniProt_F8VYL4" color="#000000" name="TGIF" transform="translate(9,9)" xlink:href="https://bioregistry.io/ncbigene:7050" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="abb-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="abb-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">TGIF</tspan>
+        </text>
+      </a>
+      <a id="ad0" class="SingleFreeNode DataNode Entrez_Gene_6497 GeneProduct CompactIdentifier_ncbigene_6497 SKI Ensembl_ENSG00000157933 HGNC_SKI UniProt_P12755" color="#000000" name="SKI" transform="translate(9,49)" xlink:href="https://bioregistry.io/ncbigene:6497" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="ad0-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="ad0-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">SKI</tspan>
+        </text>
+      </a>
+      <a id="cb6" class="SingleFreeNode DataNode Entrez_Gene_6498 GeneProduct CompactIdentifier_ncbigene_6498 SKIL Ensembl_ENSG00000136603 HGNC_SKIL UniProt_C9J8R9 UniProt_P12757 UniProt_H7C4V3" color="#000000" name="SKIL" transform="translate(9,29)" xlink:href="https://bioregistry.io/ncbigene:6498" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="cb6-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="cb6-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">SKIL</tspan>
+        </text>
+      </a>
+    </g>
+    <g id="a39fc" class="Group GroupNone" color="#808080" transform="translate(275.33333333333366,273.3333333333331)">
+      <rect fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-dasharray="5,3" stroke-width="1" height="58px" id="a39fc-icon" width="78px" x="0" y="0" transform="matrix(0.9873417721518988, 0, 0, 0.9830508474576272, 0.49367088607594667, 0.49152542372881314)" class="Icon"/>
+      <a id="b66" class="SingleFreeNode DataNode Entrez_Gene_2280 GeneProduct CompactIdentifier_ncbigene_2280 FKBP1A Ensembl_ENSG00000088832 HGNC_FKBP1A UniProt_F6T7Q3 UniProt_A0A7I2V3S6 UniProt_A0A087WZM5 UniProt_A0A087WTS4 UniProt_Q5W0X3 UniProt_Q1JUQ3 UniProt_P62942 UniProt_Q1JUQ5" color="#000000" name="FKBP1A" transform="translate(9,9)" xlink:href="https://bioregistry.io/ncbigene:2280" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b66-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="b66-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">FKBP1A</tspan>
+        </text>
+      </a>
+      <a id="db7" class="SingleFreeNode DataNode Entrez_Gene_25805 GeneProduct CompactIdentifier_ncbigene_25805 BAMBI Ensembl_ENSG00000095739 HGNC_BAMBI UniProt_Q13145" color="#000000" name="BAMBI" transform="translate(9,29)" xlink:href="https://bioregistry.io/ncbigene:25805" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="db7-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="db7-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">BAMBI</tspan>
+        </text>
+      </a>
+    </g>
+    <g id="c5e49" class="Group GroupGroup" color="#808080" transform="translate(450.3333333333342,286)">
+      <use fill="transparent" fill-opacity="0" stroke="#808080" stroke-dasharray="5,3" stroke-width="0" height="76px" id="c5e49-icon" width="136.33333333333377px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <a id="a44" class="SingleFreeNode DataNode Entrez_Gene_4093 GeneProduct CompactIdentifier_ncbigene_4093 SMAD9 Ensembl_ENSG00000120693 HGNC_SMAD9 UniProt_O15198 UniProt_A0A7I2R5A4 UniProt_A0A024RDR3" color="#000000" name="SMAD9" transform="translate(8,48)" xlink:href="https://bioregistry.io/ncbigene:4093" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a44-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="a44-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">SMAD9</tspan>
+        </text>
+      </a>
+      <a id="a7d" class="SingleFreeNode DataNode Entrez_Gene_4086 GeneProduct CompactIdentifier_ncbigene_4086 SMAD1 Ensembl_ENSG00000170365 HGNC_SMAD1 UniProt_D6RAY1 UniProt_D6RD62 UniProt_D6RDN7 UniProt_A0A1D5RMR4 UniProt_D6RBH9 UniProt_Q15797 UniProt_D6REQ3" color="#000000" name="SMAD1" transform="translate(8,8)" xlink:href="https://bioregistry.io/ncbigene:4086" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a7d-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="a7d-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">SMAD1</tspan>
+        </text>
+      </a>
+      <a id="d96" class="SingleFreeNode DataNode Entrez_Gene_4088 GeneProduct CompactIdentifier_ncbigene_4088 SMAD3 Ensembl_ENSG00000166949 HGNC_SMAD3 UniProt_H0YMP2 UniProt_A0A024R5Z3 UniProt_H3BQ00 UniProt_H3BVD1 UniProt_P84022 UniProt_H0YL71 UniProt_H0YNV1 UniProt_H0YKE2 UniProt_H3BP09 UniProt_H0YMY0" color="#000000" name="SMAD3" transform="translate(68.33333333333377,24.666666666666686)" xlink:href="https://bioregistry.io/ncbigene:4088" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="d96-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="d96-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">SMAD3</tspan>
+        </text>
+      </a>
+      <a id="e54" class="SingleFreeNode DataNode Entrez_Gene_4087 GeneProduct CompactIdentifier_ncbigene_4087 SMAD2 Ensembl_ENSG00000175387 HGNC_SMAD2 UniProt_Q53XR6 UniProt_B7Z5N5 UniProt_Q15796 UniProt_K7ERC7 UniProt_K7EJX0 UniProt_K7EL92 UniProt_K7ESI8" color="#000000" name="SMAD2" transform="translate(68.33333333333377,8)" xlink:href="https://bioregistry.io/ncbigene:4087" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e54-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="e54-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">SMAD2</tspan>
+        </text>
+      </a>
+      <a id="fe1" class="SingleFreeNode DataNode Entrez_Gene_4090 GeneProduct CompactIdentifier_ncbigene_4090 SMAD5 Ensembl_ENSG00000113658 HGNC_SMAD5 UniProt_Q99717 UniProt_D6R9D4 UniProt_H0YAK7 UniProt_D6RBB4 UniProt_H0YAM3 UniProt_Q68DB7 UniProt_D6RIZ9" color="#000000" name="SMAD5" transform="translate(8,28)" xlink:href="https://bioregistry.io/ncbigene:4090" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="fe1-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="fe1-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">SMAD5</tspan>
+        </text>
+      </a>
+    </g>
+    <g id="e29a0" class="Group GroupGroup" color="#808080" transform="translate(809.3333333333325,528.6666666666666)">
+      <use fill="transparent" fill-opacity="0" stroke="#808080" stroke-dasharray="5,3" stroke-width="0" height="59.33333333333337px" id="e29a0-icon" width="76px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <a id="dd5" class="SingleFreeNode DataNode Entrez_Gene_2033 GeneProduct CompactIdentifier_ncbigene_2033 EP300 Ensembl_ENSG00000100393 HGNC_EP300 UniProt_A0A0U1RR87 UniProt_A0A994J6T4 UniProt_A0A669KB12 UniProt_A0A994J3N7 UniProt_Q09472" color="#000000" name="EP300" transform="translate(8,8)" xlink:href="https://bioregistry.io/ncbigene:2033" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="dd5-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="dd5-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">EP300</tspan>
+        </text>
+      </a>
+      <a id="fcc" class="SingleFreeNode DataNode Entrez_Gene_1387 GeneProduct CompactIdentifier_ncbigene_1387 CREBBP Ensembl_ENSG00000005339 HGNC_CREBBP UniProt_Q92793 UniProt_I3L466 UniProt_A0A1B0GUU0 UniProt_I3L3I5 UniProt_I3L0Q1 UniProt_I3L293" color="#000000" name="CREBBP" transform="translate(8,31.33333333333337)" xlink:href="https://bioregistry.io/ncbigene:1387" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="fcc-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="fcc-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">CREBBP</tspan>
+        </text>
+      </a>
+    </g>
+    <g id="eb7c7" class="Group GroupNone" color="#808080" transform="translate(478.9415295549354,181.4694130544319)">
+      <rect fill="#b4b464" fill-opacity="0.1" stroke="#808080" stroke-dasharray="5,3" stroke-width="1" height="58.00000000000003px" id="eb7c7-icon" width="78px" x="0" y="0" transform="matrix(0.9873417721518988, 0, 0, 0.9830508474576272, 0.49367088607594667, 0.49152542372881314)" class="Icon"/>
+      <a id="d6f" class="SingleFreeNode DataNode Entrez_Gene_7046 GeneProduct CompactIdentifier_ncbigene_7046 TGFBR1 Ensembl_ENSG00000106799 HGNC_TGFBR1 UniProt_F8VVC4 UniProt_F8W1R9 UniProt_B4DY26 UniProt_F8W0K6 UniProt_F8VRH6 UniProt_Q5T7S2 UniProt_H0YHS4 UniProt_P36897 UniProt_F8VXZ5 UniProt_A0A8V8TMH4 UniProt_A0A8V8TMI6" color="#000000" name="TGFBR1" transform="translate(9,9)" xlink:href="https://bioregistry.io/ncbigene:7046" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="d6f-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="d6f-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">TGFBR1</tspan>
+        </text>
+      </a>
+      <a id="e8d" class="SingleFreeNode DataNode Entrez_Gene_7048 GeneProduct CompactIdentifier_ncbigene_7048 TGFBR2 Ensembl_ENSG00000163513 HGNC_TGFBR2 UniProt_D2JYI1 UniProt_P37173 UniProt_A3QNQ0" color="#000000" name="TGFBR2" transform="translate(9,29.00000000000003)" xlink:href="https://bioregistry.io/ncbigene:7048" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e8d-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="e8d-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">TGFBR2</tspan>
+        </text>
+      </a>
+    </g>
+    <g id="ebdbe" class="Group GroupGroup" color="#808080" transform="translate(387.3333333333338,59.499999999999986)">
+      <use fill="transparent" fill-opacity="0" stroke="#808080" stroke-dasharray="5,3" stroke-width="0" height="61.83333333333333px" id="ebdbe-icon" width="76px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <a id="a29" class="SingleFreeNode DataNode Entrez_Gene_7040 GeneProduct CompactIdentifier_ncbigene_7040 TGFB1 Ensembl_ENSG00000105329 HGNC_TGFB1 UniProt_A0A7I2V5Z9 UniProt_A0A499FJK2 UniProt_A0A7I2YQL8" color="#000000" name="TGFB1" transform="translate(8,8)" xlink:href="https://bioregistry.io/ncbigene:7040" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="a29-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="a29-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">TGFB1</tspan>
+        </text>
+      </a>
+      <a id="e44" class="SingleFreeNode DataNode Entrez_Gene_3624 GeneProduct CompactIdentifier_ncbigene_3624 INHBA Ensembl_ENSG00000122641 HGNC_INHBA UniProt_A4D1W7 UniProt_P08476" color="#000000" name="INHBA" transform="translate(8,33.83333333333333)" xlink:href="https://bioregistry.io/ncbigene:3624" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="e44-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="e44-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">INHBA</tspan>
+        </text>
+      </a>
+    </g>
+    <g id="a80df" class="Group GroupGroup" color="#808080" transform="translate(573.0463649972069,227.41254171076093)">
+      <use fill="transparent" fill-opacity="0" stroke="#808080" stroke-dasharray="5,3" stroke-width="0" height="56px" id="a80df-icon" width="76px" x="0" y="0" xlink:href="#none" transform="matrix(1, 0, 0, 1, 0, 0)" class="Icon"/>
+      <a id="b48eb" class="SingleFreeNode DataNode Entrez_Gene_10637 GeneProduct CompactIdentifier_ncbigene_10637 LEFTY1 Ensembl_ENSG00000243709 HGNC_LEFTY1 UniProt_O75610" color="#000000" name="LEFTY1" transform="translate(8,8)" xlink:href="https://bioregistry.io/ncbigene:10637" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b48eb-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="b48eb-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">LEFTY1</tspan>
+        </text>
+      </a>
+      <a id="b7bc3" class="SingleFreeNode DataNode Entrez_Gene_7044 GeneProduct CompactIdentifier_ncbigene_7044 LEFTY2 Ensembl_ENSG00000143768 HGNC_LEFTY2 UniProt_A1NY82 UniProt_O00292" color="#000000" name="LEFTY2" transform="translate(8,28)" xlink:href="https://bioregistry.io/ncbigene:7044" target="_blank">
+        <rect fill="#ffffff" stroke="#000000" stroke-width="1" fill-opacity="1" height="20px" id="b7bc3-icon" width="60px" x="0" y="0" transform="matrix(0.9836065573770492, 0, 0, 0.9523809523809523, 0.4918032786885256, 0.4761904761904763)" class="Icon"/>
+        <text id="b7bc3-text" class="Text" direction="ltr" fill="#000000" font-family="'Liberation Sans', Arial, sans-serif" font-size="10px" font-style="normal" font-weight="normal" stroke="white" stroke-width="0px" text-anchor="middle" transform="translate(30,13)">
+          <tspan x="0" y="0">LEFTY2</tspan>
+        </text>
+      </a>
+    </g>
+    <g id="f5244" class="Edge Interaction SBO_0000169 Inhibition" color="#000000">
+      <g filter="url(#kaavioblackto000000filter)" color="#000000" fill="transparent" fill-opacity="0" stroke="black" stroke-dasharray="35.53401462899414, 7" stroke-width="1">
+        <path style="color:inherit;fill:inherit;fill-opacity:inherit;stroke:inherit;stroke-width:inherit" id="f5244-path" d="M573.0463649972069,255.41254171076093L530.5140219101279,255.03545818885434" marker-end="url(#markerEndTBar)" class="EdgeBody"/>
+      </g>
+    </g>
+  </g>
+</svg>

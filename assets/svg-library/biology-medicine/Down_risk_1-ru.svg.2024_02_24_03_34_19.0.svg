@@ -1,0 +1,53 @@
+<svg width="204mm" height="121mm" version="1.1" viewBox="0 0 204 121" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect width="204" height="121" fill="#fff"/>
+ <g fill="none">
+ <path d="m16 107h184m0 2v-105m-36 105v-105m-37 105v-105m-36 105v-105m-37 105 0-105m-36 105v-105m-2 0 184 0m-184 12 184 0m-184 14 184 0m-184 12 184 0m-184 13 184 0m-184 13l184 0m-184 13h184m-184 13 184 0" stroke="#888" stroke-width=".3"/>
+ <path d="m18 104.4 36 0c12.2 0 24.8-1.5 37-2.7 12.3-1.6 24.4-4.9 36.5-7.7 12.3-2.2 24.7-3.7 36.5-7.7 20-18.5 27-47.2 36.1-72.4" stroke="#00f"/>
+ <rect x="18" y="4" width="182" height="103" stroke="#000" stroke-width=".5"/>
+ </g>
+ <g fill="#00f" stroke="#000" stroke-width=".5">
+ <rect x="17" y="103.4" width="2" height="2"/>
+ <rect x="53" y="103.3" width="2" height="2"/>
+ <rect x="90" y="100.7" width="2" height="2"/>
+ <rect x="126" y="93.2" width="2" height="2"/>
+ <rect x="163" y="85.2" width="2" height="2"/>
+ <rect x="199" y="13" width="2" height="2"/>
+ </g>
+ <g fill="#000" font-family="Times" font-size="5px">
+
+
+ <g text-anchor="end">
+
+ <text x="15" y="5">4,0</text>
+ <text x="15" y="17">3,5</text>
+ <text x="15" y="31">3,0</text>
+ <text x="15" y="43">2,5</text>
+ <text x="15" y="56">2,0</text>
+ <text x="15" y="69">1,5</text>
+ <text x="15" y="82">1,0</text>
+ <text x="15" y="95">0,5</text>
+ <text x="15" y="108">0,0</text>
+ </g>
+ <g text-anchor= "middle">
+
+ <text x="18" y="113">20</text>
+ <text x="54" y="113">25</text>
+ <text x="91" y="113">30</text>
+ <text x="127" y="113">35</text>
+ <text x="164" y="113">40</text>
+ <text x="200" y="113">45</text>
+ <text x="25" y="102">0,1 %</text>
+ <text x="48" y="102">0,1 %</text>
+ <text x="85" y="100">0,2 %</text>
+ <text x="121" y="92">0,5 %</text>
+ <text x="157" y="86">0,8 %</text>
+ <text x="193" y="12">3,6 %</text>
+ <g font-size="6px">
+ <text x="107" y="118">Возраст матери, лет</text>
+ <text transform="rotate(-90)" x="-57" y="7">Вероятность синдрома Дауна у ребёнка, %</text> 
+ </g>
+ </g>
+
+
+ </g>
+</svg>

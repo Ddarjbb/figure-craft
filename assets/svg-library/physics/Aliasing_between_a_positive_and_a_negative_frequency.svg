@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 694 452" font-size="16" version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<marker id="arrow" viewBox="-7 -5 10 10" markerWidth="6" markerHeight="6" orient="auto">
+			<path d="M3 0-7 5V-5Z" fill="red" stroke="none"/>
+		</marker>
+		<clipPath id="clip"><rect x="180" width="456" height="452"/></clipPath>
+		<path id="pi" d="M994-947v145H752c-23 153-35 299-35 439 0 69 12 118 36 147 24 30 54 45 90 45 29 0 54-10 75-30 21-20 35-49 41-87h35c-11 105-36 180-75 223C880-22 836 0 787 0c-52 0-95-24-130-71-35-47-52-136-52-265 0-81 13-237 38-466H383c-21 349-46 570-75 663C279-46 238 0 187 0c-24 0-44-8-59-24-16-16-24-36-24-60 0-17 3-32 8-45 7-17 23-42 47-73 41-54 69-111 85-170 29-101 47-245 56-430H254c-49 0-85 8-109 24-39 24-74 64-106 120H0C37-773 81-853 131-897c38-33 91-50 160-50H994Z" transform="scale(.01,.01)"/>
+	</defs>
+	<g id="axes">
+		<g fill="none">
+			<path d="M180 82h456M255 34v98" stroke="#000"/>
+			<path d="M294 33v98m38-98v98m38-98v98m38-98v98m38-98v98m38-98v98m38-98v98m38-98v98" stroke="#888" stroke-dasharray="1 2"/>
+		</g>
+		<text text-anchor="middle" font-family="'Liberation Sans', Arial, sans-serif">
+			<tspan x="247" y="87">0</tspan>
+			<tspan x="257" y="115">0</tspan>
+			<tspan x="296">1</tspan>
+			<tspan x="334">2</tspan>
+			<tspan x="372">3</tspan>
+			<tspan x="410">4</tspan>
+			<tspan x="448">5</tspan>
+			<tspan x="486">6</tspan>
+			<tspan x="524">7</tspan>
+			<tspan x="561">8</tspan>
+		</text>
+	</g>
+	<use y="135" xlink:href="#axes"/>
+	<use y="270" xlink:href="#axes"/>
+	<g fill="none" stroke="red" stroke-width="2" stroke-dasharray="6">
+		<path d="M174 135H223"/>
+		<g marker-end="url(#arrow)">
+			<path d="M223 135V51"/>
+			<path d="M223 135V173" stroke-dashoffset="6"/>
+			<path d="M157 242H178"/>
+			<path d="M165 333H186"/>
+			<path d="M630 121 584 65"/>
+			<path d="M635 152 610 304"/>
+		</g>
+	</g>
+	<g font-weight="900">
+		<text transform="matrix(0 -1.5 4.7 0 135 242)">{</text>
+		<text transform="matrix(0 -1.5 4.7 0 130 352)">{</text>
+	</g>
+	<g font-family="'Liberation', Arial, serif">
+		<text x="117" y="142" text-anchor="end">cos<tspan font-size="18">(</tspan>2</text>
+		<g id="expr1">
+			<use xlink:href="#pi" x="119" y="142"/>
+			<text x="131" y="142"><tspan font-size="13"><tspan dy="-8">1</tspan><tspan dx="-7" dy="6">–</tspan><tspan dx="-7" dy="9">8</tspan></tspan><tspan font-style="italic" dy="-8">ƒ<tspan font-size="11" dx="-2" dy="4">s</tspan><tspan dy="-4">t</tspan></tspan><tspan font-size="18">)</tspan></text>
+		</g>
+		<text x="627" y="142" text-anchor="end">sin<tspan font-size="18">(</tspan>2</text>
+		<use x="510" xlink:href="#expr1"/>
+		<text x="70" y="224" text-anchor="end">cos<tspan font-size="18">(</tspan>2</text>
+		<g id="expr2">
+			<text x="85" y="224"><tspan font-size="18">(</tspan><tspan font-size="13"><tspan dx="4" dy="-8">1</tspan><tspan dx="-7" dy="6">–</tspan><tspan dx="-7" dy="9">8</tspan></tspan><tspan dy="-8"> – 1</tspan><tspan font-size="18">)</tspan><tspan font-style="italic">ƒ<tspan font-size="11" dx="-2" dy="4">s</tspan><tspan dy="-4">t</tspan></tspan><tspan font-size="18">)</tspan></text>
+			<use xlink:href="#pi" x="73" y="224"/>
+		</g>
+		<text id="t78" x="104" y="263">-<tspan font-size="13"><tspan dx="4" dy="-8">7</tspan><tspan dx="-7" dy="6">–</tspan><tspan dx="-7" dy="9">8</tspan></tspan><tspan font-style="italic" dy="-8">ƒ<tspan font-size="11" dx="-2" dy="4">s</tspan></tspan></text>
+		<text x="66" y="334" text-anchor="end">sin<tspan font-size="18">(</tspan>2</text>
+		<use x="-5" y="110" xlink:href="#expr2"/>
+		<use x="-5" y="110" xlink:href="#t78"/>
+	</g>
+	<g clip-path="url(#clip)" fill="none" stroke-width="2">
+		<path id="sine1" d="M180 82c12.67-12.8 25.33-25.6 38-34.65C230.67 38.3 243.33 33 256 33s25.33 5.3 38 14.35C306.67 56.4 319.33 69.2 332 82s25.33 25.6 38 34.65C382.67 125.7 395.33 131 408 131s25.33-5.3 38-14.35C458.67 107.6 471.33 94.8 484 82s25.33-25.6 38-34.65C534.67 38.3 547.33 33 560 33s25.33 5.3 38 14.35C610.67 56.4 623.33 69.2 636 82" stroke="#FBAA23"/>
+		<use x="75" xlink:href="#sine1"/>
+		<use y="135" xlink:href="#sine1"/>
+		<use x="75" y="270" xlink:href="#sine1"/>
+		<g id="sine2x12">
+			<g id="sine2x3">
+				<path id="sine2" d="M180 217s3.62 25.6 5.43 34.65c1.81 9.05 3.62 14.35 5.43 14.35s3.62-5.3 5.43-14.35c1.81-9.05 3.62-21.85 5.43-34.65s3.62-25.6 5.43-34.65c1.81-9.05 3.62-14.35 5.43-14.35s3.61 5.3 5.42 14.35c1.81 9.05 3.62 21.85 5.43 34.65" stroke="#0FF"/>
+				<use x="43.43" xlink:href="#sine2"/>
+				<use x="86.86" xlink:href="#sine2"/>
+			</g>
+			<use x="130.29" xlink:href="#sine2x3"/>
+			<use x="260.58" xlink:href="#sine2x3"/>
+			<use x="390.87" xlink:href="#sine2x3"/>
+		</g>
+		<use x="-11.86" y="135" xlink:href="#sine2x12"/>
+	</g>
+	<g id="dots1">
+		<circle r="3" cx="256" cy="33"/>
+		<circle r="3" cx="294" cy="47.35"/>
+		<circle r="3" cx="332" cy="82"/>
+		<circle r="3" cx="370" cy="116.65"/>
+		<circle r="3" cx="408" cy="131"/>
+		<circle r="3" cx="446" cy="116.65"/>
+		<circle r="3" cx="484" cy="82"/>
+		<circle r="3" cx="522" cy="47.35"/>
+		<circle r="3" cx="560" cy="33"/>
+	</g>
+	<use y="135" xlink:href="#dots1"/>
+	<g id="dots2">
+		<circle r="3" cx="256" cy="82"/>
+		<circle r="3" cx="294" cy="47.35"/>
+		<circle r="3" cx="332" cy="33"/>
+		<circle r="3" cx="370" cy="47.35"/>
+		<circle r="3" cx="408" cy="82"/>
+		<circle r="3" cx="446" cy="116.65"/>
+		<circle r="3" cx="484" cy="131"/>
+		<circle r="3" cx="522" cy="116.65"/>
+		<circle r="3" cx="560" cy="82"/>
+	</g>
+	<use y="270" xlink:href="#dots2"/>
+</svg>

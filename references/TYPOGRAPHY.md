@@ -49,10 +49,6 @@ source = '<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="30mm" vi
 
 该脚本提供公式与混排 SVG 输出，不负责整图布局、PDF 转换或碰撞检查。缺少 TeX 或编译失败时报告错误，不把普通文字或截图作为公式替代。`math_source/equations.pdf` 为公式页集合，不是整图 PDF；最终整图仍需按指南导出和检查。
 
-## 本次 A 组修订
-
-三图普通标签均使用原始 PDF 实际使用的 Arial，子图标题统一为 Times New Roman Bold，公式与单独数学符号由实际 LaTeX／NewTX Math 排版。FiLM 原 SVG 声明的 DejaVu Sans 在本机 PDF 输出时实际回退成了 Arial；修订版显式指定 Arial，使测量与实际字体一致。修订稿另存，不替换上一轮 A/B 实验冻结稿，也不继承原图评分。
-
 ## 工具依据
 
 - [MathJax 官方输出格式文档](https://docs.mathjax.org/en/stable/output/index.html)：支持 SVG 等输出。
