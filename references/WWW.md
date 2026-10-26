@@ -14,7 +14,7 @@
 
 ## 出版方建议与资料
 
-[ACM 模板的图形准备说明](https://authors.acm.org/binaries/content/assets/publications/taps/acm_layout_submission_template.pdf)偏好可缩放矢量、要求嵌入图中文字字体，强调灰度可读，并建议结合形状、标签或线型表达差异。
+[ACM 模板的图形准备说明](https://authors.acm.org/binaries/content/assets/publications/taps/acm_layout_submission_template.pdf)偏好可缩放矢量、要求嵌入图中文字字体，并建议结合形状、标签或线型表达差异。
 
 [SIGACCESS 描述指南](https://www.sigaccess.org/welcome-to-sigaccess/resources/describing-figures/)用于准备不与 caption 简单重复的图像描述。具体 Description 字段与可访问性产物按所用 ACM 模板及生产流程检查。
 
@@ -24,7 +24,7 @@
 
 - 以最终约 10 pt 普通标签、0.7–1.0 pt 主线为起始值；这些是本项目建议，需经过实际排版检查。
 - 方法图交代用户／query／网页／图结构等实际输入、模型处理和输出，避免大量模块框却没有清楚关系。
-- 颜色按功能赋义，标签和连线独立传达图意；保留灰度版本。
+- 颜色按功能赋义，标签和连线独立传达图意。
 - SVG 保存编辑对象与布局；LaTeX 使用导出的矢量 PDF。
 - 模板改变尺寸后，重新检查字号、数学上下标、曲线标记与线宽，不仅检查图片是否越界。
 
@@ -47,7 +47,7 @@ Description 必须根据实际图编写，不能把示例占位文字作为最�
 - [ ] 已确认目标年份、Research Track／其他 track 及审稿／终稿阶段。
 - [ ] acmart 选项和实际版心正确，字体与图内符号在原尺寸可读。
 - [ ] PDF 字体已嵌入，方法图保持矢量，无错误边界与遮挡。
-- [ ] 灰度区分有效，caption、图像描述和正文引用一致。
+- [ ] 对象区分明确，caption、图像描述和正文引用一致。
 - [ ] 审稿稿无识别作者的信息，最终稿按 ACM 生产流程复核。
 
 不要以某个 WWW workshop 的独立要求替代 Research Tracks 正式指南。

@@ -2,7 +2,7 @@
 
 **Publication-focused scientific figures, with editable vectors and properly typeset mathematics.**
 
-FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill，用于论文架构图、技术路线图、机制图、实验曲线和多子图。当前版本为 **v0.2.0**，随附 **2,405 个 SVG 参考资产**、可离线浏览的图库和逐图来源／许可清单。
+FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill，用于论文架构图、技术路线图、机制图、实验曲线和多子图。当前版本为 **v0.3.0**，随附 **2,405 个 SVG 参考资产**、可离线浏览的图库和逐图来源／许可清单。
 
 它关注科学结构、最终论文尺寸下的可读性与可编辑矢量交付。绘制方式可按任务选择：直接 SVG/XML、Python、声明式图形语言或矢量编辑工具；需要数学公式时使用真实 LaTeX 或同等级排版引擎。
 
@@ -10,14 +10,14 @@ FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill
 
 - 按实际数据流表达输入、输出、分支、跳跃连接，以及训练与推理阶段。
 - 为 U-Net、向量、矩阵、MLP 等对象使用可识别的结构示意。
-- 新建图或大幅重构前，从本地 SVG 库和论文裁剪图中检索并实际查看参考，学习结构与表达方法；观察学习与资产复用分别处理。
+- 论文原文出图时先确立科学主线和真实依赖；仅在参考图能直接帮助当前表达时检索和查看，观察学习与资产复用分别处理。
 - 普通文字与公式默认黑色或深灰色，彩色文字承担明确的信息功能。
 - 使用衬线数学字形排版公式、上下标和单独变量，保留公式源文件。
 - 按目标插入尺寸设置字号、线宽和布局，依提示词选择交付格式。
 - SVG 请求提供适合 PPT 编辑的 SVG、矢量 PDF 和 PNG；普通文字保持文本，公式展开引用并成形，模块按语义分组。
 - 明确要求直接产出 PPT 时，提供可编辑文本、矢量形状及原生组合构成的 PPTX。
 - 提供 ICML、ICLR、AAAI、CVPR、SIGIR、ACL、WWW 的独立参考指南，区分官方规则与设计实践。
-- 检查 SVG/PDF 的位图、字体嵌入、页面尺寸和边界，生成彩色与灰度预览。
+- 检查 SVG/PDF 的位图、字体嵌入、页面尺寸和边界，默认检查最终彩色成图；按用户要求处理灰度交付。
 
 用户明确指定的工具、字体、原创要求和交付格式优先。会议参考主要面向 2026 年，核对日期为 2026-10-16；更换年份、track 或投稿阶段时应复核官方模板。
 
@@ -39,13 +39,13 @@ FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill
 
 ```text
 使用 skill-installer 从 https://github.com/Ddarjbb/figure-craft 安装 skill，
-仓库内路径为 .，安装名为 figure-craft，版本为 v0.2.0。
+仓库内路径为 .，安装名为 figure-craft，版本为 v0.3.0。
 ```
 
 也可手动将仓库克隆到用户级 skills 目录：
 
 ```text
-git clone --branch v0.2.0 https://github.com/Ddarjbb/figure-craft.git ~/.codex/skills/figure-craft
+git clone --branch v0.3.0 https://github.com/Ddarjbb/figure-craft.git ~/.codex/skills/figure-craft
 ```
 
 Windows 默认目录为 `%USERPROFILE%\.codex\skills\figure-craft`。如果目标目录已经存在，先处理已有安装，再安装到该位置。安装完成后重启 Codex 或开启新会话，以重新发现 skill。
@@ -63,6 +63,14 @@ Windows 默认目录为 `%USERPROFILE%\.codex\skills\figure-craft`。如果目�
 使用 $figure-craft，检查这张架构图的箭头关系、公式排版和最终尺寸可读性，
 修复遮挡并导出矢量 PDF。
 ```
+
+## 视觉惯例与论文转图
+
+[视觉惯例与选择条件](references/VISUAL_CONVENTIONS.md)统一整理数据对象、网络模块、运算与参数状态、几何对象、时序与阶段关系。向量的单色长条、离散色块、连续数值色块、柱状表达与其他元素并列，按需要传达的信息选择。
+
+根据论文文字绘制框架或技术路线图时，遵循 [text-to-figure](references/text-to-figure.md)：确定读者应理解的核心机制，核实对象与依赖，再分配视觉主次。
+
+用户明确指定风格或要求使用风格库时，可读取[风格索引](references/styles/风格索引.md)，选择浅色作用域模块框架、开放对象机制或对齐叙事对照。未指定时根据研究内容独立构图。
 
 ## 可选工具
 

@@ -1,6 +1,6 @@
 # FigureCraft SVG reference library
 
-随 FigureCraft v0.2.0 提供 **2,405 个 SVG 资产**。使用浏览器打开 [gallery.html](gallery.html) 可离线按关键词、分类和许可档浏览；命令行在 skill 根目录运行 `python scripts/search_figures.py 编码器 解码器 --kind svg`。
+随 FigureCraft 提供 **2,405 个 SVG 资产**。使用浏览器打开 [gallery.html](gallery.html) 可离线按关键词、分类和许可档浏览；命令行在 skill 根目录运行 `python scripts/search_figures.py 编码器 解码器 --kind svg`。
 
 [manifest.csv](manifest.csv) 保留每个文件的作者、来源、原始链接、许可、许可链接和 SHA-256。[第三方通知](THIRD_PARTY_NOTICES.md)与 [licenses](licenses/) 保留许可文本。第三方资产分别保留原许可，不统一采用 skill 的 MIT 许可。
 

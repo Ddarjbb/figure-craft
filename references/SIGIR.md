@@ -14,7 +14,7 @@
 
 ## 出版方建议与资料
 
-[ACM 模板说明的 Preparing Graphics／Figures 节](https://authors.acm.org/binaries/content/assets/publications/taps/acm_layout_submission_template.pdf)偏好可缩放矢量格式，要求图文件嵌入字体，并强调图在灰度下仍可用；用标签、形状与线型补充颜色。
+[ACM 模板说明的 Preparing Graphics／Figures 节](https://authors.acm.org/binaries/content/assets/publications/taps/acm_layout_submission_template.pdf)偏好可缩放矢量格式，要求图文件嵌入字体；用标签、形状与线型补充颜色。
 
 [SIGACCESS 图像描述指南](https://www.sigaccess.org/welcome-to-sigaccess/resources/describing-figures/)说明图像描述应传达不能直接看到图时所需的信息，不机械重复 caption。具体 figure description／Description 字段按目标 ACM 模板和生产要求提供。
 
@@ -47,7 +47,7 @@ Description 内容应针对实际图改写。普通单栏图改用 figure 与 co
 - [ ] 已确认年份、track、审稿／终稿类选项与实际模板尺寸。
 - [ ] 普通标签及曲线标记在最终宽度下清楚，不依赖放大。
 - [ ] PDF 字体嵌入与矢量状态已验证。
-- [ ] 图意在灰度下成立，图注和描述分别承担合适作用。
+- [ ] 图意明确，图注和描述分别承担合适作用。
 - [ ] 无越界、遮挡与匿名信息泄露。
 
 取证说明：官方站点为 Next.js，本次网页正文解析为空；已读取官方 HTML 中序列化的 Full Papers 内容核实 sigconf 要求，未用其他会议替代。

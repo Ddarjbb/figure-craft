@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.3.0 — 2026-10-26
+
+- Consolidate visual conventions and selection conditions into one guide covering data objects, network modules, operators, parameter states, geometry, and temporal or multi-stage relationships.
+- Add four vector representations alongside other elements: solid bars, discrete cells, continuous-value cells, and component bars.
+- Add a paper-text-to-figure workflow centered on the core mechanism, true dependencies, and visual hierarchy.
+- Make reference study conditional on its relevance to the scientific or structural problem; default visual review to the final color figure.
+- Add three explicitly requested style options with their existing gallery-derived validation records.
+- Retain editable SVG text, real vector mathematics, format-specific deliverables, and the bundled 2,405-asset SVG library.
+
 ## 0.2.0 — 2026-10-18
 
 - Bundle 2,405 SVG reference assets, an offline gallery, per-file source/license/hash metadata, and third-party notices and license texts.

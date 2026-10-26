@@ -1,4 +1,4 @@
-"""Inspect SVG/PDF structure and optionally render final-size and grayscale previews."""
+"""Inspect SVG/PDF structure and optionally render color previews at two sizes."""
 import argparse
 import json
 from pathlib import Path
@@ -49,12 +49,10 @@ def inspect(args):
                     if target is not None and abs(p[key]-target)>.05:
                         report['issues'].append(f'PDF page {i+1} {key} differs from the requested value.')
                 if args.render_dir:
-                    from PIL import Image
                     folder=Path(args.render_dir);folder.mkdir(parents=True,exist_ok=True)
                     for name,width in [('detail',1400),('print',660)]:
                         pix=page.get_pixmap(matrix=fitz.Matrix(width/page.rect.width,width/page.rect.width),alpha=False)
                         out=folder/f'page_{i+1}_{name}.png';pix.save(out)
-                        if name=='detail':Image.open(out).convert('L').save(folder/f'page_{i+1}_gray.png')
                 pages.append(p)
         report['pdf']={'path':str(Path(args.pdf).resolve()),'pages':pages}
     return report
