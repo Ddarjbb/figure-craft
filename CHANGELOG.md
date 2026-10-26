@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.1 — 2026-10-26
+
+- Add a dedicated color guide with semantic color roles, categorical/sequential/diverging/cyclic palette selection, and guidance by figure type.
+- Record four optional HEX palettes from user-provided references, with explicit usage conditions.
+- Clarify the scope of low-saturation fills, limited primary colors, composition ratios, and accessibility checks while preserving final-color review.
+- Link the guide from the skill entrypoint and README for on-demand reading.
+
 ## 0.3.0 — 2026-10-26
 
 - Consolidate visual conventions and selection conditions into one guide covering data objects, network modules, operators, parameter states, geometry, and temporal or multi-stage relationships.

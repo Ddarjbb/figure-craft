@@ -2,7 +2,7 @@
 
 **Publication-focused scientific figures, with editable vectors and properly typeset mathematics.**
 
-FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill，用于论文架构图、技术路线图、机制图、实验曲线和多子图。当前版本为 **v0.3.0**，随附 **2,405 个 SVG 参考资产**、可离线浏览的图库和逐图来源／许可清单。
+FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill，用于论文架构图、技术路线图、机制图、实验曲线和多子图。当前版本为 **v0.3.1**，随附 **2,405 个 SVG 参考资产**、可离线浏览的图库和逐图来源／许可清单。
 
 它关注科学结构、最终论文尺寸下的可读性与可编辑矢量交付。绘制方式可按任务选择：直接 SVG/XML、Python、声明式图形语言或矢量编辑工具；需要数学公式时使用真实 LaTeX 或同等级排版引擎。
 
@@ -39,13 +39,13 @@ FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill
 
 ```text
 使用 skill-installer 从 https://github.com/Ddarjbb/figure-craft 安装 skill，
-仓库内路径为 .，安装名为 figure-craft，版本为 v0.3.0。
+仓库内路径为 .，安装名为 figure-craft，版本为 v0.3.1。
 ```
 
 也可手动将仓库克隆到用户级 skills 目录：
 
 ```text
-git clone --branch v0.3.0 https://github.com/Ddarjbb/figure-craft.git ~/.codex/skills/figure-craft
+git clone --branch v0.3.1 https://github.com/Ddarjbb/figure-craft.git ~/.codex/skills/figure-craft
 ```
 
 Windows 默认目录为 `%USERPROFILE%\.codex\skills\figure-craft`。如果目标目录已经存在，先处理已有安装，再安装到该位置。安装完成后重启 Codex 或开启新会话，以重新发现 skill。
@@ -71,6 +71,8 @@ Windows 默认目录为 `%USERPROFILE%\.codex\skills\figure-craft`。如果目�
 根据论文文字绘制框架或技术路线图时，遵循 [text-to-figure](references/text-to-figure.md)：确定读者应理解的核心机制，核实对象与依赖，再分配视觉主次。
 
 用户明确指定风格或要求使用风格库时，可读取[风格索引](references/styles/风格索引.md)，选择浅色作用域模块框架、开放对象机制或对齐叙事对照。未指定时根据研究内容独立构图。
+
+配色选择见[色彩规范与选择条件](references/COLOR.md)，涵盖颜色职责、类别与连续色图、按图型应用、可选 HEX 色板、色觉可访问性与最终彩色检查。
 
 ## 可选工具
 
