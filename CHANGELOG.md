@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.2 — 2026-10-27
+
+- Require semantic icons to come from existing external icon libraries; prohibit hand-drawn, code-created, traced, or AI-generated substitute icons.
+- Add icon sourcing guidance covering library selection, source/version/hash records, license notices, permitted presentation adjustments, and self-contained vector embedding.
+- Keep scientific structures such as matrices, networks, timelines and data plots authored from their actual semantics; do not disguise homemade object icons as structural diagrams.
+- Add icon provenance to figure review and delivery checks while keeping icons selective and subordinate to the scientific content.
+
 ## 0.3.1 — 2026-10-26
 
 - Add a dedicated color guide with semantic color roles, categorical/sequential/diverging/cyclic palette selection, and guidance by figure type.

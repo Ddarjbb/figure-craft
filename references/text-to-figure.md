@@ -38,7 +38,7 @@ These are reasoning options, not mandatory templates. Once the message and empha
 
 ## Make the mechanism visible
 
-Use recognizable object structure with short labels: sequences for tokens, grids for matrices, and object relationships for exchange, merging or selection. Boxes can represent necessary modules; local outlines or regions can represent ownership or scope. Use frames, title bars and icons when they help grouping or identification. Modules need not become identical cards merely because they belong to one framework.
+Use recognizable object structure with short labels: sequences for tokens, grids for matrices, and object relationships for exchange, merging or selection. Boxes can represent necessary modules; local outlines or regions can represent ownership or scope. Use frames and title bars when they help grouping. Identification icons must come from existing external icon libraries with recorded provenance and license notices; never draw, trace, code-create or generate substitute icons. See [icon sourcing](ICONS.md). Modules need not become identical cards merely because they belong to one framework.
 
 A concrete example can connect input, processing and output, but it must agree with the method. Schematic counts must not impersonate real dimensions or settings. Do not generalize a budget, threshold or constant from one experiment to all configurations. Do not add components, losses, dependencies or results to make the image look richer.
 
