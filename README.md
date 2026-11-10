@@ -4,7 +4,54 @@
 
 FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill，用于论文架构图、技术路线图、机制图、实验曲线和多子图。当前版本为 **v0.3.2**，随附 **2,405 个 SVG 参考资产**、可离线浏览的图库和逐图来源／许可清单。
 
-它关注科学结构、最终论文尺寸下的可读性与可编辑矢量交付。绘制方式可按任务选择：直接 SVG/XML、Python、声明式图形语言或矢量编辑工具；需要数学公式时使用真实 LaTeX 或同等级排版引擎。
+给 Codex 一段论文方法、一个模型名或一张草图，FigureCraft 会帮助它梳理机制与数据流，按目标尺寸安排版面，并导出可编辑的 SVG 和矢量 PDF。公式使用 LaTeX 或同等级排版引擎。
+
+[出图案例](#gallery) · [安装](#安装) · [使用](#使用) · [交付范围](#交付范围)
+
+## Gallery
+
+这些图由 Codex 按 FigureCraft 工作流绘制。点击图片可查看高清原图。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>Stable Diffusion</strong><br>
+U-Net 跳连与文本条件注入<br>
+<a href="assets/showcase/stable-diffusion.png"><img src="assets/showcase/stable-diffusion.png" width="420" alt="Stable Diffusion U-Net with skip connections and text conditioning"></a>
+</td>
+<td width="50%" valign="top">
+<strong>Flow Matching</strong><br>
+概率路径、速度场训练与 ODE 采样<br>
+<a href="assets/showcase/flow-matching.png"><img src="assets/showcase/flow-matching.png" width="420" alt="Conditional probability paths, velocity regression and ODE sampling"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>AlexNet</strong><br>
+从特征图堆叠到类别概率<br>
+<a href="assets/showcase/alexnet.png"><img src="assets/showcase/alexnet.png" width="420" alt="AlexNet convolution and classification stages"></a>
+</td>
+<td width="50%" valign="top">
+<strong>HyperFrames</strong><br>
+从创作指令到可定位帧与视频输出<br>
+<a href="assets/showcase/hyperframes.png"><img src="assets/showcase/hyperframes.png" width="420" alt="Agent-guided authoring, seekable execution and video production"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>SCL Decoding</strong><br>
+路径扩展、度量排序与剪枝<br>
+<a href="assets/showcase/scl-decoding.png"><img src="assets/showcase/scl-decoding.png" width="420" alt="Successive cancellation list decoder and path pruning"></a>
+</td>
+<td width="50%" valign="top">
+<strong>Radix-2 FFT</strong><br>
+8 点 FFT 的三级蝶形运算<br>
+<a href="assets/showcase/fft.png"><img src="assets/showcase/fft.png" width="420" alt="Three radix-2 butterfly stages for an eight-point FFT"></a>
+</td>
+</tr>
+</table>
+
+原论文、示例素材和图标许可见 [Gallery 来源记录](assets/showcase/README.md)。
 
 ## 能做什么
 
