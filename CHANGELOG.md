@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.4 — 2026-11-11
+
+- Use photographs and product thumbnails to show the objects, regions, states and item identities that a method operates on. Align image annotations and item IDs across steps.
+- Use traceable images for actual samples and predictions. Record source and permission for sourced assets, and identify generated illustrations in the caption or adjacent text.
+- Embed image assets in SVG and PDF, keep the scientific annotations vector, and check image and annotation legibility at paper insertion size.
+
 ## 0.3.3 — 2026-11-11
 
 - Compose method figures around the scientific mechanism, with distinct boundaries for modules, nested processes, and visual objects.

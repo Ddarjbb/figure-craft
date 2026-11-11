@@ -2,7 +2,7 @@
 
 **Publication-focused scientific figures, with editable vectors and properly typeset mathematics.**
 
-FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill，用于论文架构图、技术路线图、机制图、实验曲线和多子图。当前版本为 **v0.3.3**，随附 **2,405 个 SVG 参考资产**、可离线浏览的图库和逐图来源／许可清单。
+FigureCraft 是面向 Codex 等支持 `SKILL.md` 的 Agent 的科研绘图 skill，用于论文架构图、技术路线图、机制图、实验曲线和多子图。当前版本为 **v0.3.4**，随附 **2,405 个 SVG 参考资产**、可离线浏览的图库和逐图来源／许可清单。
 
 给 Codex 一段论文方法、一个模型名或一张草图，FigureCraft 会帮助它梳理机制与数据流，按目标尺寸安排版面，并导出可编辑的 SVG 和矢量 PDF。公式使用 LaTeX 或同等级排版引擎。
 
@@ -57,6 +57,7 @@ U-Net 跳连与文本条件注入<br>
 
 - 语义 icon 必须来自有来源与许可记录的外部图标库，禁止自绘；保留矢量与离线可用性。
 - 按实际数据流表达输入、输出、分支、跳跃连接，以及训练与推理阶段。
+- 在视觉方法图中用照片展示区域与状态变化，在推荐图中用商品缩略图关联交互和 ID。允许使用许可合适的原始素材或明确标注的生成示意。
 - 为 U-Net、向量、矩阵、MLP 等对象使用可识别的结构示意。
 - 论文原文出图时先确立科学主线和真实依赖；仅在参考图能直接帮助当前表达时检索和查看，观察学习与资产复用分别处理。
 - 普通文字与公式默认黑色或深灰色，彩色文字承担明确的信息功能。
@@ -87,13 +88,13 @@ U-Net 跳连与文本条件注入<br>
 
 ```text
 使用 skill-installer 从 https://github.com/Ddarjbb/figure-craft 安装 skill，
-仓库内路径为 .，安装名为 figure-craft，版本为 v0.3.3。
+仓库内路径为 .，安装名为 figure-craft，版本为 v0.3.4。
 ```
 
 也可手动将仓库克隆到用户级 skills 目录：
 
 ```text
-git clone --branch v0.3.3 https://github.com/Ddarjbb/figure-craft.git ~/.codex/skills/figure-craft
+git clone --branch v0.3.4 https://github.com/Ddarjbb/figure-craft.git ~/.codex/skills/figure-craft
 ```
 
 Windows 默认目录为 `%USERPROFILE%\.codex\skills\figure-craft`。如果目标目录已经存在，先处理已有安装，再安装到该位置。安装完成后重启 Codex 或开启新会话，以重新发现 skill。
