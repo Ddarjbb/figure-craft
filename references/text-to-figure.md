@@ -14,43 +14,38 @@ For redraws, inspect an original figure when the task calls for it and permits i
 
 Before drawing, write a short internal statement answering: **What methodological relationship should the reader remember? Which operation best explains the contribution?** Use specific objects and actions, such as retaining a reliable initial selection while exchanging a bounded number of uncertain items. A list of module names does not establish the message.
 
+Before drawing the full pipeline, sketch the relative size and placement of the core mechanism and the elements that explain it. Mark where the reader should enter the figure and what they encounter next. Give the core example, change or comparison enough contiguous space to be read as a whole. Fit supporting stages around the objects and relations they act on.
+
 Then assign visual roles:
 
-- **Overall path:** show where inputs originate, what important transformation occurs and where outputs go. Make the method or system boundary legible when it matters.
+- **Overall path:** show where inputs originate, what important transformation occurs and where outputs go. A shared example or aligned states can carry this path directly. Put a short operation label where the example changes. Enclose a group of operations in a visible scope when they work together as one mechanism or stage. Put any distinct subgroup inside its parent and show where the boundary is crossed.
 - **Core mechanism:** give the operation that changes objects or results sufficient space and emphasis. Show before/after correspondence, selected/replaced objects or interactions when useful.
 - **Supporting processes:** arrange proposal, search, configuration and evaluation according to their actual roles. Promote a supporting process to the main path when that is the contribution or the user's focus.
-- **Detailed definitions:** keep variables, operators and equations that help decode the figure. Leave complete constraints, derivations and implementation explanations in the paper.
+- **Detailed definitions:** use short labels, variables and operator marks for local reading. Include a standalone equation in a method overview when it conveys a key relationship that the geometry or labels cannot convey. Loss expansions, derivations and full transition rules belong in the paper. An explicitly requested mathematical detail can use a linked inset.
 
-Allocate space by the scientific message and the user's question, rather than by section count, algorithm length or equal-sized panels. Importance should be visible before the reader studies every label.
+Allocate area and visual emphasis by the scientific message and the user's question. Use adjacency, shared position or a visible boundary to show what belongs together. Let local formulas and labels enter the reading order beside the relevant operation.
 
 ## Compose from scientific relationships
 
 Establish the objects and necessary connections before assigning positions. For each module, determine its inputs and outputs. Distinguish data flow, conditioning, feedback and state transfer when multiple relations occur. Confirm the boundaries between training, offline design and runtime. Represent sharing, freezing, iteration, filtering and constraints only when supported by the paper.
 
-Choose an organization that serves the message:
-
-- A contribution concentrated in one operation may use that mechanism as the visual center, with inputs, outputs and supporting conditions nearby.
-- A contribution expressed through changing tokens, sets, graphs or states may use their evolution as the main path, placing operation labels between states.
-- A figure about stages may separate training/search and inference while sharing objects only where sharing is real.
-- A comparison may align corresponding objects and operations so common structure and local differences are easy to see.
-
-These are reasoning options, not mandatory templates. Once the message and emphasis are clear, proceed to drawing without inventing an approval gate. Retain a concise rationale and important source pointers in the build directory; do not require long reports, page-by-page logs or scoring forms for ordinary work.
+Use the shared [composition guide](COMPOSITION.md) to choose a visual structure for the scientific relationship. Tie the geometry to the key operation and decide how the overview, detail and supporting processes fit together. Keep a concise rationale and important source pointers in the build directory. Proceed once the message and emphasis are clear.
 
 ## Make the mechanism visible
 
-Use recognizable object structure with short labels: sequences for tokens, grids for matrices, and object relationships for exchange, merging or selection. Boxes can represent necessary modules; local outlines or regions can represent ownership or scope. Use frames and title bars when they help grouping. Identification icons must come from existing external icon libraries with recorded provenance and license notices; never draw, trace, code-create or generate substitute icons. See [icon sourcing](ICONS.md). Modules need not become identical cards merely because they belong to one framework.
+Use recognizable object structure with short labels: sequences for tokens, grids for matrices, and object relationships for exchange, merging or selection. For a novel or abstract operation, show what it changes using the affected objects or an aligned input and output. Place short operation names beside the change. Use visible nested boundaries for a joint mechanism and its distinct internal groups. Mix line styles and object shapes by their role, using the [composition guide](COMPOSITION.md). Identification icons must come from existing external icon libraries with recorded provenance and license notices; never draw, trace, code-create or generate substitute icons. See [icon sourcing](ICONS.md).
 
-A concrete example can connect input, processing and output, but it must agree with the method. Schematic counts must not impersonate real dimensions or settings. Do not generalize a budget, threshold or constant from one experiment to all configurations. Do not add components, losses, dependencies or results to make the image look richer.
+Choose a typical input, query, case or data object when a worked example helps explain the contribution. Sketch its starting state, the key change, and the resulting state before placing the surrounding modules. Keep the same objects recognizable across views so readers can follow what is selected, moved, compared or updated. Use the example at the scale its role warrants, from a small detail to the main composition.
 
-## Apply style only when requested
+Use an observed sample when its identity and measurements matter. For a schematic example, use values and transitions that agree with the method and identify illustrative quantities in the caption when needed. Tie the example to the actual dependencies, model outputs and parameters shown in the paper.
 
-Translate a user's visual instructions into composition, object form, hierarchy, connections, colors and typography. Preserve an established figure system within the same paper when appropriate. **Do not open the style index or style-prompt documents, and do not automatically choose a named preset, unless the user explicitly specifies a style or asks to use the style library.** Without such a request, design directly from the current scientific message and task context.
+## Respect the requested visual system
 
-Changing color codes or font families does not replace the work of establishing hierarchy. Any chosen expression must preserve mathematical typesetting, readability at the actual insertion size and editable vector delivery under the main skill.
+Apply the user's composition, color and typography requirements and the paper's established figure system. The main skill handles named style requests. The [composition guide](COMPOSITION.md) applies to open-ended drawing tasks and can also help adapt a requested style to the method.
 
 ## Review the result against its purpose
 
-First inspect the whole figure: can the reader quickly find the inputs, outputs, method boundary and core operation? Does visual emphasis match the intended message? If all parts compete equally, or the reader must read every equation to find the main path, reorganize and reduce nonessential detail.
+At insertion size, follow the first-glance, next-step and close-reading checks in the [composition guide](COMPOSITION.md#用最终尺寸检验读图顺序). Check that the eye reaches the core object, change or comparison first and can then find its supporting process. If the support reads as a set of equally prominent boxes, reorganize the positions and relative space so its relationship to the core mechanism is visible.
 
 Then inspect the mechanism: are important object changes visible, and do necessary dependencies hold? Has a supporting process displaced the main idea, or been compressed enough to misrepresent the method? Resolve unclear relationships in the geometry and connections rather than by adding explanatory paragraphs in empty space.
 
