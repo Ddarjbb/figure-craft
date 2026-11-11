@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.3 — 2026-11-11
+
+- Compose method figures around the scientific mechanism, with distinct boundaries for modules, nested processes, and visual objects.
+- Plan at the paper insertion size and let representative objects or state changes carry the method steps. Check the exported PDF dimensions and final-color legibility.
+- Assign distinct font families to headings, explanatory labels, and literal examples where those roles occur. Try CMU Sans Serif Bold for English headings and monospaced type for code, tokens, and example values.
+- Add a README gallery with six FigureCraft example figures.
+
 ## 0.3.2 — 2026-10-27
 
 - Require semantic icons to come from existing external icon libraries; prohibit hand-drawn, code-created, traced, or AI-generated substitute icons.
